@@ -130,6 +130,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{64D364366F73B2F2}" {
+   Id "DRG-Roles-RHS_Medic"
+   Target_en_us "Medic"
+   Target_ru_ru "Санитарный инструктор"
+   Modified 1691577313
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CED9378F6B6B92}" {
    Id "DRG-Roles_RHS_CrewCommander"
    Target_en_us "Crew-commander"
