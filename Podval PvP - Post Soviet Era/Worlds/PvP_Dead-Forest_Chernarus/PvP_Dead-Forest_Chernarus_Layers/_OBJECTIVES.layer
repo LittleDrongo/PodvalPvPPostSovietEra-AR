@@ -1,56 +1,28 @@
 $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
- USSR_1 {
+ AFRF_1 {
   coords 1609.265 14.084 1574.584
-  m_sTitle "КШМ уничтожен"
-  m_iScore 25
-  m_sFactionKey "USSR"
- }
- US_1 {
-  coords 8494.292 257.691 2403.939
-  m_sTitle "КШМ уцелела"
-  m_iScore 25
-  m_sFactionKey "US"
- }
- USSR_2 {
-  coords 1609.265 14.084 1574.584
-  m_sTitle "Флаг #1 захвачен"
-  m_iOrder 1
-  m_iScore 25
-  m_sFactionKey "USSR"
- }
- US_2 {
-  coords 8494.292 257.691 2403.939
   m_sTitle "Флаг #1 удержан"
-  m_iOrder 1
-  m_iScore 25
-  m_sFactionKey "US"
+  m_iScore 50
+  m_sFactionKey "RHS_AFRF"
  }
- US_3 {
+ IGF_1 {
   coords 8494.292 257.691 2403.939
+  m_sTitle "Флаг #1 захвачен"
+  m_iScore 50
+  m_sFactionKey "Drg_IGF"
+ }
+ AFRF_2 {
+  coords 1609.265 14.084 1574.584
   m_sTitle "Флаг #2 удержан"
-  m_iOrder 2
-  m_iScore 25
-  m_sFactionKey "US"
+  m_iOrder 1
+  m_iScore 50
+  m_sFactionKey "RHS_AFRF"
  }
- USSR_3 {
-  coords 1609.265 14.084 1574.584
-  m_sTitle "Флаг #2 захвачен"
-  m_iOrder 2
-  m_iScore 25
-  m_sFactionKey "USSR"
- }
- US_4 {
+ IGF_2 {
   coords 8494.292 257.691 2403.939
-  m_sTitle "КС жив"
-  m_iOrder 3
-  m_iScore 10
-  m_sFactionKey "US"
- }
- USSR_4 {
-  coords 1609.265 14.084 1574.584
-  m_sTitle "КС жив"
-  m_iOrder 3
-  m_iScore 10
-  m_sFactionKey "USSR"
+  m_sTitle "Флаг #2 захвачен"
+  m_iOrder 1
+  m_iScore 50
+  m_sFactionKey "Drg_IGF"
  }
 }
