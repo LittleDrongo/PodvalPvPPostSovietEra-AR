@@ -24,6 +24,20 @@ $grp StaticModelEntity : "{28AD56269AB347EE}PrefabsEditable/Auto/Props/Military/
   angleY 5.552
  }
 }
+$grp GenericEntity : "{795552B887CD50E7}Prefabs/Props/Industrial/ConcretePanel_01_stack.et" {
+ {
+  coords 673.879 299.04 6598.123
+  angleX -8.872
+  angleY 0.28
+  angleZ -1.812
+ }
+ {
+  coords 673.906 298.73 6594.966
+  angleX -1.483
+  angleY -91.96
+  angleZ 8.932
+ }
+}
 $grp StaticModelEntity : "{9C7477A3F066F74F}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_forest_straight.et" {
  {
   coords 654.719 296.762 6605.433

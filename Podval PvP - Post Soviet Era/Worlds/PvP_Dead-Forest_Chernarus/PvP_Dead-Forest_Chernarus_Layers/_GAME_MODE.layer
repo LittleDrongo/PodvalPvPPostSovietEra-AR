@@ -30,6 +30,34 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
     SCR_Faction "{56DEAC40D132400B}" {
      m_bIsPlayable 1
     }
+    SCR_Faction "{607AA5C7A94496DA}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{5978B9CE6585BBE8}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{5CC8DE37E1FF0F7A}" {
+    }
+    SCR_Faction "{623962205CE2B89C}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{5D9F7285A1D004FE}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{604D1A678B852591}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{604D1A678A26714B}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{60753DCAAD475575}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{60753DCAAC7BCED5}" {
+     m_bIsPlayable 1
+    }
+    SCR_Faction "{60753DCAAB0E7DBB}" {
+    }
    }
   }
  }
