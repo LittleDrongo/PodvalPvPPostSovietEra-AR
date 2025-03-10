@@ -74,6 +74,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{64D476D34F74E430}" {
+   Id "DRG-Faction_IGF"
+   Target_en_us "IGF"
+   Target_ru_ru "НБФ"
+   Modified 1691659230
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60477B7AA35CC11C}" {
    Id "DRG-GUNNER"
    Target_en_us "Crew-Gunner"
@@ -246,6 +254,14 @@ StringTable {
    Target_en_us "Change flag"
    Target_ru_ru "Поменять флаг"
    Modified 1646448211
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{64D476D3BB2000B9}" {
+   Id "DRG_IGF"
+   Target_en_us "IGF"
+   Target_ru_ru "НВФ"
+   Modified 1691659207
    Author "hasta"
    LastChanged "hasta"
   }
