@@ -128,10 +128,10 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iCompanyCallsign 3
    }
   }
-  coords 3810.532 311.104 8875.343
-  angleX -0.385
-  angleY -64.541
-  angleZ 0.808
+  coords 3810.532 311.23 8875.349
+  angleX 0.896
+  angleY -64.562
+  angleZ -0.944
   m_aUnitPrefabSlots {
    "{2B285C603DC34736}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MG.et" "{AEFC149A3ED71F05}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGAB.et" "{7E232C91920E7FA7}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_MGA.et"
   }
