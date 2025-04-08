@@ -1,3 +1,21 @@
+GameEntity : "{12F7C4C3DE68F7D8}Prefabs/Characters/HeadGear/Hat_M88_01/Hat_Dubok_M88_CDF.et" {
+ coords 120.844 1 144.994
+}
+GameEntity : "{2D16A8A6235F6DF1}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_Dubok_PASGT_01_CDF.et" {
+ coords 121.28 1 144.92
+}
+GameEntity : "{386B61AC286BC438}Prefabs/Characters/Uniforms/Pants_Pilot_USSR_01/Pants_Dubok_CDF_01.et" {
+ coords 122.967 1 144.572
+}
+GenericEntity : "{4CBDC206FEF9897C}Prefabs/Characters/Vests/Vest_6B3/Vest_6B3.et" {
+ coords 122.592 1 146.536
+}
+GameEntity : "{4D8F3F77D46DB43B}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_Dubok_PASGT_Googles_CDF.et" {
+ coords 120.222 1 147.779
+}
+GameEntity : "{762C6F84B012E7F2}Prefabs/Characters/Uniforms/Jacket_Pilot_USSR_01/Jacket_Dubok_CDF_01.et" {
+ coords 122.403 1 144.55
+}
 $grp SCR_AIGroup : "{A13A0628A2760876}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_MSV.et" {
  igf_squad {
   components {
@@ -5,7 +23,7 @@ $grp SCR_AIGroup : "{A13A0628A2760876}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_MS
     DefaultFormation " "
    }
   }
-  coords 60.26 1 244.976
+  coords 124.165 1 143.83
   angleY 0.04
   m_faction "Drg_IGF"
   m_aUnitPrefabSlots {
