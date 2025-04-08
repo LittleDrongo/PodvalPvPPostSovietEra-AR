@@ -8,6 +8,18 @@ Vehicle Ural4320_ammo1 : "{3336BE330C4F355B}Prefabs/Vehicles/Wheeled/Ural4320/Ur
  angleY 91.941
  m_sAttachmentGroupName "RF_5_0_DEF"
 }
+$grp Vehicle : "{3C6B3ED0C3AC30D5}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_gunship_HE.et" {
+ Mi8MT_armed_gunship_HE1 {
+  coords 4758.135 339.129 9720.604
+  angleY -28.006
+  m_sAttachmentGroupName "RF_4_1"
+ }
+ Mi8MT_armed_gunship_HE2 {
+  coords 4784.753 339.125 9675.217
+  angleY -28.006
+  m_sAttachmentGroupName "RF_4_0"
+ }
+}
 Vehicle Ural1 : "{4597626AF36C0858}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320.et" {
  coords 4699.358 339.125 9568.021
 }
@@ -164,17 +176,45 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   m_bDeleteIfNoPlayer 0
   m_sCustomNameSet "#DRG_Sqd_MTO"
  }
-}
-$grp Vehicle : "{98225ED6D5F724D7}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_gunship.et" {
- Mi8MT_armed_gunship1 {
-  coords 4788.614 339.125 9668.604
-  angleY -30.671
-  m_sAttachmentGroupName "RF_4_0"
+ RF_1_2_DEF {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation ""
+   }
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 4042.62 369.969 11636.946
+  angleY -160.918
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{083386CC8925021B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGAB.et" "{0EF5A188D1E2C315}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGA.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+  m_sCustomNameSet "#DRG-Sq-MachineGunnerSquad"
  }
- Mi8MT_armed_gunship2 {
-  coords 4758.916 339.129 9718.676
-  angleY -30.671
-  m_sAttachmentGroupName "RF_4_1"
+ RF_2_2_DEF {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation ""
+   }
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 3975.461 369.395 11719.883
+  angleY -123.421
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{D70567293EB41064}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MG.et" "{083386CC8925021B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGAB.et" "{0EF5A188D1E2C315}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_MGA.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+  m_sCustomNameSet "#DRG-Sq-MachineGunnerSquad"
  }
 }
 Vehicle Ural4320_repair1 : "{A5647958579A4149}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_repair.et" {
@@ -204,7 +244,13 @@ $grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
   m_sAttachmentGroupName "RF_1_1_DEF"
  }
 }
-GenericEntity : "{C63BFEEA9DE1CF26}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_05_Campaign.et" {
- coords 4710.506 339.125 9586.38
- angleY -88.08
+$grp GenericEntity : "{C63BFEEA9DE1CF26}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_05_Campaign.et" {
+ {
+  coords 4710.506 339.125 9586.38
+  angleY -88.08
+ }
+ {
+  coords 4710.077 339.125 9576.745
+  angleY -88.08
+ }
 }

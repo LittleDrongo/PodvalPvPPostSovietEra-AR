@@ -17,9 +17,9 @@ SCR_ChimeraCharacter : "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{623876773A154FCC}" {
-     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Veshmeshok.et"
-     PrefabsToSpawn {
-      "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{E5912E45754CD421}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Tracer.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{77EAE5E07DC4678A}Prefabs/Weapons/Grenades/Smoke_RDG2.et" "{0F65F06AAA7FCD8B}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_PASGT_01_CDF.et"
+     TargetStorage "Back/Backpack_Veshmeshok.et"
+     PrefabsToSpawn + {
+      "{2D16A8A6235F6DF1}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_Dubok_PASGT_01_CDF.et"
      }
     }
    }

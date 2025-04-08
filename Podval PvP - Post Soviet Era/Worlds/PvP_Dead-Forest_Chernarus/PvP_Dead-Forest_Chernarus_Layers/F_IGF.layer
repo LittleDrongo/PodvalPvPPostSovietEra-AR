@@ -140,4 +140,21 @@ $grp SCR_AIGroup : "{A13A0628A2760876}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_MS
   }
   m_bDeleteWhenEmpty 0
  }
+ IGF_4_0_0 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
+   PS_GroupCallsignAssigner "{6454F7D129837B5A}" {
+    m_iCompanyCallsign 4
+   }
+  }
+  coords 218.725 313.844 7772.95
+  angleY 80.772
+  m_faction "Drg_IGF"
+  m_aUnitPrefabSlots {
+   "{00BAD80E479CF497}Prefabs/Characters/Factions/INDFOR/IG/Rand/drg_Character_IG_SL_Rand.et" "{228A0AC8AFF5556D}Prefabs/Characters/Factions/INDFOR/IG/Rand/drg_Character_IG_MG_Rand.et" "{B7FAA035CFD28AAE}Prefabs/Characters/Factions/INDFOR/IG/Rand/drg_Character_IG_Rifleman_Rand.et" "{B7FAA035CFD28AAE}Prefabs/Characters/Factions/INDFOR/IG/Rand/drg_Character_IG_Rifleman_Rand.et" "{94E77D36CB435D3C}Prefabs/Characters/Factions/INDFOR/IG/Rand/drg_Character_IG_SeniorRifleman_Rand.et" "{228A0AC8AFF5556D}Prefabs/Characters/Factions/INDFOR/IG/Rand/drg_Character_IG_MG_Rand.et" "{B7FAA035CFD28AAE}Prefabs/Characters/Factions/INDFOR/IG/Rand/drg_Character_IG_Rifleman_Rand.et" "{B7FAA035CFD28AAE}Prefabs/Characters/Factions/INDFOR/IG/Rand/drg_Character_IG_Rifleman_Rand.et"
+  }
+  m_bDeleteWhenEmpty 0
+ }
 }

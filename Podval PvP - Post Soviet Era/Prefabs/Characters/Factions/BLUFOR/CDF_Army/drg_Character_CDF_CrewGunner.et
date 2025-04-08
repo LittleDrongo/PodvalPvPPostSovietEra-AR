@@ -9,7 +9,7 @@ SCR_ChimeraCharacter : "{EAA4CE2A03A6D9ED}Prefabs/Characters/Factions/BLUFOR/CDF
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{623876773A154FCC}" {
-     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Veshmeshok.et"
+     TargetStorage "Back/Backpack_Veshmeshok.et"
     }
    }
   }
