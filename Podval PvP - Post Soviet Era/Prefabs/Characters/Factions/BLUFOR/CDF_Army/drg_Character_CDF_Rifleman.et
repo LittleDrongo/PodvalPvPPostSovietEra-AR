@@ -16,7 +16,7 @@ SCR_ChimeraCharacter : "{29F50BE3FC6A4882}Prefabs/Characters/Factions/BLUFOR/CDF
      Prefab "{2D16A8A6235F6DF1}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_Dubok_PASGT_01_CDF.et"
     }
     LoadoutSlotInfo ArmoredVest {
-     Prefab "{4CBDC206FEF9897C}Prefabs/Characters/Vests/Vest_6B3/Vest_6B3.et"
+     Prefab "{57A900636700FA35}Prefabs/Characters/Vests/Vest_6B3/Vest_6B3_Dubok_CDF.et"
     }
     LoadoutSlotInfo Back {
      Prefab "{3DE0155EC9767B98}Prefabs/Items/Equipment/Backpacks/Backpack_Veshmeshok.et"

@@ -1,2067 +1,2067 @@
 $grp GenericEntity : "{6762F7C5C3A2419B}Prefabs/Props/Military/Sandbags/Sandbag_01_short_plastic.et" {
  {
+  Flags 525315
   coords 3545.331 0.646 7097.836
   angleX -3.598
   angleY 63.451
   angleZ -1.2
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3546.134 0.671 7096.249
   angleX -3.709
   angleY 57.088
   angleZ -0.794
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3547.088 0.654 7094.785
   angleX -3.224
   angleY 56.994
   angleZ -0.038
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3547.854 0.65 7093.61
   angleX -3.709
   angleY 57.088
   angleZ -0.794
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3548.958 0.669 7092.347
   angleX -3.787
   angleY 41.972
   angleZ 0.2
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3553.321 0.653 7085.323
   angleX -3.793
   angleY 44.997
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3550.705 0.653 7089.364
   angleX -3.662
   angleY 60.107
   angleZ -0.988
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3551.583 0.671 7087.855
   angleX -3.218
   angleY 60.011
   angleZ -0.208
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3552.288 0.652 7086.637
   angleX -3.218
   angleY 60.011
   angleZ -0.208
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3549.986 0.658 7090.996
   angleX -3.175
   angleY 66.368
   angleZ -0.563
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3557.934 0.643 7079.718
   angleX -2.618
   angleY 20.553
   angleZ 1.884
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3554.51 0.656 7082.902
   angleX -3.218
   angleY 52.661
   angleZ 0.205
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3555.572 0.643 7081.512
   angleX -3.218
   angleY 52.661
   angleZ 0.205
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3556.612 0.643 7080.425
   angleX -3.073
   angleY 38.687
   angleZ 0.976
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3553.591 0.668 7084.43
   angleX -3.678
   angleY 59.118
   angleZ -0.924
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3559.43 0.643 7079.151
   angleX -2.618
   angleY 20.553
   angleZ 1.884
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3561.038 0.643 7078.523
   angleX -2.618
   angleY 20.553
   angleZ 1.884
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3562.315 0.636 7077.657
   angleX -3.789
   angleY 44.835
   angleZ 1.274
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3563.535 0.617 7076.375
   angleX -3.95
   angleY 54.604
   angleZ 0.613
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3564.379 0.611 7074.986
   angleX -2.796
   angleY 62.901
   angleZ 0.426
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3565.354 0.615 7073.7
   angleX -3.176
   angleY 46.376
   angleZ 0.556
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3566.119 0.635 7072.231
   angleX -3.892
   angleY 76.601
   angleZ -0.91
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3566.354 0.621 7070.682
   angleX -2.818
   angleY 76.522
   angleZ -0.244
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3567.048 0.61 7069.141
   angleX -2.787
   angleY 61.753
   angleZ 0.482
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3568.015 0.609 7067.821
   angleX -3.849
   angleY 47.747
   angleZ 1.08
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3569.058 0.609 7066.538
   angleX -3.995
   angleY 65.295
   angleZ -0.13
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3569.833 0.594 7065.137
   angleX -3.601
   angleY 63.632
   angleZ 0.787
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3570.788 0.582 7063.749
   angleX -3.938
   angleY 53.512
   angleZ 0.688
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3571.885 0.603 7062.434
   angleX -3.938
   angleY 53.512
   angleZ 0.688
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3572.697 0.598 7061.333
   angleX -3.406
   angleY 53.442
   angleZ 1.411
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3573.927 0.582 7060.261
   angleX -2.243
   angleY 33.997
   angleZ 1.724
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3575.448 0.602 7059.619
   angleX -1.773
   angleY 20.353
   angleZ 2.205
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3576.792 0.611 7059.12
   angleX -1.62
   angleY 16.479
   angleZ 2.319
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3578.281 0.61 7058.557
   angleX -1.62
   angleY 16.479
   angleZ 2.319
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3579.571 0.61 7057.898
   angleX -2.322
   angleY 36.724
   angleZ 1.616
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3580.819 0.596 7056.57
   angleX -3.679
   angleY 72.415
   angleZ 0.228
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3581.31 0.604 7054.966
   angleX -3.996
   angleY 65.063
   angleZ -0.113
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3582.223 0.618 7053.541
   angleX -3.21
   angleY 50.945
   angleZ 0.301
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3583.201 0.637 7052.325
   angleX -3.21
   angleY 50.945
   angleZ 0.301
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3583.924 0.657 7051.14
   angleX -3.379
   angleY 72.041
   angleZ -1.723
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3584.687 0.667 7049.563
   angleX -3.204
   angleY 62.801
   angleZ -0.364
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3585.593 0.65 7048.213
   angleX -4.402
   angleY 43.325
   angleZ 0.76
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3586.563 0.653 7047.049
   angleX -3.673
   angleY 59.475
   angleZ -0.947
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3587.491 0.66 7045.594
   angleX -3.212
   angleY 51.255
   angleZ 0.284
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3588.584 0.636 7044.369
   angleX -3.906
   angleY 51.169
   angleZ 0.849
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3589.582 0.601 7043.128
   angleX -3.345
   angleY 51.083
   angleZ 1.55
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3590.458 0.577 7042.029
   angleX -3.503
   angleY 57.78
   angleZ 1.15
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3591.431 0.578 7040.835
   angleX -3.157
   angleY 44.856
   angleZ 1.903
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3592.448 0.584 7039.822
   angleX -4.423
   angleY 45.006
   angleZ 0.631
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3593.239 0.62 7038.57
   angleX -4.403
   angleY 62.863
   angleZ -0.754
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3594.031 0.641 7037.278
   angleX -4.467
   angleY 53.476
   angleZ -0.027
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3594.771 0.641 7036.365
   angleX -4.467
   angleY 53.476
   angleZ -0.027
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3595.712 0.641 7034.953
   angleX -4.467
   angleY 53.358
   angleZ -0.018
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3596.926 0.607 7033.885
   angleX -4.71
   angleY 25.254
   angleZ 3.695
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3598.543 0.576 7033.458
   angleX -2.449
   angleY 8.747
   angleZ 4.141
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3600.089 0.579 7033.213
   angleX -2.071
   angleY 4.601
   angleZ 3.42
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3601.805 0.593 7032.915
   angleX -3.073
   angleY 5.134
   angleZ 4.204
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3603.473 0.602 7032.816
   angleX -2.105
   angleY 5.167
   angleZ 3.399
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3605.083 0.607 7032.969
   angleX -2.052
   angleY -7.806
   angleZ 4.785
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3606.769 0.621 7033.012
   angleX -3.428
   angleY 13.182
   angleZ 2.867
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3608.332 0.636 7032.635
   angleX -4.294
   angleY 13.161
   angleZ 2.662
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3609.988 0.665 7032.42
   angleX -4.057
   angleY 8.371
   angleZ 3.011
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3611.442 0.67 7032.196
   angleX -4.057
   angleY 8.371
   angleZ 3.011
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3613.038 0.669 7031.837
   angleX -4.051
   angleY 28.165
   angleZ 1.884
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3614.463 0.638 7031.062
   angleX -4.877
   angleY 27.923
   angleZ 3.471
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3615.975 0.575 7030.221
   angleX -5.855
   angleY 36.318
   angleZ 3.437
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3617.369 0.562 7029.248
   angleX -6.57
   angleY 36.367
   angleZ 2.901
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3623.438 0.605 7024.703
   angleX -6.414
   angleY 52.474
   angleZ 0.429
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3624.473 0.614 7023.429
   angleX -5.707
   angleY 54.132
   angleZ -0.278
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3625.619 0.632 7022.343
   angleX -5.568
   angleY 38.358
   angleZ 1.281
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3626.695 0.651 7021.265
   angleX -6.247
   angleY 52.766
   angleZ -0.85
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3627.813 0.666 7020.302
   angleX -6.224
   angleY 35.802
   angleZ 1.006
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3628.975 0.665 7019.206
   angleX -6.429
   angleY 76.795
   angleZ -3.971
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3629.228 0.672 7017.695
   angleX -4.708
   angleY 84.343
   angleZ -2.223
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3629.51 0.612 7016.049
   angleX -3.882
   angleY 77.255
   angleZ -0.954
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3629.903 0.581 7014.354
   angleX -4.554
   angleY 77.099
   angleZ 0.126
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3630.271 0.577 7012.759
   angleX -3.685
   angleY 77.129
   angleZ -0.075
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3630.635 0.589 7011.184
   angleX -2.815
   angleY 77.153
   angleZ -0.275
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3631.041 0.614 7009.464
   angleX -3.56
   angleY 65.203
   angleZ -1.309
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3634.311 0.695 6999.688
   angleX -1.768
   angleY 56.163
   angleZ 5.964
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3635.467 0.684 6998.133
   angleX -4.45
   angleY 58.203
   angleZ -0.395
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3636.423 0.687 6996.668
   angleX -4.282
   angleY 58.724
   angleZ 1.554
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3637.19 0.686 6995.494
   angleX -4.236
   angleY 57.061
   angleZ 1.678
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3638.293 0.686 6994.229
   angleX -3.654
   angleY 41.972
   angleZ 2.722
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3642.656 0.686 6987.207
   angleX -3.797
   angleY 45.108
   angleZ 2.518
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3640.039 0.684 6991.247
   angleX -3.991
   angleY 60.251
   angleZ 0.222
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3640.917 0.685 6989.739
   angleX -3.548
   angleY 60.2
   angleZ 1.001
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3641.623 0.686 6988.519
   angleX -3.55
   angleY 60.326
   angleZ 0.993
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3639.321 0.686 6992.878
   angleX -4.45
   angleY 66.339
   angleZ 0.973
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3647.268 0.686 6981.603
   angleX -2.73
   angleY 20.644
   angleZ 4.695
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3643.845 0.686 6984.785
   angleX -4.099
   angleY 52.792
   angleZ 1.988
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3644.906 0.687 6983.396
   angleX -4.1
   angleY 52.81
   angleZ 1.987
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3645.946 0.685 6982.308
   angleX -3.503
   angleY 38.89
   angleZ 2.914
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3642.925 0.687 6986.313
   angleX -4.298
   angleY 59.297
   angleZ 1.511
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3648.765 0.685 6981.036
   angleX -2.409
   angleY 20.558
   angleZ 3.868
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3650.373 0.686 6980.407
   angleX -2.722
   angleY 20.55
   angleZ 4.7
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3651.652 0.686 6979.54
   angleX -4.413
   angleY 44.835
   angleZ 3.165
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3652.871 0.686 6978.259
   angleX -4.885
   angleY 54.591
   angleZ 2.373
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3653.714 0.68 6976.87
   angleX -6.791
   angleY 62.829
   angleZ -1.518
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3654.69 0.68 6975.582
   angleX -6.303
   angleY 46.262
   angleZ -0.139
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3655.454 0.68 6974.117
   angleX -5.361
   angleY 76.853
   angleZ -3.322
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3655.69 0.68 6972.564
   angleX -5.355
   angleY 76.956
   angleZ -3.332
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3656.383 0.68 6971.023
   angleX -6.814
   angleY 61.917
   angleZ -1.41
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3657.351 0.679 6969.705
   angleX -7.546
   angleY 47.436
   angleZ -0.32
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3658.393 0.678 6968.421
   angleX -7.886
   angleY 65.34
   angleZ -2.244
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3659.169 0.681 6967.019
   angleX -7.167
   angleY 63.763
   angleZ -0.438
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3660.123 0.68 6965.633
   angleX -9.762
   angleY 53.452
   angleZ 1.709
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3661.218 0.68 6964.316
   angleX -9.759
   angleY 53.335
   angleZ 1.729
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3662.031 0.681 6963.216
   angleX -9.056
   angleY 53.151
   angleZ 1.234
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3663.261 0.68 6962.144
   angleX -8.112
   angleY 33.324
   angleZ 4.223
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3664.783 0.674 6961.501
   angleX -10.435
   angleY 19.189
   angleZ 5.692
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3666.128 0.674 6961.002
   angleX -10.268
   angleY 15.369
   angleZ 7.204
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3667.616 0.676 6960.44
   angleX -9.231
   angleY 15.654
   angleZ 6.572
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3668.905 0.679 6959.782
   angleX -9.031
   angleY 36.431
   angleZ 3.249
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3670.154 0.679 6958.455
   angleX -9.203
   angleY 72.838
   angleZ -2.717
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3670.645 0.678 6956.85
   angleX -11.411
   angleY 65.346
   angleZ -1.556
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3671.558 0.679 6955.424
   angleX -10.887
   angleY 50.637
   angleZ 2.054
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3672.536 0.679 6954.208
   angleX -10.889
   angleY 50.681
   angleZ 2.046
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3673.258 0.678 6953.022
   angleX -10.874
   angleY 72.522
   angleZ -2.126
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3674.021 0.679 6951.445
   angleX -12.601
   angleY 62.936
   angleZ 0.5
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3674.927 0.679 6950.099
   angleX -11.687
   angleY 42.842
   angleZ 4.769
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3675.897 0.679 6948.934
   angleX -12.104
   angleY 59.155
   angleZ 2.076
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3676.828 0.683 6947.479
   angleX -7.896
   angleY 50.901
   angleZ 2.966
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3677.919 0.683 6946.252
   angleX -7.893
   angleY 50.835
   angleZ 2.975
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3678.916 0.685 6945.013
   angleX -7.321
   angleY 50.583
   angleZ 3.697
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3679.793 0.685 6943.915
   angleX -7.703
   angleY 57.349
   angleZ 2.812
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3680.767 0.685 6942.719
   angleX -6.883
   angleY 44.393
   angleZ 4.463
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3681.784 0.685 6941.707
   angleX -6.281
   angleY 44.731
   angleZ 5.05
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3682.574 0.686 6940.455
   angleX -6.746
   angleY 62.756
   angleZ 2.464
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3683.366 0.685 6939.162
   angleX -6.781
   angleY 53.304
   angleZ 2.822
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3684.108 0.685 6938.248
   angleX -3.22
   angleY 53.479
   angleZ 0.159
-  Flags 525315
  }
  {
-  coords 3685.048 0.685 6936.836
+  Flags 525315
+  coords 3685.048 0.685 6936.835
   angleX -2.688
   angleY 53.379
   angleZ 0.882
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3686.259 0.684 6935.768
   angleX -2.765
   angleY 25.326
   angleZ 1.659
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3687.88 0.685 6935.341
   angleX -2.178
   angleY 8.758
   angleZ 2.379
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3689.424 0.684 6935.099
   angleX -2
   angleY 4.604
   angleZ 2.53
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3691.141 0.684 6934.798
   angleX -2.025
   angleY 5.18
   angleZ 2.51
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3692.809 0.685 6934.702
   angleX -2.024
   angleY 5.17
   angleZ 2.51
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3694.417 0.684 6934.854
   angleX -1.411
   angleY -7.773
   angleZ 2.9
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3696.104 0.685 6934.896
   angleX -2.56
   angleY 13.213
   angleZ 3.071
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3697.667 0.685 6934.519
   angleX -1.489
   angleY 13.299
   angleZ 2.406
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3699.323 0.686 6934.303
   angleX -1.282
   angleY 8.502
   angleZ 2.522
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3700.778 0.684 6934.081
   angleX -2.165
   angleY 8.452
   angleZ 2.39
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3702.373 0.685 6933.721
   angleX -2.845
   angleY 28.19
   angleZ 1.519
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3703.799 0.684 6932.944
   angleX -2.839
   angleY 28.003
   angleZ 1.528
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3705.31 0.685 6932.103
   angleX -3.56
   angleY 36.367
   angleZ 1.818
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3706.704 0.685 6931.132
   angleX -3.033
   angleY 36.471
   angleZ 1.094
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3712.773 0.684 6926.586
   angleX -3.217
   angleY 52.511
   angleZ 0.213
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3713.809 0.684 6925.313
   angleX -3.222
   angleY 54.133
   angleZ 0.122
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3714.954 0.685 6924.225
   angleX -3.623
   angleY 38.403
   angleZ 1.69
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3716.029 0.683 6923.148
   angleX -4.467
   angleY 52.767
   angleZ 0.028
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3717.149 0.683 6922.185
   angleX -4.266
   angleY 35.847
   angleZ 1.326
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3718.31 0.684 6921.089
   angleX -4.094
   angleY 76.76
   angleZ -1.789
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3718.563 0.683 6919.58
   angleX -3.824
   angleY 84.309
   angleZ -2.311
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3718.846 0.685 6917.934
   angleX -3.012
   angleY 77.24
   angleZ -1.151
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3719.237 0.683 6916.238
   angleX -4.084
   angleY 77.085
   angleZ -1.812
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3719.608 0.683 6914.643
   angleX -4.082
   angleY 77.137
   angleZ -1.816
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3719.968 0.683 6913.066
   angleX -4.08
   angleY 77.191
   angleZ -1.82
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3720.379 0 6911.436
   angleX -3.186
   angleY 65.206
   angleZ -0.498
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3657.152 0.926 6903.618
   angleX -0.386
   angleY 138.183
   angleZ -4.451
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3659.762 0.926 6905.204
   angleX 0.777
   angleY 153.129
   angleZ -4.399
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3658.514 0.926 6904.57
   angleX 0.777
   angleY 153.129
   angleZ -4.399
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3651.339 0.926 6899.342
   angleX -2.191
   angleY 113.814
   angleZ -3.894
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3654.684 0.925 6902.571
   angleX 0.208
   angleY 145.788
   angleZ -4.462
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3653.25 0.924 6901.591
   angleX 0.709
   angleY 145.759
   angleZ -3.726
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3652.111 0.926 6900.617
   angleX -0.279
   angleY 131.842
   angleZ -5.043
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3656.25 0.926 6903.398
   angleX 0.708
   angleY 152.235
   angleZ -4.411
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3650.698 0.925 6897.885
   angleX -2.191
   angleY 113.809
   angleZ -3.894
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3649.987 0.925 6896.32
   angleX -2.191
   angleY 113.816
   angleZ -3.894
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3649.059 0.927 6895.097
   angleX 0.258
   angleY 137.919
   angleZ -5.045
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3647.723 0.924 6893.956
   angleX 0.831
   angleY 147.645
   angleZ -3.701
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3646.298 0.926 6893.194
   angleX 1.808
   angleY 155.918
   angleZ -4.718
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3644.97 0.925 6892.295
   angleX -0.277
   angleY 139.581
   angleZ -4.459
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3643.471 0.926 6891.614
   angleX 2.87
   angleY 169.559
   angleZ -4.158
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3641.92 0.927 6891.468
   angleX 2.705
   angleY 169.525
   angleZ -5.034
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3640.352 0.926 6890.863
   angleX 0.91
   angleY 154.867
   angleZ -4.374
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3638.987 0.927 6889.975
   angleX -0.045
   angleY 140.893
   angleZ -5.713
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3637.66 0.926 6889.006
   angleX 2.003
   angleY 158.302
   angleZ -4.638
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3636.226 0.926 6888.315
   angleX 1.864
   angleY 156.604
   angleZ -4.695
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3634.795 0.927 6887.441
   angleX 0.528
   angleY 146.629
   angleZ -5.689
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3633.428 0.926 6886.423
   angleX 0.527
   angleY 146.62
   angleZ -5.689
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3632.292 0.927 6885.675
   angleX 0.521
   angleY 146.551
   angleZ -5.69
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3631.163 0.927 6884.509
   angleX -1.399
   angleY 127.215
   angleZ -5.54
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3630.445 0.927 6883.031
   angleX -2.665
   angleY 113.614
   angleZ -5.056
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3629.88 0.927 6881.721
   angleX -3.002
   angleY 109.726
   angleZ -4.863
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3629.243 0.927 6880.271
   angleX -3.001
   angleY 109.739
   angleZ -4.864
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3628.52 0.927 6879.021
   angleX -0.565
   angleY 129.879
   angleZ -6.28
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3625.516 0.927 6877.45
   angleX 1.651
   angleY 158.084
   angleZ -5.47
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3624.049 0.927 6876.622
   angleX 0.989
   angleY 143.991
   angleZ -6.227
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3622.79 0.927 6875.717
   angleX 0.272
   angleY 144.062
   angleZ -5.707
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3621.574 0.927 6875.062
   angleX 2.305
   angleY 165.068
   angleZ -5.229
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3619.142 0.928 6873.381
   angleX 5.854
   angleY -162.644
   angleZ -3.766
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3617.486 0.927 6873.586
   angleX 3.644
   angleY -179.131
   angleZ -4.404
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3615.923 0.927 6873.624
   angleX 3.315
   angleY 176.716
   angleZ -4.656
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3614.186 0.926 6873.689
   angleX 3.362
   angleY 177.292
   angleZ -4.622
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3612.526 0.927 6873.562
   angleX 3.361
   angleY 177.282
   angleZ -4.623
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3610.957 0.928 6873.195
   angleX 2.856
   angleY 164.321
   angleZ -6.347
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3609.298 0.926 6872.93
   angleX 3.977
   angleY -174.634
   angleZ -4.105
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3607.7 0.926 6873.093
   angleX 3.976
   angleY -174.654
   angleZ -4.106
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3606.031 0.927 6873.083
   angleX 3.62
   angleY -179.432
   angleZ -4.423
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3604.562 0.926 6873.106
   angleX 3.622
   angleY -179.406
   angleZ -4.421
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3602.935 0.927 6873.25
   angleX 4.901
   angleY -159.676
   angleZ -2.94
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3601.42 0.926 6873.824
   angleX 4.889
   angleY -159.905
   angleZ -2.96
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3599.807 0.926 6874.453
   angleX 5.27
   angleY -151.448
   angleZ -2.21
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3598.294 0.926 6875.225
   angleX 5.27
   angleY -151.439
   angleZ -2.209
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3591.658 0.927 6878.9
   angleX 5.675
   angleY -135.324
   angleZ -0.662
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3590.458 0.927 6880.02
   angleX 5.692
   angleY -133.66
   angleZ -0.497
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3589.174 0.927 6880.938
   angleX 5.344
   angleY -149.444
   angleZ -2.024
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3587.958 0.927 6881.858
   angleX 5.678
   angleY -135.034
   angleZ -0.633
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3586.718 0.927 6882.659
   angleX 4.467
   angleY -151.922
   angleZ -2.675
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3585.414 0.926 6883.582
   angleX 4.299
   angleY -111.071
   angleZ 1.215
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3584.953 0.925 6885.04
   angleX 4.102
   angleY -103.508
   angleZ 1.77
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3584.444 0.927 6886.628
   angleX 5.431
   angleY -110.519
   angleZ 1.776
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3583.818 0.927 6888.25
   angleX 5.437
   angleY -110.723
   angleZ 1.757
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3583.232 0.927 6889.776
   angleX 5.435
   angleY -110.642
   angleZ 1.765
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3582.652 0.927 6891.284
   angleX 5.122
   angleY -110.639
   angleZ 0.932
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3582.01 0.927 6892.928
   angleX 5.682
   angleY -122.597
   angleZ 0.602
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3577.413 0.927 6902.142
   angleX 5.706
   angleY -131.675
   angleZ -0.3
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3576.051 0.927 6903.521
   angleX 5.713
   angleY -129.632
   angleZ -0.097
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3574.9 0.927 6904.838
   angleX 5.713
   angleY -129.111
   angleZ -0.045
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3573.976 0.927 6905.895
   angleX 5.71
   angleY -130.759
   angleZ -0.209
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3572.707 0.927 6906.994
   angleX 5.458
   angleY -145.892
   angleZ -1.69
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3567.406 0.927 6913.336
   angleX 5.543
   angleY -142.716
   angleZ -1.385
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3570.56 0.927 6909.702
   angleX 5.712
   angleY -127.544
   angleZ 0.111
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3569.48 0.927 6911.073
   angleX 5.712
   angleY -127.578
   angleZ 0.108
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3568.611 0.927 6912.182
   angleX 5.712
   angleY -127.451
   angleZ 0.12
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3571.499 0.925 6908.188
   angleX 4.448
   angleY -121.507
   angleZ 0.417
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3562.057 0.926 6918.245
   angleX 3.41
   angleY -167.167
   angleZ -2.887
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3565.892 0.926 6915.568
   angleX 5.678
   angleY -135.037
   angleZ -0.633
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3564.645 0.927 6916.795
   angleX 5.051
   angleY -135.018
   angleZ -1.263
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3563.462 0.926 6917.727
   angleX 4.142
   angleY -148.91
   angleZ -1.675
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3567.016 0.926 6914.184
   angleX 5.713
   angleY -128.498
   angleZ 0.016
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3560.491 0.925 6918.598
   angleX 3.403
   angleY -167.301
   angleZ -2.895
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3558.812 0.925 6919
   angleX 3.401
   angleY -167.346
   angleZ -2.898
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3557.425 0.926 6919.684
   angleX 4.293
   angleY -142.964
   angleZ -1.237
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3556.037 0.924 6920.782
   angleX 3.18
   angleY -133.198
   angleZ -0.532
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3555.007 0.924 6922.037
   angleX 3.224
   angleY -124.971
   angleZ -0.072
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3553.861 0.923 6923.177
   angleX 3.072
   angleY -141.39
   angleZ -0.98
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3552.898 0.924 6924.518
   angleX 3.145
   angleY -110.946
   angleZ 0.711
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3552.446 0.926 6926.02
   angleX 4.294
   angleY -110.847
   angleZ 1.232
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3551.546 0.926 6927.446
   angleX 4.466
   angleY -125.875
   angleZ 0.078
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3550.403 0.925 6928.619
   angleX 4.346
   angleY -140.279
   angleZ -1.035
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3549.191 0.926 6929.745
   angleX 4.454
   angleY -122.473
   angleZ 0.342
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3548.226 0.925 6931.021
   angleX 4.462
   angleY -124.047
   angleZ 0.22
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3547.088 0.926 6932.261
   angleX 4.43
   angleY -134.258
   angleZ -0.574
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3545.82 0.926 6933.413
   angleX 4.429
   angleY -134.374
   angleZ -0.583
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3544.861 0.926 6934.391
   angleX 4.427
   angleY -134.577
   angleZ -0.599
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3543.49 0.925 6935.278
   angleX 3.966
   angleY -154.318
   angleZ -2.057
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3541.896 0.924 6935.708
   angleX 2.297
   angleY -168.287
   angleZ -2.263
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3540.492 0.924 6936.017
   angleX 2.144
   angleY -172.044
   angleZ -2.409
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3538.94 0.923 6936.369
   angleX 2.153
   angleY -171.835
   angleZ -2.401
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3537.571 0.923 6936.842
   angleX 2.862
   angleY -151.122
   angleZ -1.485
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3536.149 0.924 6937.982
   angleX 3.187
   angleY -114.982
   angleZ 0.488
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3535.44 0.925 6939.501
   angleX 4.454
   angleY -122.441
   angleZ 0.345
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3534.336 0.925 6940.788
   angleX 3.747
   angleY -136.973
   angleZ -1.393
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3533.2 0.923 6941.855
   angleX 3.139
   angleY -136.921
   angleZ -0.738
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3532.318 0.924 6942.929
   angleX 3.189
   angleY -115.205
   angleZ 0.475
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3531.34 0.924 6944.381
   angleX 3.224
   angleY -124.702
   angleZ -0.057
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3530.256 0.923 6945.586
   angleX 3.01
   angleY -144.725
   angleZ -1.157
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3529.132 0.926 6946.605
   angleX 3.91
   angleY -128.586
   angleZ -0.832
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3528.007 0.924 6947.918
   angleX 3.141
   angleY -136.804
   angleZ -0.731
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3526.757 0.923 6948.981
   angleX 2.488
   angleY -136.848
   angleZ -1.346
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3525.598 0.925 6950.071
   angleX 3.742
   angleY -137.195
   angleZ -1.407
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3524.579 0.925 6951.038
   angleX 3.881
   angleY -130.465
   angleZ -0.96
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3523.449 0.926 6952.088
   angleX 3.572
   angleY -143.281
   angleZ -1.796
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3522.302 0.926 6952.953
   angleX 3.581
   angleY -142.98
   angleZ -1.777
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3521.346 0.926 6954.084
   angleX 3.953
   angleY -125.068
   angleZ -0.591
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3520.385 0.926 6955.257
   angleX 3.804
   angleY -134.461
   angleZ -1.227
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3519.525 0.925 6956.059
   angleX 3.808
   angleY -134.285
   angleZ -1.216
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3518.398 0.925 6957.328
   angleX 3.805
   angleY -134.411
   angleZ -1.224
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3517.051 0.924 6958.222
   angleX 1.934
   angleY -162.42
   angleZ -3.138
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3515.392 0.924 6958.425
   angleX 0.956
   angleY -179.02
   angleZ -3.56
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3513.831 0.924 6958.457
   angleX 0.7
   angleY 176.902
   angleZ -3.619
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3512.094 0.926 6958.526
   angleX 1.583
   angleY 177.372
   angleZ -4.542
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3510.433 0.925 6958.397
   angleX 1.626
   angleY 177.406
   angleZ -3.652
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3508.862 0.926 6958.03
   angleX 0.766
   angleY 164.46
   angleZ -3.923
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3507.201 0.927 6957.764
   angleX 2.203
   angleY -174.592
   angleZ -4.276
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3505.604 0.926 6957.926
   angleX 2.125
   angleY -174.498
   angleZ -3.386
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3503.937 0.926 6957.917
   angleX 1.84
   angleY -179.357
   angleZ -4.445
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3502.466 0.927 6957.94
   angleX 1.843
   angleY -179.318
   angleZ -4.443
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3500.84 0.926 6958.082
   angleX 3.237
   angleY -159.564
   angleZ -3.559
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3499.324 0.925 6958.658
   angleX 2.916
   angleY -159.757
   angleZ -2.735
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3497.713 0.926 6959.287
   angleX 3.708
   angleY -151.438
   angleZ -3.066
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3496.198 0.926 6960.057
   angleX 3.713
   angleY -151.344
   angleZ -3.06
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3489.56 0.926 6963.731
   angleX 3.787
   angleY -135.273
   angleZ -1.281
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3488.359 0.926 6964.848
   angleX 3.821
   angleY -133.686
   angleZ -1.176
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3487.075 0.925 6965.772
   angleX 3.361
   angleY -149.387
   angleZ -2.165
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3485.862 0.925 6966.689
   angleX 3.792
   angleY -135.03
   angleZ -1.265
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3484.621 0.925 6967.491
   angleX 3.261
   angleY -151.931
   angleZ -2.312
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3483.32 0.926 6968.416
   angleX 4.809
   angleY -111.075
   angleZ 0.061
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3482.862 0.926 6969.875
   angleX 4.76
   angleY -103.531
   angleZ 0.691
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3482.354 0.926 6971.464
   angleX 4.809
   angleY -110.587
   angleZ 0.102
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3481.736 0.925 6973.093
   angleX 3.977
   angleY -110.76
   angleZ 0.404
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3481.149 0.925 6974.62
   angleX 3.976
   angleY -110.654
   angleZ 0.411
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3480.576 0.925 6976.135
   angleX 3.976
   angleY -110.6
   angleZ 0.415
-  Flags 525315
  }
  {
+  Flags 525315
   coords 3479.945 0.925 6977.691
   angleX 3.975
   angleY -122.597
   angleZ -0.42
-  Flags 525315
  }
 }
 $grp StaticModelEntity : "{9C7477A3F066F74F}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_forest_straight.et" {
@@ -2120,16 +2120,10 @@ $grp StaticModelEntity : "{9C7477A3F066F74F}Prefabs/Terrain/Erosion/ErodedEmbank
   angleZ -0.041
  }
  {
-  coords 3590.25 334.114 7027.606
-  angleX -14.928
-  angleY 137.672
-  angleZ -3.886
- }
- {
-  coords 3587.625 334.13 7029.403
-  angleX -17.063
-  angleY -40.283
-  angleZ 3.357
+  coords 3590.77 333.755 7029.469
+  angleX -12.433
+  angleY -160.831
+  angleZ -6.275
  }
  {
   coords 3598.721 333.312 7029.416
@@ -2154,12 +2148,6 @@ $grp StaticModelEntity : "{9C7477A3F066F74F}Prefabs/Terrain/Erosion/ErodedEmbank
   angleX -17.559
   angleY 51.596
   angleZ 0.999
- }
- {
-  coords 3582.901 334.361 7025.271
-  angleX -15.319
-  angleY -40.248
-  angleZ 2.02
  }
  {
   coords 3566.577 334.024 7063.183

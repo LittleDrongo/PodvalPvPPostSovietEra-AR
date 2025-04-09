@@ -1,0 +1,91 @@
+$grp GenericEntity : "{3BFC0E1A2D0062CA}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_82mm_mortar_3rnd_HE.et" {
+ {
+  coords 4637.123 321.677 8312.142
+  angleX 1.663
+  angleY 38.267
+  angleZ -2.107
+ }
+ {
+  coords 4636.73 321.659 8312.438
+  angleX 1.663
+  angleY 38.267
+  angleZ -2.107
+ }
+ {
+  coords 4636.333 321.64 8312.732
+  angleX 1.663
+  angleY 38.267
+  angleZ -2.107
+ }
+ {
+  coords 4635.917 321.62 8313.058
+  angleX 1.663
+  angleY 38.267
+  angleZ -2.107
+ }
+ {
+  coords 4632.023 321.494 8316.448
+  angleX 0.962
+  angleY 38.3
+  angleZ -2.66
+ }
+ {
+  coords 4631.233 321.447 8317.039
+  angleX 0.962
+  angleY 38.3
+  angleZ -2.66
+ }
+ {
+  coords 4630.818 321.424 8317.363
+  angleX 0.962
+  angleY 38.3
+  angleZ -2.66
+ }
+ {
+  coords 4631.63 321.471 8316.743
+  angleX 0.962
+  angleY 38.3
+  angleZ -2.66
+ }
+ {
+  coords 4625.96 321.17 8321.072
+  angleX 0.407
+  angleY 38.31
+  angleZ -1.959
+ }
+ {
+  coords 4625.17 321.132 8321.663
+  angleX 0.962
+  angleY 38.3
+  angleZ -2.66
+ }
+ {
+  coords 4624.755 321.107 8321.99
+  angleX 0.962
+  angleY 38.3
+  angleZ -2.66
+ }
+ {
+  coords 4625.567 321.154 8321.366
+  angleX 0.407
+  angleY 38.31
+  angleZ -1.959
+ }
+}
+GenericEntity : "{5A5A35F2937802B8}Prefabs/Props/Military/AmmoBoxes/drg_ammobox_82mm_100rnd_Smoke.et" {
+ coords 4617.561 320.8 8315.417
+ angleX 2.735
+ angleY 123.211
+ angleZ 0.721
+}
+Turret : "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et" {
+ components {
+  PS_GroupAttachmentComponent "{651318460654415F}" {
+   m_sAttachmentGroupName "CDF_5_0_0"
+  }
+ }
+ coords 4619.63 320.894 8315.732
+ angleX -1.623
+ angleY -144.256
+ angleZ 2.263
+}
