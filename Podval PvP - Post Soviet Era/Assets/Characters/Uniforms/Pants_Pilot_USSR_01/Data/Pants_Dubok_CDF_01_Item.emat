@@ -1,0 +1,5 @@
+MatPBRBasic {
+ CavityFromAO 0.61
+ BCRMap "{A6D0A7ACA27118E4}Assets/Characters/Uniforms/Pants_Pilot_USSR_01/Data/Pants_Preview_Dubok.edds"
+ NMOMap "{573A8BFB0F631917}Assets/Characters/Uniforms/Pants_Pilot_USSR_01/Data/Pants_Pilot_USSR_01_Item_NMO.edds"
+}

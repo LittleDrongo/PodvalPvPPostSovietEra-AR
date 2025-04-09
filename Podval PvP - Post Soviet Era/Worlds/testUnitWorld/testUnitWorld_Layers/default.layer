@@ -5,12 +5,12 @@ GameEntity : "{2D16A8A6235F6DF1}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helm
  coords 121.28 1 144.92
 }
 GameEntity : "{386B61AC286BC438}Prefabs/Characters/Uniforms/Pants_Pilot_USSR_01/Pants_Dubok_CDF_01.et" {
- coords 122.967 1 144.572
+ coords 123.133 1 144.613
 }
 GenericEntity : "{4CBDC206FEF9897C}Prefabs/Characters/Vests/Vest_6B3/Vest_6B3.et" {
  coords 122.592 1 146.536
 }
-GameEntity : "{4D8F3F77D46DB43B}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_Dubok_PASGT_Googles_CDF.et" {
+GameEntity : "{4D8F3F77D46DB43A}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helmet_Dubok_PASGT_Googles_CDF.et" {
  coords 120.222 1 147.779
 }
 GameEntity : "{762C6F84B012E7F2}Prefabs/Characters/Uniforms/Jacket_Pilot_USSR_01/Jacket_Dubok_CDF_01.et" {

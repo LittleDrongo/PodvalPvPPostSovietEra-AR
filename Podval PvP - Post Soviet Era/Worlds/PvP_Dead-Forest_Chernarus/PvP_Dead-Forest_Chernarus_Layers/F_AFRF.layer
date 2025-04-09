@@ -1,33 +1,19 @@
 $grp GenericEntity : "{05F1B1FF9F0CE167}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_82mm_mortar_3rnd_Illum.et" {
  {
-  coords 575.862 142.435 5283.062
+  coords 577.126 142.435 5283.083
  }
  {
-  coords 575.884 142.338 5283.033
+  coords 577.148 142.338 5283.054
  }
  {
-  coords 575.87 142.532 5282.997
+  coords 577.134 142.532 5283.018
  }
 }
 GenericEntity : "{5A5A35F2937802B8}Prefabs/Props/Military/AmmoBoxes/drg_ammobox_82mm_100rnd_Smoke.et" {
- coords 574.05 142.338 5283.019
+ coords 576.653 142.338 5283.038
  angleX 2.684
  angleY 0
  angleZ 0
-}
-$grp GenericEntity : "{645F518F95682567}Prefabs/Props/Military/AmmoBoxes/drg_ammobox_82mm_100rnd_HE.et" {
- {
-  coords 574.615 142.347 5283.075
-  angleX 2.68
-  angleY -3.049
-  angleZ -0.143
- }
- {
-  coords 575.366 142.338 5283.114
-  angleX 0
-  angleY -167.907
-  angleZ 0
- }
 }
 $grp SCR_AIGroup : "{A13A0628A2760876}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_MSV.et" {
  AFRF_1_0_0 {
@@ -177,7 +163,7 @@ $grp SCR_AIGroup : "{A13A0628A2760876}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_MS
   }
   m_bSnapToTerrain 0
   m_bDeleteWhenEmpty 0
-  m_sCustomNameSet "Миномётный расчёт"
+  m_sCustomNameSet "Наблюдатели"
  }
  AFRF_0_0_0 {
   components {
@@ -193,6 +179,20 @@ $grp SCR_AIGroup : "{A13A0628A2760876}Prefabs/Groups/OPFOR/DRG_Group_RHS_AFRF_MS
   m_bDeleteWhenEmpty 0
  }
 }
+$grp GenericEntity : "{CB13D0AF0C8F4270}Prefabs/Props/Military/AmmoBoxes/drg_ammobox_82mm_100rnd_HEA.et" {
+ {
+  coords 574.026 142.337 5282.934
+  angleX 0
+  angleY 179.73
+  angleZ 0
+ }
+ {
+  coords 574.721 142.338 5282.885
+  angleX 0
+  angleY -22.756
+  angleZ 0
+ }
+}
 Turret : "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et" {
  components {
   PS_GroupAttachmentComponent "{651133700896F5EA}" {
@@ -204,7 +204,7 @@ Turret : "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et" {
 }
 $grp StaticModelEntity : "{ED4439D23F40A165}Prefabs/Compositions/Misc/SubCompositions/Furniture/Table_Food_US_01.et" {
  {
-  coords 575.661 141.438 5283.03
+  coords 576.925 141.438 5283.051
   angleY 0
  }
  {

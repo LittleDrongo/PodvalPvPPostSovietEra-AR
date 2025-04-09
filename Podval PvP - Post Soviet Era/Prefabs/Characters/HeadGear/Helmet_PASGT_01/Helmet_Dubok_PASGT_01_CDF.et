@@ -23,7 +23,7 @@ GameEntity : "{9723923821F574EA}Prefabs/Characters/HeadGear/Helmet_PASGT_01/Helm
    }
    ItemModel "{6298E440DEE27B19}Assets/Characters/HeadGear/Helmet_PASGT/Helmet_PASGT_01_cover_item.xob"
    ItemMaterialsOverride {
-    "{C4CF77753C112273}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_PASGT_CDF.emat"
+    "{10D1F0BF33272652}Assets/Characters/HeadGear/Helmet_PASGT/data/Helmet_Dubok_PASGT_CDF.emat"
    }
   }
  }

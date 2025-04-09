@@ -26,7 +26,7 @@ GameEntity : "{6ED66E4BF74756C0}Prefabs/Characters/HeadGear/Hat_M88_01/Hat_M88_0
    }
    ItemModel "{EE185A2AB1325C43}Assets/Characters/HeadGear/Hat_M88/Hat_M88_02_item.xob"
    ItemMaterialsOverride {
-    "{B3480C7691866818}Assets/Characters/HeadGear/Hat_M88/Data/Hat_M88_CDF.emat"
+    "{9C615D096CF08F5E}Assets/Characters/HeadGear/Hat_M88/Data/Hat_Dubok_M88_CDF.emat"
    }
   }
  }
