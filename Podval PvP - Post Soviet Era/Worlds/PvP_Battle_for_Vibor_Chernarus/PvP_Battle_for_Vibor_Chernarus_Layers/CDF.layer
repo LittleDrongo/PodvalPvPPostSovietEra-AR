@@ -190,7 +190,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   coords 3852.782 311.094 8851.164
   angleY -153.904
   m_aUnitPrefabSlots {
-   "{14B773656108F1C6}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SL.et" "{69AF9F9D049BCD5F}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SR.et" "{793F827A538C53D5}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AR.et" "{A197EBBB2A054D89}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AT.et" "{843201041DF19B3E}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AAT.et" "{74EAFC5BA43B3AFF}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_GL.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et"
+   "{14B773656108F1C6}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SL.et" "{69AF9F9D049BCD5F}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_SR.et" "{793F827A538C53D5}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AR.et" "{A197EBBB2A054D89}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AT.et" "{843201041DF19B3E}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_AAT.et" "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et"
   }
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0

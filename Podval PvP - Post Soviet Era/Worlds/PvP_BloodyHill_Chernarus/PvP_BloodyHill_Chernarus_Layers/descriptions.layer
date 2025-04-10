@@ -2,7 +2,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  RULES {
   coords 5534.73 61.71 10496.381
   m_sTitle "#PS-Description_HeaderRules"
-  m_sDescriptionLayout "{0DF2089A5BA70D01}UI/MissionDescription/DescriptionEditable_drg.layout"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "ОБЩИЕ ПРАВИЛА"\
   "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно) "\
   "— Запрещено любым способом дюпать ресурсы доступные изначально.*"\
@@ -54,6 +54,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  CDF {
   coords 5626.204 38.464 10536.691
   m_sTitle "#DRG-Description_HeaderCDF"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "Нам необходимо занять военную базу на севере аэродрома."\
   ""\
   "Веротяно противник будет использовать вертолёты с НУРсами."\
