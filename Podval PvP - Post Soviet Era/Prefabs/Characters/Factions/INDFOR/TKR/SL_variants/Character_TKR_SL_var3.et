@@ -24,8 +24,22 @@ SCR_ChimeraCharacter : "{1A5EC0FCCEEA79B9}Prefabs/Characters/Factions/INDFOR/TKR
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{6074FD81D85F4351}" {
+     TargetStorage "Pants/Civi_Jeans_Blue_Ripped.et"
+    }
+    ItemsInitConfigurationItem "{6074FD81A7B67B88}" {
+     TargetStorage "Vest/Vest_Lifchik_GL.et"
+    }
+    ItemsInitConfigurationItem "{60FB76D98B3CD6FB}" {
+     TargetStorage "Pants/Civi_Jeans_Blue_Ripped.et"
+    }
+    ItemsInitConfigurationItem "{63192993053E337D}" {
+     TargetStorage "Vest/Vest_Lifchik_GL.et"
+    }
     ItemsInitConfigurationItem "{61D2C058EFEC64A8}" {
      TargetStorage "Prefabs/Characters/Uniforms/Civi_Pants/Civi_Jeans_Blue_Ripped.et"
+     PrefabsToSpawn {
+     }
     }
     ItemsInitConfigurationItem "{61D2C058E2831D3F}" {
      TargetStorage "Prefabs/Characters/Uniforms/Civi_Pants/Civi_Jeans_Blue_Ripped.et"

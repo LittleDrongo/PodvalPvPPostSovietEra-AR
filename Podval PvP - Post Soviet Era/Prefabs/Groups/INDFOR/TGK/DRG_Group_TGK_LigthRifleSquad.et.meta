@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{BF3313429A87BF14}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_2.et"
+ Name "{05CC77E539FE3536}Prefabs/Groups/INDFOR/RHS_ION/DRG_Group_TGK_RifleSquad.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

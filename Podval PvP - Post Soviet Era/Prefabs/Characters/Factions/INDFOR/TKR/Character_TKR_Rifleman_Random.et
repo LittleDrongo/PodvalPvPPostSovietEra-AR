@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman.et" {
+SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman.et" {
  ID "520EC961A090B1EE"
  components {
   PS_PlayableComponent "{5EFCC1946F475F15}" {
@@ -12,7 +12,7 @@ SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR
     m_bRandomizeDefaultVariant 0
     m_aVariants {
      SCR_EditableEntityVariant "{61D2C0544460D64E}" {
-      m_sVariantPrefab "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman.et"
+      m_sVariantPrefab "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman.et"
      }
      SCR_EditableEntityVariant "{61D2C0544460D650}" {
       m_sVariantPrefab "{BF3313429A87BF14}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_2.et"
@@ -39,8 +39,7 @@ SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR
     ItemsInitConfigurationItem "{61D2C058E2831D3F}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik.et"
      TargetPurpose 64
-     PrefabsToSpawn {
-      "{575EA58E67448C2A}Prefabs/Items/Equipment/Flashlights/Flashlight_Soviet_01/Flashlight_Soviet_01.et"
+     PrefabsToSpawn +{
      }
     }
     ItemsInitConfigurationItem "{61D2C05790C7AB1A}" {

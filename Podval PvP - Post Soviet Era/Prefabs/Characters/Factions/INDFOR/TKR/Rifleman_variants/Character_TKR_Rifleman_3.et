@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_Rifleman.et" {
+SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman.et" {
  ID "520EC961A090B1EE"
  components {
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
@@ -12,7 +12,7 @@ SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR
      Prefab "{1A930E6BCE930E70}Prefabs/Characters/HeadGear/Hat_Shemagh/Hat_Shemagh_Black.et"
     }
     LoadoutSlotInfo Jacket {
-     Prefab "{070FCE4FE5812C5D}Prefabs/Characters/Uniforms/Velocity_shirt/velocity_shirt_od.et"
+     Prefab "{070FCE4FE5812C5D}Prefabs/Characters/Uniforms/T_Shirts/Velocity_Shirt/velocity_shirt_od.et"
     }
     LoadoutSlotInfo Pants {
      Prefab "{9C35EE1E76EFCE7F}Prefabs/Characters/Uniforms/Civi_Pants/Civi_Jeans_v1.et"
@@ -28,13 +28,13 @@ SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{61D2C058EFEC64A8}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Civi_Pants/Civi_Jeans_v1.et"
+     TargetStorage "Pants/Civi_Jeans_v1.et"
     }
     ItemsInitConfigurationItem "{61D2C058E2831D3F}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Velocity_shirt/velocity_shirt_od.et"
+     TargetStorage "Vest/Vest_ALICE_commander.et"
     }
     ItemsInitConfigurationItem "{61D2C05790C7AB1A}" {
-     TargetStorage "Prefabs/Items/Equipment/Backpacks/Backpack_Kolobok.et"
+     TargetStorage "Vest/Vest_ALICE_commander.et"
      PrefabsToSpawn {
       "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{E5912E45754CD421}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Tracer.et"
      }

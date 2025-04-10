@@ -14,7 +14,7 @@ SCR_ChimeraCharacter : "{B6363CFEB5721650}Prefabs/Characters/Factions/INDFOR/TKR
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{61D2C058EFEC64A8}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Civi_Pants/Civi_Jeans_v1.et"
+     TargetStorage "Pants/Civi_Jeans_v1.et"
     }
     ItemsInitConfigurationItem "{61D2C058E2831D3F}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_TKA.et"
