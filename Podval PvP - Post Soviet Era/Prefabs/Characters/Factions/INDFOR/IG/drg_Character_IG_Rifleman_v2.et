@@ -23,16 +23,18 @@ SCR_ChimeraCharacter : "{3E0AD164F0AFB09D}Prefabs/Characters/Factions/INDFOR/IG/
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{64D476C2404F583A}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Pants_KZS/Pants_KZS.et"
-     PrefabsToSpawn {
-      "{7CEF68E2BC68CE71}Prefabs/Items/Equipment/Compass/Compass_Adrianov.et" "{13772C903CB5E4F7}Prefabs/Items/Equipment/Maps/PaperMap_01_folded.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{C3F1FA1E2EC2B345}Prefabs/Items/Medicine/FieldDressing_01/FieldDressing_USSR_01.et" "{80E75A71C29190DB}Prefabs/Items/Medicine/Tourniquet_01/Tourniquet_USSR_01.et" "{0D9A5DCF89AE7AA9}Prefabs/Items/Medicine/MorphineInjection_01/MorphineInjection_01.et" "{062E2F1D7F6739D6}Prefabs/Items/Equipment/Accessories/ETool_MPL50/ETool_MPL50_FreeRoamBuilding_Gadget.et"
+     TargetStorage "Pants/Pants_KZS.et"
+     PrefabsToSpawn +{
      }
     }
     ItemsInitConfigurationItem "{64D476C2400BF5EA}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Jacket_US_BDU_02.et"
+     TargetStorage "Vest/Vest_ALICE_rifleman.et"
+    }
+    ItemsInitConfigurationItem "{64D476CFAB0241CC}" {
+     TargetStorage "Vest/Vest_ALICE_rifleman.et"
     }
     ItemsInitConfigurationItem "{64D476CF95D45DA3}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_ALICE/Vest_ALICE_buttpack.et"
+     TargetStorage "Back/Backpack_Veshmeshok.et"
     }
     ItemsInitConfigurationItem "{64D476C9CC8D39ED}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_ALICE/Vest_ALICE_buttpack.et"

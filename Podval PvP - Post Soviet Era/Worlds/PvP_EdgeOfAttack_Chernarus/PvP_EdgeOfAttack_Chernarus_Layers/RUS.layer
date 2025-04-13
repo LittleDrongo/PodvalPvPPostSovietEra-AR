@@ -4,6 +4,7 @@ Vehicle Ural4320_transport_mines1 : "{349847A2905F706A}Prefabs/Vehicles/Wheeled/
  angleY -19.446
  angleZ 0.844
  m_sAttachmentGroupName "AFRF_3_0_0"
+ m_bEnableMoveOnFreeze 1
 }
 Vehicle UAZ452_ambulance1 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/UAZ452_ambulance.et" {
  coords 3592.659 334.051 6996.595

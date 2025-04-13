@@ -1,32 +1,6 @@
-$grp SCR_AIGroup : "{05CC77E539FE3536}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_LigthRifleSquad.et" {
- {
-  coords 130.218 1 148.033
-  m_aUnitPrefabSlots {
-   "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman.et" "{BF3313429A87BF14}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_2.et" "{679B7A83E30EA148}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_4.et" "{5AAF5FBB9662287F}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_3.et" "{8207367AEFEB3623}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_5.et"
-  }
- }
- {
-  coords 130.218 1 152.475
-  m_aUnitPrefabSlots {
-   "{67462C04AB794520}Prefabs/Characters/Factions/INDFOR/TKR/SR_variants/Character_TKR_SR.et" "{B6363CFEB5721650}Prefabs/Characters/Factions/INDFOR/TKR/SR_variants/Character_TKR_SR_var2.et" "{FDBE95DECDA33F5F}Prefabs/Characters/Factions/INDFOR/TKR/SR_variants/Character_TKR_SR_var3.et"
-  }
- }
- {
-  coords 130.218 1 155.234
-  m_aUnitPrefabSlots {
-   "{1A5EC0FCCEEA79B9}Prefabs/Characters/Factions/INDFOR/TKR/SL_variants/Character_TKR_SL.et" "{DAF8962F21247734}Prefabs/Characters/Factions/INDFOR/TKR/SL_variants/Character_TKR_SL_var2.et" "{3F64DAD62DC1E05F}Prefabs/Characters/Factions/INDFOR/TKR/SL_variants/Character_TKR_SL_var3.et" "{0250FFEE58AD6968}Prefabs/Characters/Factions/INDFOR/TKR/SL_variants/Character_TKR_SL_var4.et"
-  }
- }
- {
-  coords 118.355 1 163.459
- }
+SCR_AIGroup : "{05CC77E539FE3536}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_LigthRifleSquad.et" {
+ coords 123.215 1 177.078
 }
 SCR_AIGroup : "{811D063FD0D09047}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_HigthRifleSquad.et" {
- coords 118.428 1 166.115
-}
-SCR_AIGroup : "{BC46C2D53FE73007}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_PlatoonHQ.et" {
- coords 118.654 1 169.369
-}
-SCR_AIGroup : "{E15D86495A388780}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_CompanyHQ.et" {
- coords 118.911 1 173.572
+ coords 122.333 1 182.929
 }

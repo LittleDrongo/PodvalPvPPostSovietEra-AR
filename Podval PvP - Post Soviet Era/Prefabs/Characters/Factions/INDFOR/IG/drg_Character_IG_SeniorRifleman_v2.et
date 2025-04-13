@@ -20,6 +20,9 @@ SCR_ChimeraCharacter : "{525EE5844C6B3FB3}Prefabs/Characters/Factions/INDFOR/IG/
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{64D476CF95D45DA3}" {
+     TargetStorage "Back/Backpack_Veshmeshok.et"
+    }
     ItemsInitConfigurationItem "{64D476C9B7AC6DFD}" {
      TargetStorage "Prefabs/Characters/Uniforms/Jacket_US_BDU_02.et"
      PrefabsToSpawn {

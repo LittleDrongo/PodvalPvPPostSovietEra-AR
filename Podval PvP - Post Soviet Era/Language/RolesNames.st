@@ -504,6 +504,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{651AA135662F0439}" {
+   Id "DRG_Sqd_RaidGroup"
+   Target_en_us "Raid group"
+   Target_ru_ru "Рейдовая группа"
+   Modified 1696244161
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{64C271FB2F525D5F}" {
    Id "DRG_Sqd_Rifle"
    Target_en_us "Rifle squad"

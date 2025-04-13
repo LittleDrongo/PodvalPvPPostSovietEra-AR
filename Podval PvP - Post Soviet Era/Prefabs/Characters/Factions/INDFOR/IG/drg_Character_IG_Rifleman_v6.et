@@ -23,15 +23,12 @@ SCR_ChimeraCharacter : "{3E0AD164F0AFB09D}Prefabs/Characters/Factions/INDFOR/IG/
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{64D476C2404F583A}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Civi_Pants/Civi_Jeans_v1.et"
+     TargetStorage "Pants/Civi_Jeans_v1.et"
     }
     ItemsInitConfigurationItem "{64D476C2400BF5EA}" {
-     TargetStorage "Prefabs/Characters/Uniforms/LongSleeve_Shirts/Hoodie_RHS_Shirt_black_dots.et"
     }
     ItemsInitConfigurationItem "{64D476CF95D45DA3}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_Type56/Vest_Type56.et"
-     PrefabsToSpawn {
-      "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{E5912E45754CD421}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Tracer.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et" "{645C73791ECA1698}Prefabs/Weapons/Grenades/Grenade_RGD5.et"
+     PrefabsToSpawn +{
      }
     }
     ItemsInitConfigurationItem "{64D476C9C675D4ED}" {

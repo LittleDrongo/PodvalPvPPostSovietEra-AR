@@ -1,75 +1,75 @@
 $grp GenericEntity : "{3BFC0E1A2D0062CA}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_82mm_mortar_3rnd_HE.et" {
  {
-  coords 4637.123 321.677 8312.142
+  coords 4636.965 321.702 8312.364
   angleX 1.663
   angleY 38.267
   angleZ -2.107
  }
  {
-  coords 4636.73 321.659 8312.438
+  coords 4636.572 321.683 8312.661
   angleX 1.663
   angleY 38.267
   angleZ -2.107
  }
  {
-  coords 4636.333 321.64 8312.732
+  coords 4636.175 321.665 8312.957
   angleX 1.663
   angleY 38.267
   angleZ -2.107
  }
  {
-  coords 4635.917 321.62 8313.058
+  coords 4635.759 321.645 8313.282
   angleX 1.663
   angleY 38.267
   angleZ -2.107
  }
  {
-  coords 4632.023 321.494 8316.448
+  coords 4630.991 321.404 8317.082
   angleX 0.962
   angleY 38.3
   angleZ -2.66
  }
  {
-  coords 4631.233 321.447 8317.039
+  coords 4630.202 321.357 8317.673
   angleX 0.962
   angleY 38.3
   angleZ -2.66
  }
  {
-  coords 4630.818 321.424 8317.363
+  coords 4629.787 321.333 8317.997
   angleX 0.962
   angleY 38.3
   angleZ -2.66
  }
  {
-  coords 4631.63 321.471 8316.743
+  coords 4630.598 321.381 8317.377
   angleX 0.962
   angleY 38.3
   angleZ -2.66
  }
  {
-  coords 4625.96 321.17 8321.072
-  angleX 0.407
-  angleY 38.31
-  angleZ -1.959
+  coords 4625.777 321.129 8321.243
+  angleX 0.961
+  angleY 38.284
+  angleZ -2.661
  }
  {
-  coords 4625.17 321.132 8321.663
+  coords 4624.987 321.082 8321.833
   angleX 0.962
   angleY 38.3
   angleZ -2.66
  }
  {
-  coords 4624.755 321.107 8321.99
+  coords 4624.572 321.058 8322.16
   angleX 0.962
   angleY 38.3
   angleZ -2.66
  }
  {
-  coords 4625.567 321.154 8321.366
-  angleX 0.407
-  angleY 38.31
-  angleZ -1.959
+  coords 4625.384 321.106 8321.536
+  angleX 0.961
+  angleY 38.284
+  angleZ -2.661
  }
 }
 GenericEntity : "{5A5A35F2937802B8}Prefabs/Props/Military/AmmoBoxes/drg_ammobox_82mm_100rnd_Smoke.et" {
@@ -87,5 +87,4 @@ Turret : "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et" {
  coords 4619.63 320.894 8315.732
  angleX -1.623
  angleY -144.256
- angleZ 2.263
 }

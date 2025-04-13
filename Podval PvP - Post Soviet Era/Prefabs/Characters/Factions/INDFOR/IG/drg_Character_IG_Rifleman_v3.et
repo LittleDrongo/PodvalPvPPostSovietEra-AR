@@ -20,13 +20,16 @@ SCR_ChimeraCharacter : "{3E0AD164F0AFB09D}Prefabs/Characters/Factions/INDFOR/IG/
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{64D476C2404F583A}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Pants_US_BDU.et"
+     TargetStorage "Pants/Pants_US_BDU.et"
     }
     ItemsInitConfigurationItem "{64D476C2400BF5EA}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Shirt_Turtleneck_01/Shirt_Turtleneck_01_beige_Dirty.et"
+     TargetStorage "Vest/Vest_ALICE_commander.et"
+    }
+    ItemsInitConfigurationItem "{64D476CFAB0241CC}" {
+     TargetStorage "Vest/Vest_ALICE_commander.et"
     }
     ItemsInitConfigurationItem "{64D476CF95D45DA3}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_ALICE/Vest_ALICE_buttpack.et"
+     TargetStorage "Back/Backpack_Veshmeshok.et"
     }
     ItemsInitConfigurationItem "{64D476C9C675D4ED}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_ALICE/Vest_ALICE_buttpack.et"

@@ -20,6 +20,11 @@ SCR_ChimeraCharacter : "{8AF68C4535E221EF}Prefabs/Characters/Factions/INDFOR/IG/
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{64D476C2400BF5EA}" {
+     TargetStorage "Vest/Vest_Type56.et"
+    }
+    ItemsInitConfigurationItem "{64D476CF95D45DA3}" {
+    }
     ItemsInitConfigurationItem "{64D476C9C675D4ED}" {
      TargetStorage "Prefabs/Characters/Uniforms/Jacket_KZS/Jacket_KZS.et"
      PrefabsToSpawn {
