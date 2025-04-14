@@ -18,6 +18,15 @@ SCR_ChimeraCharacter : "{8DA3D31B19FE9606}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEACA9EAEEB01E}" {
+     TargetStorage "Vest/Vest_Taktika_belt_taktika_1.et"
+    }
+    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
+     TargetStorage "Vest/Vest_Taktika_belt_taktika_1.et"
+     PrefabsToSpawn {
+      "{A55A815F28739FEC}Prefabs/Items/Equipment/Navigation/Orion/Orion.et"
+     }
+    }
     ItemsInitConfigurationItem "{61CEFE9184A580C5}" {
      TargetStorage "Prefabs/Characters/Vests/Vest_TV110_Pouches/Pouch_UP111_radioClosed_FG.et"
     }

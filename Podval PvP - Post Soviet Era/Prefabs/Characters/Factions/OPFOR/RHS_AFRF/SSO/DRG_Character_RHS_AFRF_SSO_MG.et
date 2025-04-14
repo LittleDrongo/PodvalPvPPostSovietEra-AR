@@ -21,6 +21,12 @@ SCR_ChimeraCharacter : "{69172E8734B2EB44}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
+     TargetStorage "Vest/Vest_Taktika_preset_taktika_PKM.et"
+     PrefabsToSpawn {
+      "{A55A815F28739FEC}Prefabs/Items/Equipment/Navigation/Orion/Orion.et"
+     }
+    }
     ItemsInitConfigurationItem "{61CEFE90F8B0FE39}" {
      PrefabsToSpawn {
      }

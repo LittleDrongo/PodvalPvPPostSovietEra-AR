@@ -600,11 +600,27 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{651CC5C60E2E3205}" {
+   Id "DRG_TKR_Roles_MortarLoader"
+   Target_en_us "Rebel Mortar Loader"
+   Target_ru_ru "Боевик заряжающий"
+   Modified 1696385933
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{651C7E6A0A99BA32}" {
    Id "DRG_TKR_Roles_Mortarman"
    Target_en_us "Rebel Mortarman"
    Target_ru_ru "Боевик миномётчик"
    Modified 1696367453
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{651CC5C7B26819D3}" {
+   Id "DRG_TKR_Roles_MortarSpotter"
+   Target_en_us "Rebel Mortal Spotter"
+   Target_ru_ru "Боевик арт-корректирощик"
+   Modified 1696385664
    Author "hasta"
    LastChanged "hasta"
   }

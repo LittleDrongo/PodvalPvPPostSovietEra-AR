@@ -19,6 +19,12 @@ SCR_ChimeraCharacter : "{829F487B78C6F6F2}Prefabs/Characters/Factions/OPFOR/RHS_
     ItemsInitConfigurationItem "{61CEACA9EAEEB01E}" {
      TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
     }
+    ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
+     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_ATACS.et"
+     PrefabsToSpawn {
+      "{A55A815F28739FEC}Prefabs/Items/Equipment/Navigation/Orion/Orion.et"
+     }
+    }
    }
   }
  }

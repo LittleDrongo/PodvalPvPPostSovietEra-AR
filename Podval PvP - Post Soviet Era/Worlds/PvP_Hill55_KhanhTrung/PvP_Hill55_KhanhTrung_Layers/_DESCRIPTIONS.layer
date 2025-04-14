@@ -1,5 +1,5 @@
 $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
- RULES {
+ "_1_RULES" {
   coords 5534.73 61.71 10496.381
   m_sTitle "#PS-Description_HeaderRules"
   m_sTextData "ОБЩИЕ ПРАВИЛА"\
@@ -14,11 +14,18 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 1. Удержать высоту 55"\
   "  "\
   "ЗАДАЧИ ПОБЕДЫ ДЛЯ БОЕВИКОВ"\
-  "— 1. Занять высоту 55 убив всех солдат США"
+  "— 1. Занять высоту 55 убив всех солдат США"\
+  ""\
+  "ПРАВИЛО"\
+  "— Контроль высоты засчитывается той фракции флаг на флагштоке."\
+  "— Для захвата необходимо сменить флаг на свой через клавишу F"\
+  "— Флаг перезахватываемый множество раз"\
+  ""
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
+  m_iOrder 1
  }
- RHS_USAF {
+ "_2_RHS_USAF" {
   coords 5159.505 56.132 10322.095
   m_sTitle "#PS-Description_HeaderUS"
   m_sTextData "НАШИ ЗАДАЧИ:"\
@@ -28,17 +35,19 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_aVisibleForFactions {
    "RHS_USAF"
   }
+  m_iOrder 2
  }
- Ses_TKG {
+ "_2_Drg_PIR" {
   coords 5534.418 43.503 10540.239
   m_sTitle "Задачи боевиков"
   m_sTextData "НАШИ ЗАДАЧИ:"\
   "— Занять высоту 55 и убить всех американцев."
   m_aVisibleForFactions {
-   "Ses_TKG"
+   "Drg_PIR"
   }
+  m_iOrder 2
  }
- ABOUT {
+ "_0_ABOUT" {
   coords 5568.057 56.802 10524.196
   m_sTitle "#PS-Description_HeaderAboutMission"
   m_sTextData "Битва за высоту 55."

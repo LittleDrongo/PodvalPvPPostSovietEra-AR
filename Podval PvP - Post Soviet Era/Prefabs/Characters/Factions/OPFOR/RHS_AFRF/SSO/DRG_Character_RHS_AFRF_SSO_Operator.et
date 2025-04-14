@@ -40,12 +40,11 @@ SCR_ChimeraCharacter : "{5E0F3654C533243E}Prefabs/Characters/Factions/OPFOR/RHS_
      }
     }
     ItemsInitConfigurationItem "{61CEACA9EAEEB01E}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_ATACS.et"
+     TargetStorage "Vest/Vest_Taktika_belt_arsarma_1.et"
     }
     ItemsInitConfigurationItem "{61CEB755EDF28F78}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_Taktika_Pouches/Pouch_Taktika_medpouch.et"
-     PrefabsToSpawn {
-      "{8E97135D2E37CAA6}Prefabs/Weapons/Grenades/Grenade_Stun_OPFOR.et"
+     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_ATACS.et"
+     PrefabsToSpawn +{
      }
     }
     ItemsInitConfigurationItem "{61CF0736B0111754}" {

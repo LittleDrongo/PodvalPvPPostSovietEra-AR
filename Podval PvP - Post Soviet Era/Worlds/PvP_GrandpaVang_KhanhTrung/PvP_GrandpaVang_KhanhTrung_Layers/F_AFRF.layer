@@ -7,13 +7,13 @@ Vehicle Mi8MT_armed1 : "{7BD282AF716ED639}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8
 }
 $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
  AFRF_0_0_0 {
-  coords 1874.187 8.29 2190.247
+  coords 1901.282 11.963 2188.478
   angleX -1.015
   angleY 0.95
   angleZ -4.914
   m_faction "RHS_AFRF"
   m_aUnitPrefabSlots {
-   "{8CB14A0F4302FE2A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Officer.et"
+   "{8CB14A0F4302FE2A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Officer.et" "{A282102FD0C99137}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/DRG_Character_RHS_AFRF_SSO_Operator_RER.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -248,7 +248,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   angleZ -0.965
   m_faction "RHS_AFRF"
   m_aUnitPrefabSlots {
-   "{EEC0ADDF2643A2C6}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_HeliPilot_Radio.et" "{A46FDFA8262FD088}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_HeliPilot.et" "{50FA5E4868A418C2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_HeliCrew.et" "{50FA5E4868A418C2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_HeliCrew.et"
+   "{EEC0ADDF2643A2C6}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_HeliPilot_Radio.et" "{A46FDFA8262FD088}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_HeliPilot.et" "{50FA5E4868A418C2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/EMR/DRG_Character_RHS_AFRF_HeliCrew.et"
   }
   m_bDeleteWhenEmpty 0
  }

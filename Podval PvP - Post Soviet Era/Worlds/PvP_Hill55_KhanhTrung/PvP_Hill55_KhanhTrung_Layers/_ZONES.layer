@@ -9,7 +9,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 8
     m_bReversed 1
     m_aVisibleForFactions {
-     "Ses_TKG" "RHS_USAF" ""
+     "Drg_PIR" "RHS_USAF" ""
     }
    }
   }
@@ -91,10 +91,22 @@ $grp PolylineShapeEntity {
     Position 663.467 -70.192 95.123
    }
    ShapePoint "{61DF0D2BD81C6B75}" {
-    Position 778.824 -64.691 38.202
+    Position 1131.824 -65.142 17.155
+   }
+   ShapePoint "{651CDC34091A070B}" {
+    Position 1714.926 -0 -282.358
+   }
+   ShapePoint "{651CC5C593C68161}" {
+    Position 1714.096 -4.447 -385.16
+   }
+   ShapePoint "{651CC5C5E55F3D30}" {
+    Position 1584.323 0 -672.081
+   }
+   ShapePoint "{651CC5C5E7913CCB}" {
+    Position 1193.888 0 -577.619
    }
    ShapePoint "{61DF0D2BDBE1642D}" {
-    Position 729.522 -67.752 -205.365
+    Position 905.065 -55.831 -488.566
    }
    ShapePoint "{61DF0D2BD52A1A7C}" {
     Position 654.789 -53.087 -286.717
@@ -165,7 +177,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 8
     m_bLineMode 1
     m_aVisibleForFactions {
-     "Ses_TKG" "RHS_USAF" ""
+     "Drg_PIR" "RHS_USAF" ""
     }
    }
   }
@@ -201,7 +213,7 @@ $grp PolylineShapeEntity {
     m_cPolygonBorderColor 0 0.125 0.502 0
     m_fPolygonBorderWidth 8
     m_aVisibleForFactions {
-     "Ses_TKG" "RHS_USAF" ""
+     "Drg_PIR" "RHS_USAF" ""
     }
    }
   }
