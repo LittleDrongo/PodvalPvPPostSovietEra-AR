@@ -1,6 +1,18 @@
 SCR_AIGroup : "{05CC77E539FE3536}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_LigthRifleSquad.et" {
  coords 123.215 1 177.078
 }
+SCR_ChimeraCharacter : "{5A988A6419A39A3C}Prefabs/Characters/Factions/INDFOR/PIR/AT_variants/Character_TKR_AT3.et" {
+ coords 116.381 1 176.003
+}
 SCR_AIGroup : "{811D063FD0D09047}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_HigthRifleSquad.et" {
  coords 122.333 1 182.929
+}
+SCR_ChimeraCharacter : "{86E82C6AFE916FB1}Prefabs/Characters/Factions/INDFOR/PIR/Character_TKR_AT_random.et" {
+ coords 118.324 1 178.711
+}
+SCR_ChimeraCharacter : "{9411D814ADD0FF4C}Prefabs/Characters/Factions/INDFOR/PIR/AT_variants/Character_TKR_AT_2.et" {
+ coords 117.879 1 176.018
+}
+SCR_ChimeraCharacter : "{F845ECF411147062}Prefabs/Characters/Factions/INDFOR/PIR/AT_variants/Character_TKR_AT_1.et" {
+ coords 116.965 1 175.882
 }

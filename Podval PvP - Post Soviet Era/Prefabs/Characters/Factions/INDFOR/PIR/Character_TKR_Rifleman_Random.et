@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman.et" {
+SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/PIR/Rifleman_variants/Character_TKR_Rifleman.et" {
  ID "520EC961A090B1EE"
  components {
   PS_PlayableComponent "{5EFCC1946F475F15}" {
@@ -12,19 +12,19 @@ SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR
     m_bRandomizeDefaultVariant 0
     m_aVariants {
      SCR_EditableEntityVariant "{61D2C0544460D64E}" {
-      m_sVariantPrefab "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman.et"
+      m_sVariantPrefab "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/PIR/Rifleman_variants/Character_TKR_Rifleman.et"
      }
      SCR_EditableEntityVariant "{61D2C0544460D650}" {
-      m_sVariantPrefab "{BF3313429A87BF14}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_2.et"
+      m_sVariantPrefab "{BF3313429A87BF14}Prefabs/Characters/Factions/INDFOR/PIR/Rifleman_variants/Character_TKR_Rifleman_2.et"
      }
      SCR_EditableEntityVariant "{61D2C0544460D655}" {
-      m_sVariantPrefab "{5AAF5FBB9662287F}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_3.et"
+      m_sVariantPrefab "{5AAF5FBB9662287F}Prefabs/Characters/Factions/INDFOR/PIR/Rifleman_variants/Character_TKR_Rifleman_3.et"
      }
      SCR_EditableEntityVariant "{61D2C0544460D65B}" {
-      m_sVariantPrefab "{679B7A83E30EA148}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_4.et"
+      m_sVariantPrefab "{679B7A83E30EA148}Prefabs/Characters/Factions/INDFOR/PIR/Rifleman_variants/Character_TKR_Rifleman_4.et"
      }
      SCR_EditableEntityVariant "{61D2C0539884028C}" {
-      m_sVariantPrefab "{8207367AEFEB3623}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman_variants/Character_TKR_Rifleman_5.et"
+      m_sVariantPrefab "{8207367AEFEB3623}Prefabs/Characters/Factions/INDFOR/PIR/Rifleman_variants/Character_TKR_Rifleman_5.et"
      }
     }
    }
@@ -49,7 +49,7 @@ SCR_ChimeraCharacter : "{DED726BD40B7E054}Prefabs/Characters/Factions/INDFOR/TKR
      }
     }
     ItemsInitConfigurationItem "{61D2C0578E2FCAC6}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik.et"
+     TargetStorage "Back/Backpack_Kolobok.et"
      PrefabsToSpawn {
       "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{BBB50A815A2F916B}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Ball.et" "{E5912E45754CD421}Prefabs/Weapons/Magazines/Magazine_545x39_AK_30rnd_Tracer.et"
      }

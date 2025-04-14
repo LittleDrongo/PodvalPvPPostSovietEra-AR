@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{B6363CFEB5721650}Prefabs/Characters/Factions/INDFOR/TKR/SR_variants/Character_TKR_SR_var2.et" {
+SCR_ChimeraCharacter : "{B6363CFEB5721650}Prefabs/Characters/Factions/INDFOR/PIR/SR_variants/Character_TKR_SR_var2.et" {
  ID "520EC961A090B1EE"
  components {
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
@@ -25,7 +25,7 @@ SCR_ChimeraCharacter : "{B6363CFEB5721650}Prefabs/Characters/Factions/INDFOR/TKR
      }
     }
     ItemsInitConfigurationItem "{61D2C0578E2FCAC6}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_Lifchik/Vest_Lifchik_TKA.et"
+     TargetStorage "Back/Backpack_Kolobok.et"
      PrefabsToSpawn {
       "{BC74DAC891D48540}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_Ball.et" "{BC74DAC891D48540}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_Ball.et" "{BC74DAC891D48540}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_Ball.et" "{BC74DAC891D48540}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_Ball.et" "{5897D01F41DB5D2D}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_Tracer.et" "{BC74DAC891D48540}Prefabs/Weapons/Magazines/Magazine_545x39_RPK_45rnd_Ball.et"
      }

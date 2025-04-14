@@ -94,7 +94,7 @@ $grp PolylineShapeEntity {
     Position 1131.824 -65.142 17.155
    }
    ShapePoint "{651CDC34091A070B}" {
-    Position 1714.926 -0 -282.358
+    Position 1714.926 0 -282.358
    }
    ShapePoint "{651CC5C593C68161}" {
     Position 1714.096 -4.447 -385.16
