@@ -1,5 +1,5 @@
 $grp PS_Objective {
- {
+ FLAG_AFRF {
   components {
    RplComponent "{61D770792CB54432}" {
     Streamable Disabled
@@ -11,8 +11,9 @@ $grp PS_Objective {
   m_sTitle "Деревня захвачена"
   m_iScore 100
   m_sFactionKey "RHS_AFRF"
+  m_bAdvanceWhenTriggered 1
  }
- {
+ FLAG_USAF {
   components {
    RplComponent "{61D770792CB54432}" {
     Streamable Disabled
