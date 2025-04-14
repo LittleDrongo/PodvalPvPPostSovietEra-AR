@@ -257,6 +257,30 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{651C6978445A8882}" {
+   Id "DRG_FactionPirates"
+   Target_en_us "Pirates"
+   Target_ru_ru "Пираты"
+   Modified 1696364942
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{651C69792F6BD7A3}" {
+   Id "DRG_FactionPiratesUpper"
+   Target_en_us "Confederation of Pirates"
+   Target_ru_ru "Конфедерация пиратов"
+   Modified 1696365240
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{651C6975AE3CC35E}" {
+   Id "DRG_FactionSmugglers"
+   Target_en_us "Smugglers"
+   Target_ru_ru "Контрабандисты"
+   Modified 1696363624
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{64D476D3BB2000B9}" {
    Id "DRG_IGF"
    Target_en_us "IGF"
@@ -565,6 +589,22 @@ StringTable {
    Target_en_us "Rebel Machinegunner"
    Target_ru_ru "Боевик пулемётчик"
    Modified 1641210761
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{651C7E69AEB48499}" {
+   Id "DRG_TKR_Roles_MortarLeader"
+   Target_en_us "Rebel Mortar Leader"
+   Target_ru_ru "Боевик командир миномёта"
+   Modified 1696367184
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{651C7E6A0A99BA32}" {
+   Id "DRG_TKR_Roles_Mortarman"
+   Target_en_us "Rebel Mortarman"
+   Target_ru_ru "Боевик миномётчик"
+   Modified 1696367453
    Author "hasta"
    LastChanged "hasta"
   }

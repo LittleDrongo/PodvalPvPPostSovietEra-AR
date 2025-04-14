@@ -10,7 +10,7 @@ $grp PS_Objective {
   coords 2834.407 12.151 2650.952
   m_sTitle "Главарь жив"
   m_iScore 50
-  m_sFactionKey "Ses_TKG"
+  m_sFactionKey "Drg_PIR"
  }
  {
   components {
@@ -35,8 +35,9 @@ $grp PS_Objective {
   }
   coords 1901.351 16.733 2982.288
   m_sTitle "Грузовик #1 цел"
+  m_iOrder 1
   m_iScore 10
-  m_sFactionKey "Ses_TKG"
+  m_sFactionKey "Drg_PIR"
  }
  {
   components {
@@ -48,8 +49,9 @@ $grp PS_Objective {
   }
   coords 1901.351 16.733 2982.288
   m_sTitle "Грузовик #2 цел"
+  m_iOrder 2
   m_iScore 10
-  m_sFactionKey "Ses_TKG"
+  m_sFactionKey "Drg_PIR"
  }
  {
   components {
@@ -61,8 +63,9 @@ $grp PS_Objective {
   }
   coords 1901.351 16.733 2982.288
   m_sTitle "Грузовик #3 цел"
+  m_iOrder 3
   m_iScore 10
-  m_sFactionKey "Ses_TKG"
+  m_sFactionKey "Drg_PIR"
  }
  {
   components {
@@ -74,8 +77,9 @@ $grp PS_Objective {
   }
   coords 1901.351 16.733 2982.288
   m_sTitle "Грузовик #4 цел"
+  m_iOrder 4
   m_iScore 10
-  m_sFactionKey "Ses_TKG"
+  m_sFactionKey "Drg_PIR"
  }
  {
   components {
@@ -87,8 +91,9 @@ $grp PS_Objective {
   }
   coords 1901.351 16.733 2982.288
   m_sTitle "Грузовик #5 цел"
+  m_iOrder 5
   m_iScore 10
-  m_sFactionKey "Ses_TKG"
+  m_sFactionKey "Drg_PIR"
  }
  {
   components {
@@ -100,6 +105,7 @@ $grp PS_Objective {
   }
   coords 1901.351 16.733 2982.288
   m_sTitle "Грузовик #1 уничтожен"
+  m_iOrder 1
   m_iScore 10
   m_sFactionKey "RHS_AFRF"
  }
@@ -113,6 +119,7 @@ $grp PS_Objective {
   }
   coords 2012.798 10.388 2938.295
   m_sTitle "Грузовик #2 уничтожен"
+  m_iOrder 2
   m_iScore 10
   m_sFactionKey "RHS_AFRF"
  }
@@ -126,6 +133,7 @@ $grp PS_Objective {
   }
   coords 2012.798 10.388 2938.295
   m_sTitle "Грузовик #3 уничтожен"
+  m_iOrder 3
   m_iScore 10
   m_sFactionKey "RHS_AFRF"
  }
@@ -139,6 +147,7 @@ $grp PS_Objective {
   }
   coords 2012.798 10.388 2938.295
   m_sTitle "Грузовик #4 уничтожен"
+  m_iOrder 4
   m_iScore 10
   m_sFactionKey "RHS_AFRF"
  }
@@ -152,6 +161,7 @@ $grp PS_Objective {
   }
   coords 2012.798 10.388 2938.295
   m_sTitle "Грузовик #5 уничтожен"
+  m_iOrder 5
   m_iScore 10
   m_sFactionKey "RHS_AFRF"
  }

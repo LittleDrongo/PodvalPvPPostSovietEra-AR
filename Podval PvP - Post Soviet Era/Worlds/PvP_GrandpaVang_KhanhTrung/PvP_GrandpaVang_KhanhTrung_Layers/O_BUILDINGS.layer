@@ -34,7 +34,7 @@ GenericEntity : "{F9A490888BED61DB}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_
  {
   GenericEntity {
    ID "5D453938FA2CE085"
-   coords -1.796 -0 -0.665
+   coords -1.796 0 -0.665
   }
   GenericEntity {
    ID "5E330D6C9FDD1551"

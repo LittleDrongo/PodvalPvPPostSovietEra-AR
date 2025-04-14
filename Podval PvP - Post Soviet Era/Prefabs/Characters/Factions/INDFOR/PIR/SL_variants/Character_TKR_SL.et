@@ -13,7 +13,7 @@ SCR_ChimeraCharacter : "{C5520722FCCA576E}Prefabs/Characters/Factions/INDFOR/TKR
    }
   }
   FactionAffiliationComponent "{60745A466E15E001}" {
-   "faction affiliation" "Ses_TKG"
+   "faction affiliation" "Drg_PIR"
   }
   PS_PlayableComponent "{5EFCC1946F475F15}" {
    m_bIsPlayable 1

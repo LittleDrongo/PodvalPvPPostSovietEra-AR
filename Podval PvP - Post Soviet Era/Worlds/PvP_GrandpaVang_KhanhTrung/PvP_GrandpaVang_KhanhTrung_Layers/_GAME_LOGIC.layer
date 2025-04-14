@@ -1,0 +1,20 @@
+PS_Objective timer : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ coords 2372.899 0 3398.275
+ m_sTitle "time end (system)"
+ m_sFactionKey "NULL"
+ m_bAdvanceWhenTriggered 1
+}
+GenericEntity : "{E6FC6DD69FA3479F}Prefabs/System/DRG_MissionEndTimerPrefab.et" {
+ components {
+  DRG_MissionEndTimerComponent "{651B0839B21B3BBF}" {
+   m_iMissionTime 2703
+   m_aObjectiveNames {
+    "timer"
+   }
+   m_aTimeLeftWarningTimers {
+    2700
+   }
+  }
+ }
+ coords 3370.394 9.14 208.187
+}

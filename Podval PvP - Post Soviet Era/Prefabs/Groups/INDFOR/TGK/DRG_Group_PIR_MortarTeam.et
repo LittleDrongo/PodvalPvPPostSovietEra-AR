@@ -4,7 +4,7 @@ SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_P.et
   AIFormationComponent "{507E9DC12F541FE6}" {
    DefaultFormation " "
   }
-  PS_GroupCallsignAssigner "{65154C1E6C2E8928}" {
+  PS_GroupCallsignAssigner "{651C7E696D04B20F}" {
    m_iCompanyCallsign 1
    m_iSquadCallsign 1
   }

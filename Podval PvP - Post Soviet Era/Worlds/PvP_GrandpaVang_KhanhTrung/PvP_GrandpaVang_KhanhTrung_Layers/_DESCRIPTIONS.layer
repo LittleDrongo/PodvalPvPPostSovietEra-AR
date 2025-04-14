@@ -1,5 +1,5 @@
 $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescription/EditableMissionDescription.et" {
- RULES {
+ "_1_RULES" {
   coords 5534.73 61.71 10496.381
   m_sTitle "#PS-Description_HeaderRules"
   m_sTextData "ОБЩИЕ ПРАВИЛА"\
@@ -18,8 +18,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 2. Не дать убить главаря боевиков (+50)"
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
+  m_iOrder 1
  }
- RHS_AFRF {
+ "_2_RHS_AFRF" {
   coords 5159.505 56.132 10322.095
   m_sTitle "Задачи для ВС РФ"
   m_sTextData "НАШИ ЗАДАЧИ:"\
@@ -28,26 +29,20 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_aVisibleForFactions {
    "RHS_AFRF"
   }
+  m_iOrder 2
  }
- Ses_TKG {
+ "_2_Ses_TKG" {
   coords 5534.418 43.503 10540.239
   m_sTitle "Задачи боевиков"
   m_sTextData "НАШИ ЗАДАЧИ:"\
   "— 1. Сохранить 5 грузовиков снабжения (+10 за грузовик)"\
   "— 2. Не дать убить главаря боевиков (+50)"
   m_aVisibleForFactions {
-   "Ses_TKG"
+   "Drg_PIR"
   }
+  m_iOrder 2
  }
- CDF {
-  coords 5626.204 38.464 10536.691
-  m_sTitle "#DRG-Description_HeaderCDF"
-  m_sTextData "Удержать контроль над городом Выбор."
-  m_aVisibleForFactions {
-   "Ses_CDF"
-  }
- }
- ABOUT {
+ "_0_ABOUT" {
   coords 5568.057 56.802 10524.196
   m_sTitle "#PS-Description_HeaderAboutMission"
   m_sTextData "В ходе партизанской войны ССО ВС РФ проводит операции по уничтожеию банд-формирования на территории Лаоса."\
