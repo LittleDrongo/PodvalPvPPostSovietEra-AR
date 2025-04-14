@@ -1,6 +1,6 @@
-PS_Objective TIMER_OBJ : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
- coords 4256.378 0 11337.29
- m_sTitle "time"
+PS_Objective TimerObjective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ coords 3076.154 46.28 1524.35
+ m_sTitle "end_mission_timer"
  m_sFactionKey "NULL"
  m_bAdvanceWhenTriggered 1
 }
@@ -9,12 +9,12 @@ GenericEntity : "{E6FC6DD69FA3479F}Prefabs/System/DRG_MissionEndTimerPrefab.et" 
   DRG_MissionEndTimerComponent "{651B0839B21B3BBF}" {
    m_iMissionTime 2703
    m_aObjectiveNames {
-    "TIMER_OBJ"
+    "TimerObjective"
    }
    m_aTimeLeftWarningTimers {
     2700
    }
   }
  }
- coords 2784.001 6.195 893.31
+ coords 0 0 0
 }

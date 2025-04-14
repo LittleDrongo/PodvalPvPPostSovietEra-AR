@@ -2,6 +2,7 @@ $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
  FLAG_A_USAF {
   coords 4275.639 0 11239.247
   m_sTitle "Удержать здание А"
+  m_iScore 50
   m_sFactionKey "RHS_USAF"
  }
  FLAG_B_USAF {

@@ -1,6 +1,17 @@
-SCR_ChimeraCharacter : "{190DBC7358C5FB70}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_base.et" {
+SCR_ChimeraCharacter : "{190DBC7358C5FB70}Prefabs/Characters/Factions/INDFOR/PIR/Character_TKR_base.et" {
  ID "520EC961A090B1EE"
  components {
+  SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
+   components {
+    SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
+     InitialStorageSlots {
+      SCR_EquipmentStorageSlot WristwatchSlot {
+       Prefab "{6FD6C96121905202}Prefabs/Items/Equipment/Watches/Watch_Vostok.et"
+      }
+     }
+    }
+   }
+  }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {

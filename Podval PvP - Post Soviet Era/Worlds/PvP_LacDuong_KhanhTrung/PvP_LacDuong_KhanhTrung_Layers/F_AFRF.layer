@@ -1,6 +1,9 @@
 $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_RifleSquad_P.et" {
  RHS_RV_MSV_1 {
   components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
    }
   }
@@ -16,6 +19,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  }
  RHS_RV_MSV_2 {
   components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
     m_iCompanyCallsign 1
    }
@@ -32,6 +38,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  }
  RHS_RV_MSV_3 {
   components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
     m_iCompanyCallsign 1
     m_iSquadCallsign 1
@@ -49,6 +58,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  }
  RHS_RV_MSV_4 {
   components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
     m_iCompanyCallsign 1
     m_iSquadCallsign 2
@@ -66,6 +78,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  }
  RHS_RV_MSV_5 {
   components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
     m_iCompanyCallsign 2
    }
@@ -82,6 +97,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  }
  RHS_RV_MSV_6 {
   components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
     m_iCompanyCallsign 2
     m_iSquadCallsign 1
@@ -99,6 +117,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  }
  RHS_RV_MSV_7 {
   components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
     m_iCompanyCallsign 2
     m_iSquadCallsign 2
@@ -116,6 +137,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  }
  RHS_RV_MSV_8 {
   components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
+   }
    PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
     m_iCompanyCallsign 3
    }
@@ -132,9 +156,8 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
  }
  RHS_RV_MSV_9 {
   components {
-   PS_GroupCallsignAssigner "{61CF0727EF38EC7E}" {
-    m_iCompanyCallsign 3
-    m_iSquadCallsign 1
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation " "
    }
   }
   coords 2696.823 4.674 1621.536
