@@ -1,0 +1,99 @@
+$grp SCR_AIGroup : "{811D063FD0D09047}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_HigthRifleSquad.et" {
+ PIR_1_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 1184.126 90.217 1836.727
+  angleY 26.029
+ }
+ PIR_1_0_1 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1184.988 89.844 1841.211
+  angleY 26.492
+ }
+ PIR_1_0_2 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1186.059 89.398 1846.565
+  angleY 21.756
+ }
+ PIR_3_0_2 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 2
+   }
+  }
+  coords 1807.783 11.907 3097.465
+  angleY -130.865
+ }
+ PIR_3_0_1 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 1
+   }
+  }
+  coords 1802.237 11.764 3093.612
+  angleX -0.741
+  angleY -131.721
+  angleZ 1.859
+ }
+ PIR_3_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 3
+   }
+  }
+  coords 1805.441 11.821 3095.592
+  angleX -0.193
+  angleY -130.625
+  angleZ 2.523
+ }
+ PIR_2_0_1 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 433.655 10.813 2489.009
+  angleY 38.789
+ }
+ PIR_2_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 435.892 10.813 2491.424
+  angleY 39.765
+ }
+ PIR_2_0_2 {
+  components {
+   PS_GroupCallsignAssigner "{65155113282304D1}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 431.666 10.813 2486.39
+  angleY 36.103
+ }
+}
+SCR_AIGroup PIR_0_0_0 : "{E15D86495A388780}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_CompanyHQ.et" {
+ coords 1182.22 90.522 1833.991
+ angleX 0.124
+ angleY 140.61
+ angleZ -1.26
+}
