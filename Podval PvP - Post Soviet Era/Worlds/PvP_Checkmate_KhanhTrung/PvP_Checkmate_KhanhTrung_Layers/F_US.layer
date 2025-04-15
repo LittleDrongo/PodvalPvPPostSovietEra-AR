@@ -86,7 +86,7 @@ $grp GenericEntity : "{75F437DA749FDF0D}Prefabs/Props/Military/AmmoBoxes/drg_Amm
   {
    $grp GenericEntity : "{75F437DA749FDF0D}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_81mm_mortar_3rnd_HE.et" {
     {
-     coords -0 0 -0.261
+     coords 0 0 -0.261
     }
     {
      coords 0 0 -0.517
@@ -133,7 +133,7 @@ $grp GenericEntity : "{75F437DA749FDF0D}Prefabs/Props/Military/AmmoBoxes/drg_Amm
      coords 0 0 -1.835
     }
     {
-     coords -0 0 -0.261
+     coords 0 0 -0.261
     }
    }
   }
@@ -162,7 +162,7 @@ $grp GenericEntity : "{75F437DA749FDF0D}Prefabs/Props/Military/AmmoBoxes/drg_Amm
      coords 0 0 -1.835
     }
     {
-     coords -0 0 -0.261
+     coords 0 0 -0.261
     }
    }
   }
@@ -191,7 +191,7 @@ $grp GenericEntity : "{75F437DA749FDF0D}Prefabs/Props/Military/AmmoBoxes/drg_Amm
      coords 0 0 -1.835
     }
     {
-     coords -0 0 -0.261
+     coords 0 0 -0.261
     }
    }
   }
@@ -234,7 +234,7 @@ $grp SCR_AIGroup : "{8D21AAF73F41E8F6}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_Ri
   angleY 85.942
   angleZ -1.082
   m_aUnitPrefabSlots {
-   "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{C42B6C8C59509617}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Rifleman_LAT.et" "{6B16D290E745CFEF}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_AR.et"
+   "{AC046B05DDBE646B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_Grenadier.et" "{39010C8A890ADB0C}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_MG.et" "{19D560184F0A377F}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/drg_Character_US_MGAB.et"
   }
   m_bSnapToTerrain 0
  }
