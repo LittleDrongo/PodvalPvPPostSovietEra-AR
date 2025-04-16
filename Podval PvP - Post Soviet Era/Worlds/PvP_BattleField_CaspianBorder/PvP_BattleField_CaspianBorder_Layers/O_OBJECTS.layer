@@ -51,7 +51,7 @@ SCR_DestructibleBuildingEntity : "{8A8A7A558772D718}Prefabs/Structures/Military/
 GenericEntity : "{E55FC02F8C1518A2}Prefabs/Structures/Military/Flags/FlagPole_02/FlagPole_02_V1_US.et" {
  coords 1717.493 9.639 811.76
 }
-$grp GenericEntity : "{EB610025D1631E00}Prefabs/Vehicles/Airplanes/IL76/Plane_IL76.et" {
+$grp GenericEntity : "{EB610025D1631E00}Prefabs/Vehicles/Airplanes/IL76/Plane_IL76_base.et" {
  {
   coords 2205.959 17.45 1942.918
   angleY -55.629
