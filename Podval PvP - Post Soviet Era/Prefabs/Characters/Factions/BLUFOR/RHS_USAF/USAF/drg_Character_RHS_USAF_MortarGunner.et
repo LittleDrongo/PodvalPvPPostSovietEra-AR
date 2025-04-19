@@ -7,5 +7,12 @@ SCR_ChimeraCharacter : "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS
     Icon "{E897433F42FEC3C0}UI/Icons/mortar.edds"
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{61CF392CD2FA5E56}" {
+     TargetStorage "ArmoredVest/Vest_PCGen_III.et"
+    }
+   }
+  }
  }
 }
