@@ -5,7 +5,7 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
     LossLogic "{65220A997D9BC9C3}" {
      m_aLosses {
       FactionLoss "{65220A9943CE341A}" {
-       m_iCriticalLossCount 6
+       m_iCriticalLossCount 3
        m_sFactionKey "RHS_AFRF"
       }
      }
@@ -19,6 +19,7 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
     LossLogic "{65220A997DF2C23B}" {
      m_aLosses {
       FactionLoss "{65220A99414FC3CE}" {
+       m_iCriticalLossCount 0
        m_sFactionKey "Drg_PIR"
       }
      }
