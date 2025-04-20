@@ -52,9 +52,8 @@ StringTable {
   CustomStringTableItem "{628699D4A6720E10}" {
    Id "DRG-Description_HeaderION"
    Target_en_us "Tasks for ION"
-   Target_pl_pl "Bóbr, kurwa!"
    Target_ru_ru "Задачи для ИОН"
-   Modified 1652990006
+   Modified 1697187375
    Author "hasta"
    LastChanged "hasta"
   }
