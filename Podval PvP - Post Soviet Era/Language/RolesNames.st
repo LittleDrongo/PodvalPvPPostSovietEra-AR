@@ -139,9 +139,17 @@ StringTable {
   }
   CustomStringTableItem "{64D364366F73B2F2}" {
    Id "DRG-Roles-RHS_Medic"
-   Target_en_us "Medic"
+   Target_en_us "Senior Medic"
    Target_ru_ru "Санитарный инструктор"
-   Modified 1691577313
+   Modified 1697189990
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{65290BEFFD3CE927}" {
+   Id "DRG-Roles-RHS_MedicRifleman"
+   Target_en_us "Medic"
+   Target_ru_ru "Стрелок-санитар"
+   Modified 1697189974
    Author "hasta"
    LastChanged "hasta"
   }
