@@ -137,6 +137,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{65292AF21363AE4F}" {
+   Id "DRG-Role-Flamethrower"
+   Target_en_us "Flamethrower"
+   Target_ru_ru "Огнемётчик"
+   Modified 1697196883
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{64D364366F73B2F2}" {
    Id "DRG-Roles-RHS_Medic"
    Target_en_us "Senior Medic"
