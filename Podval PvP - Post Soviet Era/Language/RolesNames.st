@@ -129,12 +129,6 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
-  CustomStringTableItem "{652ABD1F8C10638D}" {
-   Id "DRG-Rifleman_GL"
-   Modified 1697303053
-   Author "hasta"
-   LastChanged "hasta"
-  }
   CustomStringTableItem "{60D4A950E1A5DEA1}" {
    Id "DRG-Rifleman_SSO"
    Target_en_us "Spec-Ops Operator"

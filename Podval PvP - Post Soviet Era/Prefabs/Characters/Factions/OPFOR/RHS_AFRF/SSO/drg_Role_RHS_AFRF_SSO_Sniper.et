@@ -23,6 +23,13 @@ SCR_ChimeraCharacter : "{7ABD26EDB53E4CF8}Prefabs/Characters/Factions/OPFOR/RHS_
   CharacterWeaponSlotComponent "{520EA1D2F659CFB7}" {
    WeaponTemplate "{45520DFB75F85B80}Prefabs/Weapons/Rifles/SR3M/Rifle_SR3M_wd__sup_PSO.et"
   }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo HandWear {
+     Prefab ""
+    }
+   }
+  }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{652AB887490AEFFB}" {
