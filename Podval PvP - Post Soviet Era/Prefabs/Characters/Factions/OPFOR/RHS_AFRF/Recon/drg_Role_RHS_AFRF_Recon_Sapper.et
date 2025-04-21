@@ -3,7 +3,7 @@ SCR_ChimeraCharacter : "{FA87DB28ECBB88A4}Prefabs/Characters/Factions/OPFOR/RHS_
  components {
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    Name "#DRG-Role_EngineerSapper"
+    Name "#DRG-Role_ReconSapper"
    }
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
