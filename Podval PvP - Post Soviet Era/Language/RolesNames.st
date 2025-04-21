@@ -81,6 +81,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{652ABD173A2C6FE5}" {
+   Id "DRG-Flamethrower_SSO"
+   Target_en_us "Spec-Ops -Flamethrower"
+   Target_ru_ru "Оператор огнемётчик"
+   Modified 1697306724
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60477B7AA35CC11C}" {
    Id "DRG-GUNNER"
    Target_en_us "Crew-Gunner"
@@ -121,11 +129,33 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{652ABD1F8C10638D}" {
+   Id "DRG-Rifleman_GL"
+   Modified 1697303053
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60D4A950E1A5DEA1}" {
    Id "DRG-Rifleman_SSO"
    Target_en_us "Spec-Ops Operator"
    Target_ru_ru "Оперативник ССО"
    Modified 1683291846
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652ABD1FE4565C3E}" {
+   Id "DRG-Rifleman_SSO_GL"
+   Target_en_us "Spec-Ops Operator GL"
+   Target_ru_ru "Оперативник ССО (ГП-25)"
+   Modified 1697303121
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652ABD12C9605732}" {
+   Id "DRG-Rifleman_SSO_GM94"
+   Target_en_us "Spec-Ops Operator GM94"
+   Target_ru_ru "Оперативник ССО (ГМ-94)"
+   Modified 1697305739
    Author "hasta"
    LastChanged "hasta"
   }
@@ -244,7 +274,8 @@ StringTable {
   CustomStringTableItem "{6454F7818C721A31}" {
    Id "DRG-Scam-Dollars"
    Target_en_us "Scam dollars"
-   Modified 1683298315
+   Target_ru_ru "Скам доллары"
+   Modified 1697303265
    Author "hasta"
    LastChanged "hasta"
   }
@@ -538,8 +569,9 @@ StringTable {
   }
   CustomStringTableItem "{6454F7AD163C0F5C}" {
    Id "DRG_Senior_Policeman"
+   Target_en_us "Senior policeman"
    Target_ru_ru "Старший полицейский"
-   Modified 1683319477
+   Modified 1697303079
    Author "hasta"
    LastChanged "hasta"
   }

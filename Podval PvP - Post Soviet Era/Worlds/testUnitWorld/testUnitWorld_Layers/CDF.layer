@@ -1,3 +1,6 @@
+GenericEntity : "{08EA5117A64D0A16}Prefabs/Characters/Vests/Vest_AVS/Variants/Vest_AVS_arsarma_Hsgi_EMR_MG.et" {
+ coords 118.159 1 220.085
+}
 GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
  coords 105.467 1 201.684
 }
@@ -7,10 +10,7 @@ Projectile : "{12AE2D4ADE7A5EE1}Prefabs/Weapons/Ammo/Ammo_Rocket_RPOD.et" {
 GenericEntity : "{2E74A9E819E76157}Prefabs/Weapons/Warheads/Warhead_Smoke_RPOD.et" {
  coords 108.191 1 205
 }
-SCR_ChimeraCharacter : "{33FA1C11138E145A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Army/drg_Role_RHS_AFRF_Army_GL.et" {
- coords 106.379 1 201.453
-}
-$grp Projectile : "{34FB0732CCED1504}Prefabs/Weapons/Ammo/drg_Ammo_Grenade_Smoke_GDM-40_test.et" {
+$grp Projectile : "{34FB0732CCED1504}Prefabs/Weapons/Ammo/drg_Ammo_Grenade_Smoke_GDM-40.et" {
  {
   coords 106.261 1 203.758
  }
@@ -48,17 +48,23 @@ $grp Projectile : "{34FB0732CCED1504}Prefabs/Weapons/Ammo/drg_Ammo_Grenade_Smoke
   coords 108.357 2.018 204.059
  }
 }
+GenericEntity : "{50A879C61DABCC2F}Prefabs/Characters/Vests/Vest_AACPC/variants/Vest_AACPC_arsarmaHSGI_FG_MG2.et" {
+ coords 117.655 1 219.93
+}
 GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_01.et" {
- coords 108.361 1 203.854
+ coords 108.177 1 208.217
+}
+GenericEntity : "{6EAF16F58A111439}Prefabs/Characters/Vests/Vest_AACPC/variants/Vest_AACPC_arsarmaHSGI_FG_MG.et" {
+ coords 116.94 1 218.742
 }
 GenericEntity : "{95D369F2458C53C7}Prefabs/Weapons/Warheads/Warhead_Smoke_GDM.et" {
- coords 108.299 2.018 204.145
+ coords 107.632 2.018 208.415
+}
+GenericEntity : "{A106577FA586E751}Prefabs/Items/Equipment/RangeCard/Rangecard_SVD.et" {
+ coords 118.127 1 211.345
 }
 GenericEntity : "{CC72701841E88868}Prefabs/Weapons/Warheads/Warhead_Smoke_GDM40.et" {
  coords 107.131 1 205.019
-}
-GenericEntity : "{F2D981317FBE6442}Prefabs/Items/Equipment/Backpacks/backpack_Wartech_BB102/Backpack_RPO.et" {
- coords 134.025 1 211.288
 }
 $grp SCR_AIGroup : "{F34EA9571C481A4D}Prefabs/Groups/OPFOR/drg_Group_RHS_AFRF_ShowCase.et" {
  {
@@ -71,6 +77,12 @@ $grp SCR_AIGroup : "{F34EA9571C481A4D}Prefabs/Groups/OPFOR/drg_Group_RHS_AFRF_Sh
   coords 107.911 1 199.717
   m_aUnitPrefabSlots {
    "{1AB049064B53BD02}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_Grenadier.et" "{B03D25C72F55C8EB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_Flamethrower.et" "{A985CD90251A1939}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_MG.et" "{1EE1253262037F41}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_RER.et" "{DF973A765CF4CE88}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_Rifle_GM94.et" "{453B61A702E0B161}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_Sapper.et" "{FA87DB28ECBB88A4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_Rifleman.et" "{89072075B73F4C52}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_SeniorRifleman.et" "{2BB6F9C635CFFE8B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_Sniper.et" "{964F7C7E17A618E4}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_SquadLeader.et" "" "" "" "" "" "" "" ""
+  }
+ }
+ {
+  coords 107.85 1 202.254
+  m_aUnitPrefabSlots {
+   "{EC325FC7AF4DDF9E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Unarmed.et" "{29E2CCD3B7EA0E54}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Armored.et" "{7ABD26EDB53E4CF8}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Rifleman.et" "{4398E9E35D42AE93}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Rifleman_Backpack.et" "{158AD0F1F856A3FB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_SL.et" "{443F5F68137EB115}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_SL_2.et" "{75D75FCF3D6568C2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_GL.et" "{BC6022BCA54C8393}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Sniper.et" "{06C8FEFEB2330650}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Rifleman_GM94.et" "{E2D367250B24708C}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_MG.et" "{07E4299FECCA2E8A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Flamethrower.et" "" "" "" "" ""
   }
  }
 }
