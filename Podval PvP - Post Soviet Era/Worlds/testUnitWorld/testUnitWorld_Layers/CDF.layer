@@ -63,11 +63,11 @@ GenericEntity : "{95D369F2458C53C7}Prefabs/Weapons/Warheads/Warhead_Smoke_GDM.et
 GenericEntity : "{A106577FA586E751}Prefabs/Items/Equipment/RangeCard/Rangecard_SVD.et" {
  coords 118.127 1 211.345
 }
-SCR_ChimeraCharacter : "{BC6022BCA54C8393}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Sniper.et" {
- coords 114.726 1 207.919
-}
 GenericEntity : "{CC72701841E88868}Prefabs/Weapons/Warheads/Warhead_Smoke_GDM40.et" {
  coords 107.131 1 205.019
+}
+SCR_ChimeraCharacter : "{EC325FC7AF4DDF9E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Unarmed.et" {
+ coords 113.323 1 207.895
 }
 $grp SCR_AIGroup : "{F34EA9571C481A4D}Prefabs/Groups/OPFOR/drg_Group_RHS_AFRF_ShowCase.et" {
  {
@@ -91,9 +91,6 @@ $grp SCR_AIGroup : "{F34EA9571C481A4D}Prefabs/Groups/OPFOR/drg_Group_RHS_AFRF_Sh
 }
 Projectile : "{F7807293E94D3C88}Prefabs/Weapons/Ammo/Ammo_Shell_81mm_Smoke_M819.et" {
  coords 106.745 1 204.168
-}
-SCR_ChimeraCharacter : "{FB5CB08831DBD440}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Officer.et" {
- coords 115.74 1 207.298
 }
 GenericEntity : "{FDACA6E5AEC36BD0}Prefabs/Weapons/Magazines/GM94/Magazine_43x30mm_GM94_4rnd_VGM93100.et" {
  coords 115.176 1 204.114
