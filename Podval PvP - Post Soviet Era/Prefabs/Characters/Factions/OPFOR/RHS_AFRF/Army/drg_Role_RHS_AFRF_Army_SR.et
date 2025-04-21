@@ -14,6 +14,7 @@ SCR_ChimeraCharacter : "{2836211FE98BA458}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#AR-Role_SeniorRifleman"
     Icon "{44B846FB4F46E36A}UI/Icons/team_leader.edds"
    }
   }
