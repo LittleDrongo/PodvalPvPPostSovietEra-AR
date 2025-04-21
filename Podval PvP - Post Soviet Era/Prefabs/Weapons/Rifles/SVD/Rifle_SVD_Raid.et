@@ -1,0 +1,42 @@
+GenericEntity : "{3EB02CDAD5F23C82}Prefabs/Weapons/Rifles/SVD/Rifle_SVD.et" {
+ ID "0000000000000001"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{652A716D14A689D5}" {
+     AttachmentSlot InventoryStorageSlot RIS_Slot {
+      PivotID "eye"
+      Offset 0.0041 0.0125 0.1555
+      ChildPivotID "snap_weapon"
+      Prefab "{6DC0EE135013FC47}Prefabs/Weapons/Attachments/Optics/ts30a2/optic_ts30a2_base.et"
+      InspectionWidgetOffset 0 0.1208 0
+     }
+     AttachmentType AttachmentOpticsRIS1913 "{652A716D14A689D3}" {
+     }
+     ShowInInspection 1
+    }
+    AttachmentSlotComponent "{652A716D14A689E7}" {
+     AttachmentSlot InventoryStorageSlot optics {
+      PivotID "slot_optic"
+      Offset -0.0284 0.0699 0.0803
+      ChildPivotID ""
+      Prefab "{39CB6FD1854B44B6}Prefabs/Weapons/Attachments/Rails/npz_valdai_rail/npz_valdai_rail.et"
+      InspectionWidgetOffset -0.025 0.1196 0
+     }
+     AttachmentType AttachmentUnderBarrelM203 "{652A716D14A689E8}" {
+     }
+     ShowInInspection 0
+    }
+    MuzzleComponent "{CA6BE4D6B867541F}" {
+     components {
+      AttachmentSlotComponent "{6292CE5A35393A83}" {
+       AttachmentSlot InventoryStorageSlot Muzzle {
+        Prefab "{18B5482585A88240}Prefabs/Weapons/Attachments/Muzzle/Supressor_TGPV/Supressor_TGPV2.et"
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

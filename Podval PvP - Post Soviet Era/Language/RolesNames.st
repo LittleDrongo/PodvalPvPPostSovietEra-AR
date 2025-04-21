@@ -145,6 +145,38 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{652A716B9EBC9A34}" {
+   Id "DRG-Role-ReconFlamethrower"
+   Target_en_us "Recon Flamethrower"
+   Target_ru_ru "Разведчик огнемётчик"
+   Modified 1697281628
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652A7167E8C9C749}" {
+   Id "DRG-Role_ReconMachineGunner"
+   Target_en_us "Recon Machinegunner"
+   Target_ru_ru "Разведчик пулемётчик"
+   Modified 1697287439
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652A716F800DEB6F}" {
+   Id "DRG-Role_ReconSniper"
+   Target_en_us "Recon Sniper"
+   Target_ru_ru "Разведчик-снайпер"
+   Modified 1697283411
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652A716A212D3FAA}" {
+   Id "DRG-Role_SeniorRecon"
+   Target_en_us "Senior Recon"
+   Target_ru_ru "Старший разведчик"
+   Modified 1697281850
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{64D364366F73B2F2}" {
    Id "DRG-Roles-RHS_Medic"
    Target_en_us "Senior Medic"

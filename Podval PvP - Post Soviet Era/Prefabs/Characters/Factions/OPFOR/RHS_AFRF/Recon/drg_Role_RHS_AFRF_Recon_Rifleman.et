@@ -28,13 +28,14 @@ SCR_ChimeraCharacter : "{29AF2674C2A01194}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{6528F2E079033878}" {
+     TargetPurpose 64
+    }
     ItemsInitConfigurationItem "{65296B142E5F4360}" {
      TargetStorage "Vest/Vest_TV110_arsarmaHSGI_OD_2.et/radio/Pouch_UP111_radioClosed_OD.et"
      PrefabsToSpawn {
       "{A2DD1D2EEB52BFC0}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_prv.et"
      }
-    }
-    ItemsInitConfigurationItem "{6528F2E079033878}" {
     }
     ItemsInitConfigurationItem "{65296B1FEACA7260}" {
      TargetStorage "Jacket/Triada_Combat_Shirt_EMR.et"
