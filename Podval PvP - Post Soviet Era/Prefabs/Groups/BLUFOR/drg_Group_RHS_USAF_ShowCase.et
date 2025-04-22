@@ -1,0 +1,14 @@
+SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_p.et" {
+ ID "0000000000000001"
+ components {
+  AIFormationComponent "{507E9DC12F541FE6}" {
+   DefaultFormation " "
+  }
+  PS_GroupCallsignAssigner "{652C93A76EF861F4}" {
+  }
+ }
+ m_faction "RHS_AFRF"
+ m_aUnitPrefabSlots {
+  "{38C8AA1A9D067B41}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Armored.et" "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman.et" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" ""
+ }
+}

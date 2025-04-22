@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{08D317D542BEE75A}Prefabs/Weapons/Rifles/M4A1/Rifle_M4A1_RAS_Aimpoint_M203_SSO.et"
+ Name "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
