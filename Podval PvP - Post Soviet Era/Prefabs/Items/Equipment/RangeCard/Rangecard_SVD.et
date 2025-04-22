@@ -19,5 +19,13 @@ GenericEntity : "{2E270983BF04AAB2}Prefabs/Items/Equipment/RangeCard/Rangecard_M
    "1100	---	19,1"\
    "1200	---	22,9"
   }
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "Rangecard for SVD"
+     Description "Rangecard for SVD"
+    }
+   }
+  }
  }
 }

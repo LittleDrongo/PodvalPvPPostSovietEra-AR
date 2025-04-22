@@ -241,11 +241,27 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{652CBB1EB5E53889}" {
+   Id "DRG-Roles-RHS_USAF_Medic"
+   Target_en_us "Medic"
+   Target_ru_ru "Медик"
+   Modified 1697442780
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{61CED9378F6B6B92}" {
    Id "DRG-Roles_RHS_CrewCommander"
    Target_en_us "Crew-commander"
    Target_ru_ru "Командир экипажа"
    Modified 1640948511
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652CEBF8171FCAB9}" {
+   Id "DRG-Roles_RHS_Engineer"
+   Target_en_us "Engineer"
+   Target_ru_ru "Инженер"
+   Modified 1697449379
    Author "hasta"
    LastChanged "hasta"
   }
@@ -265,19 +281,27 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{652CEBF3ACBF087B}" {
+   Id "DRG-Roles_RHS_SeniorEngineer"
+   Target_en_us "Senior Engineer"
+   Target_ru_ru "Старший инженер"
+   Modified 1697446109
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652CEBF40EA8FAE6}" {
+   Id "DRG-Roles_RHS_SeniorSapper"
+   Target_en_us "Senior Engineering Sapper"
+   Target_ru_ru "Старший инженерной-сапёр"
+   Modified 1697443406
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{6454F7818C721A31}" {
    Id "DRG-Scam-Dollars"
    Target_en_us "Scam dollars"
    Target_ru_ru "Скам доллары"
    Modified 1697303265
-   Author "hasta"
-   LastChanged "hasta"
-  }
-  CustomStringTableItem "{6454F7955932DBED}" {
-   Id "DRG-SMAW_AT_SSO"
-   Target_en_us "Spec-Ops Operator SMAW"
-   Target_ru_ru "Оператор-ПТ SMAW ССО"
-   Modified 1683292341
    Author "hasta"
    LastChanged "hasta"
   }
@@ -550,6 +574,22 @@ StringTable {
    Target_en_us "Scout radio operator"
    Target_ru_ru "Разведчик-радиотелефонист"
    Modified 1640952533
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652CBB1084AC35BF}" {
+   Id "Drg_Roles_SMAW_Assistant"
+   Target_en_us "AT Specialist Assiastant"
+   Target_ru_ru "Номер расчёта ПТ"
+   Modified 1697442277
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652CBB10BDC72C2B}" {
+   Id "Drg_Roles_SMAW_Gunner"
+   Target_en_us "AT Specialist Gunner"
+   Target_ru_ru "Оператор-стрелок ПТ "
+   Modified 1697441961
    Author "hasta"
    LastChanged "hasta"
   }

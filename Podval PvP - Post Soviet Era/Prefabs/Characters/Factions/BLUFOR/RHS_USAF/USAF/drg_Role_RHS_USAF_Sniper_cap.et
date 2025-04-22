@@ -1,0 +1,12 @@
+SCR_ChimeraCharacter : "{C7543DBFCFDB9ACB}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Sniper.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{1ACBEA34BC9743FD}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_MC_glass_gad.et"
+    }
+   }
+  }
+ }
+}
