@@ -185,6 +185,22 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{652EF0E0341A409F}" {
+   Id "DRG-Role_Recon_AT"
+   Target_en_us "Recon Anti-Tank"
+   Target_ru_ru "Разведчик-гранатомётчик"
+   Modified 1697579120
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{652EF0FA2405E4DC}" {
+   Id "DRG-Role_Recon_RTO"
+   Target_en_us "Recon RTO"
+   Target_ru_ru "Разведчик-радист"
+   Modified 1697583942
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{652A901C54A4F697}" {
    Id "DRG-Role_ReconGrenadier"
    Target_en_us "Recon Grenadier"
