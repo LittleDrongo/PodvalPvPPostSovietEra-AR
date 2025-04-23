@@ -12,6 +12,9 @@ $grp SCR_AIGroup : "{065EAFDA470DFA2B}Prefabs/Groups/BLUFOR/drg_Group_RHS_USAF_S
   }
  }
 }
+Projectile : "{34FB0732CCED1504}Prefabs/Weapons/Ammo/drg_Ammo_Grenade_Smoke_GDM-40.et" {
+ coords 106.893 1 241.589
+}
 GenericEntity : "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et" {
  coords 134.489 1 254.906
 }
@@ -20,7 +23,4 @@ GenericEntity : "{727AB5567E71B5C9}Prefabs/Weapons/Attachments/Muzzle/SUREFIRE/S
 }
 GenericEntity : "{8909A91CFF369BB3}Prefabs/Weapons/Rifles/M40/Rifle_M40A5_Optic.et" {
  coords 124.348 1 253.893
-}
-GenericEntity : "{B299D0C09090A7B4}Prefabs/Weapons/Rifles/M40/Rifle_M40A5_Optic_supp.et" {
- coords 134.267 1 253.317
 }

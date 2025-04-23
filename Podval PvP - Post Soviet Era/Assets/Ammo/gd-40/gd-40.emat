@@ -1,2 +1,6 @@
 MatPBRBasic {
+ RoughnessScale 1.5
+ MetalnessScale 1.381
+ BCRMap "{C5CC003AC7A97438}Assets/Ammo/gd-40/BCR.edds"
+ OpacityMap "{FD14BBA81EDE26A6}Assets/Ammo/gd-40/NMO.edds"
 }
