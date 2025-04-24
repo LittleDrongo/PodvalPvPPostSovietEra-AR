@@ -66,6 +66,12 @@ SCR_ChimeraCharacter : "{31125446007C2C87}Prefabs/Characters/Factions/BLUFOR/RHS
       "{E8F00BF730225B00}Prefabs/Weapons/Grenades/Grenade_M67.et"
      }
     }
+    ItemsInitConfigurationItem "{6531281573CF1791}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_Coy_MG.et/pistol/Pouch_Highspeed_Pistol.et"
+    }
+    ItemsInitConfigurationItem "{65312815703CEE12}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_Coy_MG.et/pistolpouch2/Pouch_Highspeed_Bleeder.et"
+    }
    }
   }
  }

@@ -14,21 +14,19 @@ $grp SCR_AIGroup : "{065EAFDA470DFA2B}Prefabs/Groups/BLUFOR/drg_Group_RHS_USAF_S
  {
   coords 110.325 1 236.01
   m_aUnitPrefabSlots {
-   "{047CAC6A83E4AB65}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_SL.et" "{B26137637A9893A7}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_SeniorOperator.et" "{60EA05484B917AB2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_OperatorSapper.et" "{31125446007C2C87}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_Operator.et" "{297F64CBADAB17B2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_Operator_RTO.et" "{3BE3836FDF2F1D95}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_MG.et"
+   "{047CAC6A83E4AB65}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_SL.et" "{B26137637A9893A7}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_SeniorOperator.et" "{60EA05484B917AB2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_OperatorSapper.et" "{31125446007C2C87}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_Operator.et" "{297F64CBADAB17B2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_Operator_RTO.et" "{3BE3836FDF2F1D95}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_MG.et" "{3DC921F2C577E58A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_Operator_SMAW.et" "" "" "" ""
   }
  }
 }
-GameEntity : "{2B10341C641EC041}Prefabs/Items/Equipment/Thermals/PATROL_IR/Thermal_PatrolIr.et" {
- coords 116.136 1 232.33
-}
-SCR_ChimeraCharacter : "{3BE3836FDF2F1D95}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_MG.et" {
- coords 117.214 1 231.926
-}
-SCR_ChimeraCharacter : "{60EA05484B917AB2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_OperatorSapper.et" {
- coords 115.568 1 232.002
+Projectile : "{34FB0732CCED1504}Prefabs/Weapons/Ammo/drg_Ammo_Grenade_Smoke_GDM-40.et" {
+ coords 108.936 2.077 233.494
+ angleX 4.297
 }
 GenericEntity : "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et" {
  coords 134.489 1 254.906
+}
+GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_01.et" {
+ coords 108.999 1 233.157
 }
 GenericEntity : "{727AB5567E71B5C9}Prefabs/Weapons/Attachments/Muzzle/SUREFIRE/SF_FA762SS_TAN.et" {
  coords 134.866 1 254.825

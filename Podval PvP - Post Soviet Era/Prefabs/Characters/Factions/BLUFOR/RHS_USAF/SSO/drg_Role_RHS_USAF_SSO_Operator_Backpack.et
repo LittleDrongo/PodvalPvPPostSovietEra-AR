@@ -49,6 +49,12 @@ SCR_ChimeraCharacter : "{31125446007C2C87}Prefabs/Characters/Factions/BLUFOR/RHS
       "{AE484B2A9DBDF18E}Prefabs/Weapons/Magazines/Pmag/Magazine_556x45_PmagWindowed_Coy_30rnd_M995.et"
      }
     }
+    ItemsInitConfigurationItem "{6531281573CF1791}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_MC2.et/pistolpouch2/Pouch_Filbe_M67_Base.et"
+    }
+    ItemsInitConfigurationItem "{65312815703CEE12}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_MC2.et/pistolpouch3/Pouch_Filbe_M67_2.et"
+    }
    }
   }
  }

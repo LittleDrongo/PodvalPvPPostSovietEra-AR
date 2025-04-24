@@ -329,6 +329,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{65312817064602CF}" {
+   Id "DRG-SMAW_SSO"
+   Target_en_us "Spec-Ops AT-Specialist (MK-153)"
+   Target_ru_ru "Оперативник ПТ Специалист"
+   Modified 1697720965
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60477B7FC9D67E7C}" {
    Id "DRG-SNIPER"
    Target_en_us "Sniper"

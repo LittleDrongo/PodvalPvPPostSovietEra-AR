@@ -31,7 +31,7 @@ SCR_ChimeraCharacter : "{6364D1EC200DE574}Prefabs/Characters/Factions/BLUFOR/RHS
    WeaponTemplate "{CC52FE46101A77BA}Prefabs/Weapons/Rifles/M4A1/URG-I/Rifle_M4A1_URGI_145_temp_bebra_SSO.et"
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
-   WeaponTemplate "{A8B4089ACB473848}Prefabs/Weapons/Handguns/MP443/Handgun_MP443.et"
+   WeaponTemplate "{1F9DA556822C78DA}Prefabs/Weapons/Handguns/M17/Handgun_M18.et"
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
@@ -100,6 +100,18 @@ SCR_ChimeraCharacter : "{6364D1EC200DE574}Prefabs/Characters/Factions/BLUFOR/RHS
      TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_MC.et"
      PrefabsToSpawn {
       "{B1798B0F1258B765}Prefabs/Items/Equipment/Navigation/DAGR/DAGR.et"
+     }
+    }
+    ItemsInitConfigurationItem "{6531281573CF1791}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_MC3.et/pistolbelt/Pouch_Highspeed_Pistol_MC.et"
+     PrefabsToSpawn {
+      "{378685356C8F72E6}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_24rnd.et"
+     }
+    }
+    ItemsInitConfigurationItem "{65312815703CEE12}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_MC3.et/pistolpouch2/Pouch_Highspeed_Pistol_MC.et"
+     PrefabsToSpawn {
+      "{378685356C8F72E6}Prefabs/Weapons/Magazines/m17_magazines/Magazine_9x19_m17_24rnd.et"
      }
     }
    }
