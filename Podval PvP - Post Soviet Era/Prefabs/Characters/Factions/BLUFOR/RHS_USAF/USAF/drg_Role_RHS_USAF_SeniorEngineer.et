@@ -6,5 +6,14 @@ SCR_ChimeraCharacter : "{B6952AB41DCBD2E8}Prefabs/Characters/Factions/BLUFOR/RHS
     Name "#DRG-Roles_RHS_SeniorEngineer"
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{652C93A579636E38}" {
+     PrefabsToSpawn {
+      "{C742BD6CB3D77A5A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL.et"
+     }
+    }
+   }
+  }
  }
 }

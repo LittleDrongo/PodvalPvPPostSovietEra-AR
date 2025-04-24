@@ -97,6 +97,14 @@ StringTable {
    Author "hasta"
    LastChanged "hasta"
   }
+  CustomStringTableItem "{65312813CBC769CE}" {
+   Id "DRG-Marksman_SSO"
+   Target_en_us "Spec-Ops Sniper"
+   Target_ru_ru "Оперативник снайпер"
+   Modified 1697723358
+   Author "hasta"
+   LastChanged "hasta"
+  }
   CustomStringTableItem "{60D6C02FD69A7C32}" {
    Id "DRG-Medic_SSO"
    Target_en_us "Spec-Ops Medic"
@@ -155,9 +163,17 @@ StringTable {
   }
   CustomStringTableItem "{6454F7D05B5A39E5}" {
    Id "DRG-Rifleman_SSO_RER"
-   Target_en_us "Spec-Ops Operator"
+   Target_en_us "Spec-Ops Radio Intelligence"
    Target_ru_ru "Оперативник ССО РЭР"
-   Modified 1683321908
+   Modified 1697723941
+   Author "hasta"
+   LastChanged "hasta"
+  }
+  CustomStringTableItem "{65312812140AB821}" {
+   Id "DRG-Rifleman_SSO_RTO"
+   Target_en_us "Spec-Ops RTO"
+   Target_ru_ru "Оперативник-связист ССО"
+   Modified 1697722554
    Author "hasta"
    LastChanged "hasta"
   }
@@ -627,9 +643,9 @@ StringTable {
   }
   CustomStringTableItem "{60D69CE45493CFAD}" {
    Id "DRG_Sapper_SSO"
-   Target_en_us "Spec-Ops Saboteur"
+   Target_en_us "Spec-Ops Sapper"
    Target_ru_ru "Подрывник ССО"
-   Modified 1640963691
+   Modified 1697723612
    Author "hasta"
    LastChanged "hasta"
   }

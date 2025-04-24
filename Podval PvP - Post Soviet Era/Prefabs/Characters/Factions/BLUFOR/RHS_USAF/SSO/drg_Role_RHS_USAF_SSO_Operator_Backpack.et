@@ -13,6 +13,9 @@ SCR_ChimeraCharacter : "{31125446007C2C87}Prefabs/Characters/Factions/BLUFOR/RHS
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{652F64E5F6201296}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_MC2.et/Tako/Pouch_AVS_MBITR_Radio_MC.et"
+    }
     ItemsInitConfigurationItem "{652F64E092A61571}" {
      TargetStorage "Vest/Vest_JPC_okinawa_MC2.et/tako/Pouch_FILBE_doubleM4_1.et"
     }

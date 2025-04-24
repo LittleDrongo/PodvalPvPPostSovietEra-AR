@@ -57,7 +57,6 @@ SCR_ChimeraCharacter : "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS
     ItemsInitConfigurationItem "{652C93A716618182}" {
      TargetStorage "Vest/Vest_JPC_okinawa_MC_sniper2.et/zip/Minimap_JPC_ZipOnPanel2.0_MC.et"
      PrefabsToSpawn {
-      "{727AB5567E71B5C9}Prefabs/Weapons/Attachments/Muzzle/SUREFIRE/SF_FA762SS_TAN.et"
      }
     }
     ItemsInitConfigurationItem "{652C93A27BBEB403}" {

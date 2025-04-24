@@ -17,6 +17,12 @@ SCR_ChimeraCharacter : "{F5C4670DF1BDE7D3}Prefabs/Characters/Factions/BLUFOR/RHS
       "{30BFCCBBC986CF50}Prefabs/Weapons/Ammo/Rocket_83mm_MK153_HEDP.et" "{30BFCCBBC986CF50}Prefabs/Weapons/Ammo/Rocket_83mm_MK153_HEDP.et" "{30BFCCBBC986CF50}Prefabs/Weapons/Ammo/Rocket_83mm_MK153_HEDP.et"
      }
     }
+    ItemsInitConfigurationItem "{6531281B76DA7A06}" {
+     TargetStorage "Back/Backpack_511_rush12_MC.et"
+     PrefabsToSpawn {
+      "{27AC9FC7F5E2BEEB}Prefabs/Weapons/Magazines/MK153/Container_MK153_HEDP.et" "{319873694735DE0F}Prefabs/Weapons/Magazines/MK153/Container_MK153_NE.et" "{2C935EF6F98E6354}Prefabs/Weapons/Magazines/MK153/Container_MK153_HEAA.et"
+     }
+    }
    }
   }
  }

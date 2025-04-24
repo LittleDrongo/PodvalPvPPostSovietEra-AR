@@ -1,6 +1,11 @@
 SCR_ChimeraCharacter : "{31125446007C2C87}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SSO/drg_Role_RHS_USAF_SSO_Operator.et" {
  ID "520EC961A090B1EE"
  components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#DRG-Rifleman_SSO_RTO"
+   }
+  }
   CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
    WeaponTemplate "{8069A3DF6410FDDF}Prefabs/Weapons/Handguns/M17/Handgun_M17.et"
   }
@@ -60,6 +65,12 @@ SCR_ChimeraCharacter : "{31125446007C2C87}Prefabs/Characters/Factions/BLUFOR/RHS
      PrefabsToSpawn {
       "{AE484B2A9DBDF18E}Prefabs/Weapons/Magazines/Pmag/Magazine_556x45_PmagWindowed_Coy_30rnd_M995.et"
      }
+    }
+    ItemsInitConfigurationItem "{6531281573CF1791}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_MC2.et/pistolpouch2/Pouch_Filbe_M67_Base.et"
+    }
+    ItemsInitConfigurationItem "{65312815703CEE12}" {
+     TargetStorage "Vest/Vest_JPC_okinawa_MC2.et/pistolpouch3/Pouch_Filbe_M67_2.et"
     }
    }
   }
