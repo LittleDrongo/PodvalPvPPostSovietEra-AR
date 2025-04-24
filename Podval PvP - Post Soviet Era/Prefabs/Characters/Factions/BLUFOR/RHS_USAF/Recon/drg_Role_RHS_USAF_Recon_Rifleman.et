@@ -4,7 +4,6 @@ SCR_ChimeraCharacter : "{0D8143F5A84A9531}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#DRG-Role_Recon"
-    Icon "{035B589FC679E9AA}UI/Icons/sso.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
