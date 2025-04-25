@@ -1,5 +1,5 @@
 $grp PS_Objective {
- {
+ FLAG_2_CDF {
   components {
    RplComponent "{6238766729F75615}" {
    }
@@ -11,7 +11,7 @@ $grp PS_Objective {
   m_iScore 50
   m_sFactionKey "Ses_CDF"
  }
- {
+ FLAG_1_CDF {
   components {
    RplComponent "{623876672B674C7E}" {
    }
@@ -23,7 +23,7 @@ $grp PS_Objective {
   m_iScore 50
   m_sFactionKey "Ses_CDF"
  }
- {
+ FLAG_1_AFRF {
   components {
    RplComponent "{623876672489E83A}" {
    }
@@ -35,7 +35,7 @@ $grp PS_Objective {
   m_iScore 50
   m_sFactionKey "RHS_AFRF"
  }
- {
+ FLAG_2_AFRF {
   components {
    RplComponent "{6238766726190126}" {
    }
@@ -46,29 +46,5 @@ $grp PS_Objective {
   m_sTitle "Штаб захвачен"
   m_iScore 50
   m_sFactionKey "RHS_AFRF"
- }
- {
-  components {
-   RplComponent "{6238766723798948}" {
-   }
-   Hierarchy "{62387667777EF01E}" {
-   }
-  }
-  coords 3205.411 355.615 10891.354
-  m_sTitle "Враг разгромлен"
-  m_iScore 100
-  m_sFactionKey "RHS_AFRF"
- }
- {
-  components {
-   RplComponent "{623876671C9726AB}" {
-   }
-   Hierarchy "{623876677B65E683}" {
-   }
-  }
-  coords 3205.411 355.615 10891.354
-  m_sTitle "Враг разгромлен"
-  m_iScore 100
-  m_sFactionKey "Ses_CDF"
  }
 }

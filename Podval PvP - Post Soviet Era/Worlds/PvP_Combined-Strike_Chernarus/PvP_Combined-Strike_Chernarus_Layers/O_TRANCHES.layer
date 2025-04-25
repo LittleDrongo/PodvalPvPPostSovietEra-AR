@@ -1,9 +1,9 @@
 GenericEntity : "{6762F7C5C3A2419B}Prefabs/Props/Military/Sandbags/Sandbag_01_short_plastic.et" {
+ Flags 525315
  coords 4677.564 0 12223.243
  angleX -8.194
  angleY -36.772
  angleZ 8.258
- Flags 525315
 }
 $grp StaticModelEntity : "{9C7477A3F066F74F}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_forest_straight.et" {
  {

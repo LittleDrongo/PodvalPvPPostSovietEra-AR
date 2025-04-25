@@ -1,7 +1,10 @@
 $grp GenericEntity : "{F9EBA10CC445ED63}PrefabsEditable/Auto/Structures/Military/Flags/FlagPole_02_V1_CDF_Editable.et" {
- {
+ FLAG_1 {
   components {
    SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_aObjectiveNames {
+     "FLAG_1_AFRF" "FLAG_1_CDF"
+    }
     m_aFlagData {
      PS_FlagData "{64C271FFEBE04AC9}" {
       m_sFactionKey "RHS_AFRF"
@@ -24,9 +27,12 @@ $grp GenericEntity : "{F9EBA10CC445ED63}PrefabsEditable/Auto/Structures/Military
   angleY 24.771
   angleZ 5.164
  }
- {
+ FLAG_2 {
   components {
    SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+    m_aObjectiveNames {
+     "FLAG_2_AFRF" "FLAG_2_CDF"
+    }
     m_aFlagData {
      PS_FlagData "{64C271FF049631D2}" {
       m_sFactionKey "RHS_AFRF"
@@ -42,6 +48,6 @@ $grp GenericEntity : "{F9EBA10CC445ED63}PrefabsEditable/Auto/Structures/Military
     m_sFactionKey "Ses_CDF"
    }
   }
-  coords 3846.221 319.266 8942.65
+  coords 3846.225 319.266 8942.852
  }
 }
