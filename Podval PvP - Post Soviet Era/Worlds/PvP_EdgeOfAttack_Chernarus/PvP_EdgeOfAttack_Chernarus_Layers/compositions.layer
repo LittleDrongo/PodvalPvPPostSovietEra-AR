@@ -74,10 +74,8 @@ $grp GenericEntity : "{25B265F3E7CBDFC8}Prefabs/Props/Wrecks/BMP1_wreck.et" {
 }
 $grp StaticModelEntity : "{2D303C505CC6576A}Prefabs/Structures/Military/Camps/TentUSSR_01/TentUSSR_01_camonet_foundation.et" {
  {
-  coords 3587.488 334.153 6952.415
-  angleX 0.766
+  coords 3592.883 334.031 6962.347
   angleY 137.419
-  angleZ -3.132
  }
  {
   coords 3626.792 334.031 6958.784

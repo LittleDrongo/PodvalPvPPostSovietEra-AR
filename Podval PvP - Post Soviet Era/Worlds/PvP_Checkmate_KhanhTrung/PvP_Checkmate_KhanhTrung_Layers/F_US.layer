@@ -3,6 +3,7 @@ Vehicle M923A1_engineer1 : "{2D74C39A650A3030}Prefabs/Vehicles/Wheeled/M923A1/M9
  angleX -3.403
  angleY -166.551
  angleZ 6.509
+ m_bEnableMoveOnFreeze 1
 }
 SCR_AIGroup US_2_0_0 : "{35CEA72A9217DC57}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_PlatoonHQ.et" {
  components {

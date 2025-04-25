@@ -179,6 +179,24 @@ $grp GenericEntity : "{645F518F95682567}Prefabs/Props/Military/AmmoBoxes/drg_amm
   angleY 126.371
   angleZ 2.12
  }
+ {
+  coords 4633.238 321.546 8304.53
+  angleX 2.881
+  angleY 126.371
+  angleZ 2.12
+ }
+ {
+  coords 4626.759 321.223 8309.42
+  angleX 2.162
+  angleY 126.345
+  angleZ 1.59
+ }
+ {
+  coords 4620.646 320.963 8314.303
+  angleX 2.692
+  angleY 126.353
+  angleZ 0.87
+ }
 }
 $grp GenericEntity : "{7AF4B627D5C90235}Prefabs/Props/Military/Sandbags/Sandbag_01_round_high_burlap.et" {
  {
