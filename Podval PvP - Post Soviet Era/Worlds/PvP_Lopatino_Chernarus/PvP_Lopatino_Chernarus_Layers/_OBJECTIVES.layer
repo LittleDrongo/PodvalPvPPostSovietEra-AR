@@ -2,7 +2,6 @@ $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
  FLAG_1_AFRF {
   m_sTitle "Опорный пункт захвачен"
   m_sFactionKey "RHS_AFRF"
-  m_bAdvanceWhenTriggered 1
  }
  FLAG_1_US {
   m_sTitle "Опорный пункт под контролем"
