@@ -43,7 +43,7 @@ Projectile : "{D40A105437369C1D}Prefabs/Weapons/Core/Ammo_GrenadeLauncher_Base.e
    MaxAmmo 1
   }
   MeshObject "{851AA4A2AE0A56BF}" {
-   Object "{55DC7A2208C65BCF}Assets/Ammo/gd-40/gd-40.xob"
+   Object "{0FD1B406DE286E9D}Assets/Weapons/Ammo/Grenades/Flare_40mm_GD40_White/Flare_40mm_GD40_White.xob"
   }
   ShellMoveComponent "{20FB66C5FA209A29}" {
    InitSpeed 77
