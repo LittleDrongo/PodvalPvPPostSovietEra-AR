@@ -18,5 +18,12 @@ SCR_ChimeraCharacter : "{8AB4462F24F21DCD}Prefabs/Characters/Factions/OPFOR/RHS_
     Icon "{DCF0F63BF8F4B59B}UI/Icons/spotter.edds"
    }
   }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Back {
+     Prefab "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_pl.et"
+    }
+   }
+  }
  }
 }

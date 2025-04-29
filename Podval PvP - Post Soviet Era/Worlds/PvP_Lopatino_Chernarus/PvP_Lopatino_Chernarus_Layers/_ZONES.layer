@@ -1,0 +1,11 @@
+GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flags/E_FlagPole_02_V1_US.et" {
+ components {
+  SCR_FlagComponent "{5E3C95A1E1EE9681}" {
+   m_aObjectiveNames {
+    "FLAG_1_AFRF" "FLAG_1_US"
+   }
+   m_sFactionKey "RHS_USAF"
+  }
+ }
+ coords 2878.361 274.184 9705.477
+}
