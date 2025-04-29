@@ -1,0 +1,17 @@
+SCR_ChimeraCharacter : "{338E119A429B79F0}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/MARSOC/drg_Role_RHS_USAF_MARSOC_Scout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{1012A82C60AD6389}Prefabs/Weapons/Rifles/M27IAR/Rifle_M27IAR_camo1_ACOG_supp.et"
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{653AC5F64B26F232}" {
+     PrefabsToSpawn {
+      "{C742BD6CB3D77A5A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL.et"
+     }
+    }
+   }
+  }
+ }
+}

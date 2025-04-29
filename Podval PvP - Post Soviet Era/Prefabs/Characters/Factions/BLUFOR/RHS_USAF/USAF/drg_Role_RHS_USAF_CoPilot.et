@@ -6,6 +6,8 @@ SCR_ChimeraCharacter : "{CFB9AD45454644A2}Prefabs/Characters/Factions/BLUFOR/RHS
     LoadoutSlotInfo ArmoredVest {
      Prefab ""
     }
+    LoadoutSlotInfo Back {
+    }
    }
   }
  }

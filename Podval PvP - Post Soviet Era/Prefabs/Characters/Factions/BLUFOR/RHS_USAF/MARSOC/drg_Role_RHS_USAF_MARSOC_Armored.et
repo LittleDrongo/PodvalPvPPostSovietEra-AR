@@ -1,0 +1,36 @@
+SCR_ChimeraCharacter : "{7C660B3D3930EEC0}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/MARSOC/drg_Role_RHS_USAF_MARSOC_Unarmed.et" {
+ ID "520EC961A090B1EE"
+ components {
+  PS_PlayableComponent "{5EFCC1946F475F15}" {
+   m_bIsPlayable 1
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{5B429484578CC6BE}Prefabs/Characters/HeadGear/Helmet_ECH/Helmet_ECH_lc_cwd_M81.et"
+    }
+    LoadoutSlotInfo ArmoredVest {
+     Prefab "{68CF844B606428D8}Prefabs/Characters/Vests/Vest_PCGen_III/Vest_PCGen_III_light.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{48602F57998AB597}Prefabs/Items/Equipment/Backpacks/FILBE_Backpack.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{08A450F2C0F712EC}Prefabs/Characters/Vests/Vest_PCGen_III/Variants/Vest_PCGen_III_light1.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{652C93AFA7C32F0A}" {
+    }
+    ItemsInitConfigurationItem "{653AC5F64B26F232}" {
+     TargetStorage "Vest/Vest_PCGen_III_light1.et/radio/Pouch_152_Radio.et"
+     PrefabsToSpawn {
+      "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et"
+     }
+    }
+   }
+  }
+ }
+}
