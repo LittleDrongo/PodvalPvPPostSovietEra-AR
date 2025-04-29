@@ -1,0 +1,59 @@
+GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
+ ID "508AB2013EEE1E00"
+ components {
+  Drg_NotepadRtComponent "{61ECFCAC76676880}" {
+   m_sText "SCAR		"\
+   "Ball: M61"\
+   "	"\
+   "Meters	|	up mrad"\
+   "100	-	1,5"\
+   "200	-	2.0"\
+   "300	-	2.6"\
+   "400	-	3,8"\
+   "500	-	4,7"\
+   "600	-	5,9"\
+   "700	-	7,4"\
+   "800	-	8,9"\
+   "900	-	10,6"\
+   "1000	-	12,8"\
+   "1100	-	15,1"\
+   "1200	-	17,7"
+  }
+  InventoryItemComponent "{5222EB4D0C73006B}" {
+   Attributes SCR_ItemAttributeCollection "{5222EB4D0A2B466B}" {
+    ItemDisplayName UIInfo "{5222EB4D07D865FA}" {
+     Name "RangeCard for SCAR"
+     Description "RangeCard for SCAR"
+    }
+   }
+  }
+  MeshObject "{61EA9D1BBDB999D3}" {
+   Object "{C278EEA42E75C9E2}Assets/Props/Civilian/RangeCard/Notepad_LP.xob"
+   Materials {
+    MaterialAssignClass "{61ECFCAC7BAECE68}" {
+     SourceMaterial "Material"
+     AssignedMaterial "{7FE13489D6ABC30E}Assets/Props/Civilian/RangeCard/Data/notepad_rt.emat"
+    }
+   }
+  }
+  RigidBody "{61EA9D1BBDB999D7}" {
+   Mass 1
+   LinearDamping 0.05
+   AngularDamping 0.05
+   ModelGeometry 1
+   CCDRadius 0.007
+  }
+  SCR_GadgetComponent "{61EA9D1BBDB999D8}" {
+   m_eAnimVariable ADRIANOV
+  }
+  ActionsManagerComponent "{508AB5952B584B2E}" {
+   ActionContexts {
+    UserActionContext "{508AC2ABEC97066C}" {
+     Position PointInfo "{508AC2ABEAC4A0F5}" {
+      Offset 0 0.1032 0
+     }
+    }
+   }
+  }
+ }
+}

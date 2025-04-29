@@ -1,6 +1,17 @@
 SCR_ChimeraCharacter : "{9FBBBCD632861C8A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SOCOM/drg_Role_RHS_USAF_SOCOM_Scout.et" {
  ID "520EC961A090B1EE"
  components {
+  SCR_CharacterInventoryStorageComponent "{520EA1D2DB118DAC}" {
+   components {
+    SCR_EquipmentStorageComponent "{56B49DA9722B635D}" {
+     InitialStorageSlots {
+      SCR_EquipmentStorageSlot BinocularSlot {
+       Prefab "{03810BEF182ADA0B}Prefabs/Items/Equipment/Binoculars/Rangefinder_Vector21.et"
+      }
+     }
+    }
+   }
+  }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#DRG-Role_ReconSniper"
@@ -17,27 +28,32 @@ SCR_ChimeraCharacter : "{9FBBBCD632861C8A}Prefabs/Characters/Factions/BLUFOR/RHS
     }
    }
   }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo HandWear {
+     Prefab ""
+    }
+   }
+  }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{653AC5F6B3F70BA1}" {
+     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_Rolled_CADPAT_Temperate.et"
      PrefabsToSpawn {
-      "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et"
+      "{8C5AEA0BAC39668D}Prefabs/Items/Equipment/RangeCard/RangeCard_SCAR.et"
      }
     }
     ItemsInitConfigurationItem "{653AC5F6B045B928}" {
      PrefabsToSpawn {
-      "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et"
      }
     }
     ItemsInitConfigurationItem "{653AC5F6B0B026A6}" {
      PrefabsToSpawn {
-      "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et"
      }
     }
     ItemsInitConfigurationItem "{653AC5FB6E6CFDE0}" {
      TargetStorage "Back/FILBE_Backpack.et"
      PrefabsToSpawn {
-      "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et" "{23C815180F127C5F}Prefabs/Weapons/Magazines/Magazine_762x51_SCAR_H_20rnd_m80.et"
      }
     }
    }
