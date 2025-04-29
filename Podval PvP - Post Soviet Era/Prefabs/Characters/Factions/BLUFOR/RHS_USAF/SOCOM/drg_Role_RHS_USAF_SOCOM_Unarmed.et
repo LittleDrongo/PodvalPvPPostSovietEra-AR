@@ -13,10 +13,10 @@ SCR_ChimeraCharacter : "{D0A4FBFC3F2FBE5A}Prefabs/Characters/Factions/BLUFOR/RHS
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Jacket {
-     Prefab "{59671155DDBAD871}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_M81.et"
+     Prefab "{595DB98B7491C31E}Prefabs/Characters/Uniforms/Crye_Shirt/Jacket_Crye_Combat_Shirt_Rolled_CADPAT_Temperate.et"
     }
     LoadoutSlotInfo Pants {
-     Prefab "{922F62F22B253571}Prefabs/Characters/Uniforms/BDU_Pants/BDU_PANTS_M81.et"
+     Prefab "{4CB5956810F6EF0A}Prefabs/Characters/Uniforms/Military_Pants/Military_Pants_CADPAT_Temperate.et"
     }
     LoadoutSlotInfo Boots {
      Prefab "{320FA1CD5B1D5601}Prefabs/Characters/Footwear/Boots_USMC_Combat/Footwear_USMC_Combat.et"
@@ -29,13 +29,13 @@ SCR_ChimeraCharacter : "{D0A4FBFC3F2FBE5A}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{652C93AEBD1EDE56}" {
-     TargetStorage "Pants/BDU_PANTS_M81.et"
+     TargetStorage "Pants/Military_Pants_CADPAT_Temperate.et"
     }
     ItemsInitConfigurationItem "{652C93AE8849C9D9}" {
-     TargetStorage "Pants/BDU_PANTS_M81.et"
+     TargetStorage "Pants/Military_Pants_CADPAT_Temperate.et"
     }
     ItemsInitConfigurationItem "{652C93AFA7C32F0A}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_M81.et"
+     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_Rolled_CADPAT_Temperate.et"
      TargetPurpose 64
     }
    }

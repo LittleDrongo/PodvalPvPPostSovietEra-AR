@@ -1,0 +1,14 @@
+GenericEntity : "{8BE7138FF2EDB2F5}Prefabs/Weapons/Assault/SCAR_H/Rifle_SCAR_H_MREX_EOT.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{64615D5DD76DAECE}" {
+     AttachmentSlot InventoryStorageSlot optic_ris {
+      Prefab "{7FC82F39B98AF906}Prefabs/Weapons/Attachments/Optics/ts30a2/optic_ts30a2_no_covers.et"
+     }
+    }
+   }
+  }
+ }
+}

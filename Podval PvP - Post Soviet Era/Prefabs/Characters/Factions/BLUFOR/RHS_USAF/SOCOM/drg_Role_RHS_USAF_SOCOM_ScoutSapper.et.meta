@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{338E119A429B79F0}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/MARSOC/drg_Role_RHS_USAF_MARSOC_Rifleman.et"
+ Name "{D1FC452D48AB3333}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SOCOM/drg_Role_RHS_USAF_SOCOM_ScoutSapper.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
