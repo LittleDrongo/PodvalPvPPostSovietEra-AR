@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{7814CC227E331DF3}Assets/Weapons/Ammo/Grenades/Flare_40mm_GD40_White/Data/Материал.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass Xbox : PC {
+  }
+ }
+}
