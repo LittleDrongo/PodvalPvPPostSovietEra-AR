@@ -1,5 +1,5 @@
 Vehicle M998_covered_long_USAF2 : "{23FB589C8BF6EC6E}Prefabs/Vehicles/Wheeled/M998/M998_covered_long_USAF.et" {
- coords 2869.64 268.962 9685.26
+ coords 2874.582 269.335 9687.276
  angleX 5.028
  angleY 50.555
  angleZ 0.488
@@ -7,13 +7,13 @@ Vehicle M998_covered_long_USAF2 : "{23FB589C8BF6EC6E}Prefabs/Vehicles/Wheeled/M9
 }
 $grp GenericEntity : "{2BD8F0769429AC4A}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_81mm_MortarCluster_100rnd_HE.et" {
  {
-  coords 2866.971 269.001 9688.541
-  angleX 0.27
-  angleY -41.941
-  angleZ -5.044
+  coords 2870.486 269.271 9689.959
+  angleX 0.203
+  angleY -41.937
+  angleZ -3.787
  }
  {
-  coords 2866.511 268.949 9688.175
+  coords 2870.026 269.226 9689.593
   angleX 0.27
   angleY -41.941
   angleZ -5.044
@@ -76,10 +76,10 @@ Turret : "{8094D99689ABE241}Prefabs/Weapons/Mortars/M252/Mortar_M252.et" {
    m_sAttachmentGroupName "USMC_4_0_0"
   }
  }
- coords 2868.601 269.094 9688.741
- angleX 3.786
- angleY 48.35
- angleZ 0.221
+ coords 2872.116 269.361 9690.157
+ angleX 5.043
+ angleY 48.356
+ angleZ 0.295
 }
 $grp SCR_AIGroup : "{F158417A26ADA84B}Prefabs/Groups/BLUFOR/drg_Group_RHS_USMC_LavCrew.et" {
  USMC_3_0_0 {
@@ -102,7 +102,7 @@ $grp SCR_AIGroup : "{F158417A26ADA84B}Prefabs/Groups/BLUFOR/drg_Group_RHS_USMC_L
     m_iCompanyCallsign 4
    }
   }
-  coords 2862.519 268.841 9690.081
+  coords 2866.034 269.103 9691.499
   angleX 3.79
   angleY 47.282
   angleZ 0.151

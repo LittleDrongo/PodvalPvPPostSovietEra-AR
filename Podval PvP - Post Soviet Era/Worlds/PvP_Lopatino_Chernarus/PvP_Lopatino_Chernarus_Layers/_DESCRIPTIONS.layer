@@ -34,7 +34,9 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  }
  "_2_USA" {
   m_sTitle "#PS-Description_HeaderUS"
-  m_sTextData "Нам необходимо удержать под контролем опорный пункт в районе города Выбор."
+  m_sTextData "Нам необходимо удержать под контролем опорный пункт в районе города Выбор."\
+  ""\
+  "Обратите внимание в опорном пункте имеется пункт боепитания и мед.госпиталь."
   m_aVisibleForFactions {
    "RHS_USAF"
   }
