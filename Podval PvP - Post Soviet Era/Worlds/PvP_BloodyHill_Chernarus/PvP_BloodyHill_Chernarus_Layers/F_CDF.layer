@@ -225,19 +225,3 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   m_sCustomNameSet "#DRG_Sqd_Rifle"
  }
 }
-Vehicle Ural4320_Ses_CDF_command1 : "{B8C6D4393223FDC2}Prefabs/Vehicles/Wheeled/Ural4320/Ses_CDF/Ural4320_Ses_CDF_command.et" {
- components {
-  BaseRadioComponent "{51EAE036CCD0A08E}" {
-   Transceivers {
-    RelayTransceiver "{5A9ABE5D9A773049}" {
-     "Transmitting Range" 12000
-    }
-   }
-  }
- }
- coords 3417.333 289.793 14826.704
- angleX -2.503
- angleY 143.503
- angleZ -0.374
- m_sAttachmentGroupName "CDF_0_0"
-}

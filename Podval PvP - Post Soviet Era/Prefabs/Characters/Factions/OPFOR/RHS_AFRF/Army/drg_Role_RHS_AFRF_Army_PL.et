@@ -31,5 +31,22 @@ SCR_ChimeraCharacter : "{53A7932FD6BDDF63}Prefabs/Characters/Factions/OPFOR/RHS_
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{6529017B4C6F28DF}" {
+     TargetStorage "Vest/Vest_Ratnik_6B45_rifleman.et/Pouch1/Pouch_Ratnik_ak_1_pouch.et"
+    }
+    ItemsInitConfigurationItem "{652904F26F364A66}" {
+     TargetStorage "Vest/Vest_Ratnik_6B45_rifleman.et/Pouch2/Pouch_Ratnik_ak_2_pouch.et"
+    }
+    ItemsInitConfigurationItem "{652904F26F794843}" {
+     TargetStorage "Vest/Vest_Ratnik_6B45_rifleman.et/Pouch3/Pouch_Ratnik_ak_3_pouch.et"
+    }
+    ItemsInitConfigurationItem "{65290674385BB88D}" {
+     PrefabsToSpawn {
+     }
+    }
+   }
+  }
  }
 }

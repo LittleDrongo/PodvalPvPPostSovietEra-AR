@@ -20,8 +20,6 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— Для контроля необходимо поменять флаг через взаимодействие."\
   "— Для победы атаки должно быть поднято два Российских флага."\
   "— Для победы обороны должен остаться хотя бы один флаг ЧСО, не США."\
-  "— Время на миссию 40 минут."\
-  ""\
   ""\
   ""
   m_aVisibleForFactions {
@@ -29,6 +27,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   }
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
+  m_iOrder 1
  }
  FIA {
   coords 5159.505 56.132 10322.095
@@ -37,6 +36,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_aVisibleForFactions {
    "RHS_USAF"
   }
+  m_iOrder 2
  }
  RF {
   coords 5534.418 43.503 10540.239
@@ -45,6 +45,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_aVisibleForFactions {
    "RHS_AFRF"
   }
+  m_iOrder 2
  }
  CDF {
   coords 5626.204 38.464 10536.691
@@ -53,6 +54,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_aVisibleForFactions {
    "Ses_CDF"
   }
+  m_iOrder 2
  }
  ABOUT {
   coords 5568.057 56.802 10524.196

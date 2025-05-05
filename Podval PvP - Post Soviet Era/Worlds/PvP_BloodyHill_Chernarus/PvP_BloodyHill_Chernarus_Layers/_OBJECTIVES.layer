@@ -1,5 +1,5 @@
 $grp PS_Objective {
- {
+ FLAG_1 {
   components {
    RplComponent "{6238766729F75615}" {
    }
@@ -8,10 +8,10 @@ $grp PS_Objective {
   }
   coords 2951.533 279.693 11464.642
   m_sTitle "Штаб захвачен"
-  m_iScore 75
+  m_iScore 100
   m_sFactionKey "Ses_CDF"
  }
- {
+ FLAG_2 {
   components {
    RplComponent "{623876672489E83A}" {
    }
@@ -20,10 +20,10 @@ $grp PS_Objective {
   }
   coords 3205.411 355.615 10891.354
   m_sTitle "Штаб под контролем"
-  m_iScore 75
+  m_iScore 100
   m_sFactionKey "RHS_AFRF"
  }
- {
+ CDF_KILLED {
   components {
    RplComponent "{6238766723798948}" {
    }
@@ -32,10 +32,10 @@ $grp PS_Objective {
   }
   coords 3205.411 355.615 10891.354
   m_sTitle "Враг разгромлен"
-  m_iScore 25
+  m_iScore 100
   m_sFactionKey "RHS_AFRF"
  }
- {
+ AFRF_KILLED {
   components {
    RplComponent "{623876671C9726AB}" {
    }
@@ -44,7 +44,7 @@ $grp PS_Objective {
   }
   coords 3205.411 355.615 10891.354
   m_sTitle "Враг разгромлен"
-  m_iScore 25
+  m_iScore 100
   m_sFactionKey "Ses_CDF"
  }
 }

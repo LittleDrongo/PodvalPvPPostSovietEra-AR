@@ -14,7 +14,7 @@ SCR_ChimeraCharacter : "{3AE4204A39304CE2}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    Name "#AR-Role_AmmoBearer"
+    Name "#AR-Role_AssistantMachineGunner"
    }
   }
  }

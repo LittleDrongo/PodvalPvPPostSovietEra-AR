@@ -59,7 +59,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "Нам необходимо занять военную базу на севере аэродрома."\
   ""\
-  "Веротяно противник будет использовать вертолёты с НУРсами."\
+  "Вероятно противник будет использовать вертолёты с НУРсами."\
   ""\
   "При наступлении в горах БТРы не помогут нам, однако могут обеспечить плотный зенитный огонь против ударных вертолётов."
   m_aVisibleForFactions {

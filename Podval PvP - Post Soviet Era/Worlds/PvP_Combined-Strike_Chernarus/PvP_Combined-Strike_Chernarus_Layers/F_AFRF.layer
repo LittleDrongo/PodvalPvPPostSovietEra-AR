@@ -6,7 +6,7 @@ GenericEntity : "{0228B8EFBA99AC1D}Prefabs/Weapons/Misc/SpectrumDevice/Device_Sp
 }
 $grp Vehicle : "{2B15F98903994DA3}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered_camo1.et" {
  Ural4320_transport_covered_camo1 {
-  coords 4996.017 170.117 12953.534
+  coords 4997.93 170.089 12953.666
   angleX 0.831
   angleY -93.96
   angleZ -0.955
@@ -28,19 +28,11 @@ Vehicle UAZ452_ambulance1 : "{43C4AF1EEBD001CE}Prefabs/Vehicles/Wheeled/UAZ452/U
  m_sAttachmentGroupName "RU_6_0_0"
  m_bEnableMoveOnFreeze 1
 }
-$grp GenericEntity : "{4E202866EA77CF71}Prefabs/Props/Military/Compositions/Dst/PersonnelService_Table_01/PersonnelService_Table_01_dst_01_FIA.et" {
- {
-  coords 4911.922 172.254 13038.229
-  angleX 0.016
-  angleY 88.983
-  angleZ 0.895
- }
- {
-  coords 3219.612 203.181 12694.776
-  angleX -0.739
-  angleY 145.685
-  angleZ 0.505
- }
+GenericEntity : "{4E202866EA77CF71}Prefabs/Props/Military/Compositions/Dst/PersonnelService_Table_01/PersonnelService_Table_01_dst_01_FIA.et" {
+ coords 4911.922 172.254 13038.229
+ angleX 0.016
+ angleY 88.983
+ angleZ 0.895
 }
 $grp Vehicle : "{6E9142CD2471741C}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer.et" {
  Ural4320_engineer1 {
