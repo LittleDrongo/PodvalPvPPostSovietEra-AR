@@ -29,7 +29,7 @@ SCR_ChimeraCharacter : "{6344FAB9EEF674E7}Prefabs/Characters/Factions/OPFOR/RHS_
      TargetStorage "Pants/crye_pants_atacs.et"
     }
     ItemsInitConfigurationItem "{6528F2E78A33803A}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_ATACS.et"
+     TargetStorage "Pants/crye_pants_atacs.et"
     }
     ItemsInitConfigurationItem "{6528F2E079033878}" {
      TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_ATACS.et"
