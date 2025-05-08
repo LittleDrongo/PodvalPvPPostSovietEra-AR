@@ -26,7 +26,7 @@ SCR_ChimeraCharacter : "{3E0AD164F0AFB09D}Prefabs/Characters/Factions/INDFOR/IG/
      TargetStorage "Vest/Vest_Type56.et"
     }
     ItemsInitConfigurationItem "{64D476CF95D45DA3}" {
-     TargetStorage "Prefabs/Characters/Vests/Vest_Type56/Vest_Type56.et"
+     TargetStorage "Back/Backpack_Veshmeshok.et"
      PrefabsToSpawn +{
      }
     }

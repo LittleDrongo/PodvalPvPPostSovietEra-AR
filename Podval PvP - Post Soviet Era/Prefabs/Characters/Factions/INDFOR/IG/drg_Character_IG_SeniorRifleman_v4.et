@@ -24,9 +24,10 @@ SCR_ChimeraCharacter : "{8AF68C4535E221EF}Prefabs/Characters/Factions/INDFOR/IG/
      TargetStorage "Vest/Vest_Type56.et"
     }
     ItemsInitConfigurationItem "{64D476CF95D45DA3}" {
+     TargetStorage "Back/Backpack_Veshmeshok.et"
     }
     ItemsInitConfigurationItem "{64D476C9C675D4ED}" {
-     TargetStorage "Prefabs/Characters/Uniforms/Jacket_KZS/Jacket_KZS.et"
+     TargetStorage "Jacket/Jacket_KZS.et"
      PrefabsToSpawn {
       "{24048C9FFE5AF733}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC68_prv.et"
      }

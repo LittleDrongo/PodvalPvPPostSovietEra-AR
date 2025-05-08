@@ -16,6 +16,7 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
      }
      m_bAdvanceGameStage 1
      m_bUseMessage 1
+     m_bEventMessage "#drg_ModuleCriticalLoss_ConditionMet_AttackWin"
     }
     LossLogic "{6532E5DED2A74EF8}" {
      m_aLosses {
@@ -25,7 +26,7 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
      }
      m_bAdvanceGameStage 1
      m_bUseMessage 1
-     m_bEventMessage "Победа обороны: Атака понесла серьёзные потери"
+     m_bEventMessage " #drg_ModuleCriticalLoss_ConditionMet_DefendWin"
     }
    }
   }
