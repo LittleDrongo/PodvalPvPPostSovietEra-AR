@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{89D534001A82E981}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_MG_Random.et"
+ Name "{407F1CAFCB3A51EB}Prefabs/Characters/Factions/INDFOR/PIR/mg_variants/Character_TKR_MG_Random.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
