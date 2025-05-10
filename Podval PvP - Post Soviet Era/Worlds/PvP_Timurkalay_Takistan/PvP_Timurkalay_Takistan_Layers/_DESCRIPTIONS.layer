@@ -11,7 +11,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 1. Захватить населёный пункт Тимуркалай путём смены флага."\
   "— 2. Нанести противнику серьёзный урон"\
   ""\
-  "СПОСОБЫ ПОБЕДЫ ДЛЯ США"\
+  "СПОСОБЫ ПОБЕДЫ ДЛЯ ПИРАТОВ"\
   "— 1. Удержать населённый пункт Тимуркалай"\
   "— 2. Нанести противнику серьёзный урон"\
   ""\
@@ -25,7 +25,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   m_iOrder 1
  }
  "_2_PIR" {
-  m_sTitle "#PS-Description_HeaderFIA"
+  m_sTitle "Задачи для Пиратов"
   m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "Всё просто, мы должны удержить н.п Тимуркалай! "
   m_aVisibleForFactions {
