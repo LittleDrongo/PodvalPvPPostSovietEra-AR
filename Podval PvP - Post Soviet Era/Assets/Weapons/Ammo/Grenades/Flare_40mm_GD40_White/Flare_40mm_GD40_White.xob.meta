@@ -9,11 +9,12 @@ MetaFileClass {
     }
    }
    MeshParams {
-    MeshParam "GD-40_0" {
+    MeshParam "GD-40" {
     }
    }
    GeometryParams {
     GeometryParam "UCS_GD-40" {
+     LayerPreset "Projectile"
      SurfaceProperties {
       "{536BF67B2052B869}material/metal.gamemat"
      }
