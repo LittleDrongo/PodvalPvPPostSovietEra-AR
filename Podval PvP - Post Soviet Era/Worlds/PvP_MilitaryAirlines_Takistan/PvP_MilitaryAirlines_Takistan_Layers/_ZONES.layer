@@ -394,7 +394,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 1
-    m_sFactionKey "USSR"
+    m_sFactionKey "RHS_AFRF"
    }
   }
  }
