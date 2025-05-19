@@ -1,108 +1,11 @@
-$grp GenericEntity {
+$grp GenericEntity : "{3598DCC1129110CC}Prefabs/Weapons/Rifles/m107/Barret_M107A1_Mk4.et" {
  {
-  components {
-   MeshObject "{6565552CB00D98A9}" {
-    Object "{08F2A27C9FED8864}Assets/Characters/HeadGear/Hat_ECW/Game_Hat_ECW_EarUp_01.xob"
-   }
-  }
-  coords 78.149 1 224.774
+  coords 105.666 1 222.434
  }
  {
-  components {
-   MeshObject "{6565552C8319A93C}" {
-    Object "{4A4EFDA08C34026E}Assets/Characters/HeadGear/Helmet_MK6/helmet_mk6_cover_01.xob"
-   }
-  }
-  coords 77.197 1 223.895
+  coords 144.132 1 222.254
  }
 }
-GameEntity : "{0918455F926FE9D5}Prefabs/Characters/Uniforms/Trousers_Tropical_DesertDPM_01_US.et" {
- coords 78.949 1 228.96
-}
-SCR_ChimeraCharacter : "{111A85E9DD0EB2B6}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_GPMG_No1.et" {
- coords 80.616 1 220.721
-}
-GenericEntity : "{1A7FE1AC9E645F27}Prefabs/Items/Equipment/Radios/Radio_PRC349.et" {
- coords 79.277 1 224.531
-}
-GameEntity : "{20D80A4DAA97F6CF}Prefabs/Characters/Uniforms/Trousers_Combat_84Pat_DPM_01.et" {
- coords 85.748 1 238.146
-}
-GenericEntity : "{2A29E66CF5732B0E}Prefabs/Items/Equipment/Radios/Radio_PRC350.et" {
- coords 79.355 1 224.323
-}
-GenericEntity : "{2DEE1C3D93F591CD}Prefabs/Items/Equipment/Radios/Radio_PRC320.et" {
- coords 80.13 1 223.921
-}
-SCR_ChimeraCharacter : "{38C8AA1A9D067B41}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Armored.et" {
- coords 76.241 1 227.931
-}
-GameEntity : "{3CFFDE50C3FA8581}Prefabs/Characters/HeadGear/Hat_ECW/Hat_ECW_EarsUp_DPM_01.et" {
- coords 78.222 1 224.437
-}
-GameEntity : "{406B620B4285240C}Prefabs/Characters/Uniforms/Jacket_Tropical_DesertDPM_01.et" {
- coords 78.906 1 228.102
-}
-SCR_ChimeraCharacter : "{4AF2023E868540E7}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/Regulars/Character_UK_1989_Regulars_Rifleman.et" {
- coords 79.073 1 223.026
-}
-SCR_ChimeraCharacter : "{62D02E1AA4A4B305}Prefabs/Characters/Factions/BLUFOR/UK_Army/1989/SpecialForces/Character_UK_1989_SpecialForces_GPMG.et" {
- coords 81.353 1 222.148
-}
-GenericEntity : "{65DEE4A3BAAD1B1E}Prefabs/Weapons/Launchers/LAW80/Launcher_LAW80_base.et" {
- coords 82.16 1 227.966
-}
-$grp SCR_ChimeraCharacter : "{768EF6E7589170BB}Prefabs/Characters/Factions/BLUFOR/UK_Army/Desert/Character_UK_Desert_Unarmed.et" {
- {
-  coords 77.974 1 228.03
- }
- {
-  coords 87.55 1 236.806
- }
-}
-SCR_ChimeraCharacter : "{7778AEFBB5CE20AB}Prefabs/Characters/Factions/BLUFOR/UK_Army/1983/SpecialForces/Character_UK_1983_SpecialForces_CRW.et" {
- coords 79.537 1 222.148
-}
-GenericEntity : "{97BE34E375896C8B}Prefabs/Items/Equipment/Radios/Radio_PRC349_SL.et" {
- coords 79.563 1 226.317
-}
-$grp GameEntity : "{9BA6CCA21CAB9BF6}Prefabs/Characters/Uniforms/Smock_Combat_84Pat_Desert_01.et" {
- {
-  coords 87.097 1 238.172
- }
- {
-  coords 87.724 1 237.999
- }
- {
-  coords 87.383 1 238.954
- }
-}
-$grp SCR_ChimeraCharacter : "{B528DED2712C9983}Prefabs/Characters/Factions/BLUFOR/UK_Army/Character_UK_Unarmed.et" {
- {
-  coords 81.454 1 223.495
- }
- {
-  coords 81.497 1 225.681
- }
-}
-GameEntity : "{B8EDDED135ACD2DA}Prefabs/Characters/HeadGear/Helmet_Mk6_01/Helmet_Mk6_DesertDPM.et" {
- coords 78.215 1 228.624
-}
-GameEntity : "{C0FF8A6F0EE9ECB0}Prefabs/Characters/Uniforms/Smock_Combat_84Pat_DPM_01.et" {
- coords 85.698 1 237.525
-}
-GenericEntity : "{CB29F58C7A481B8C}Prefabs/Weapons/Rifles/L1A1_SLR/Rifle_L1A1_SLR_Plastic_Dressing.et" {
- coords 79.915 1.176 229.215
-}
-GenericEntity : "{F3ACCAEC11A73B04}Prefabs/Items/Equipment/Radios/Radio_PRC319.et" {
- coords 80.223 1 224.366
-}
-GenericEntity : "{FA04FB7130061119}Prefabs/Items/Equipment/Radios/Radio_PRC349_prv.et" {
- coords 79.403 1 226.376
-}
-GameEntity : "{FC513D8A3D4F641B}Prefabs/Characters/HeadGear/Helmet_Mk6_01/BF89_Helmet_Mk6_Cover_01.et" {
- coords 77.319 1 223.599
-}
-SCR_ChimeraCharacter : "{FEAC0852416D2291}Prefabs/Characters/Factions/BLUFOR/UK_Army/Desert/Character_UK_Desert_Armored.et" {
- coords 79.47 1 227.989
+SCR_ChimeraCharacter : "{D13AD1B898B26305}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Sniper_M107.et" {
+ coords 146.029 1 225.447
 }

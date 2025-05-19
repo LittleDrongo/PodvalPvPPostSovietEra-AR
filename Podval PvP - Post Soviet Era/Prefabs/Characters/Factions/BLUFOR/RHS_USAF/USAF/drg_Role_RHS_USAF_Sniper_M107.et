@@ -2,7 +2,7 @@ SCR_ChimeraCharacter : "{C7543DBFCFDB9ACB}Prefabs/Characters/Factions/BLUFOR/RHS
  ID "520EC961A090B1EE"
  components {
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{8A639020E2A6F157}Prefabs/Weapons/Rifles/m107/Barret_M107A1_optic.et"
+   WeaponTemplate "{3598DCC1129110CC}Prefabs/Weapons/Rifles/m107/Barret_M107A1_Mk4.et"
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {

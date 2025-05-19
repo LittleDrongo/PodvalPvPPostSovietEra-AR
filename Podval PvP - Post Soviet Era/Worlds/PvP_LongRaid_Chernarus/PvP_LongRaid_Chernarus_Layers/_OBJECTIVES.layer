@@ -1,0 +1,162 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ KILL_USMC {
+  coords 1609.265 14.084 1574.584
+  m_sTitle "Разромить противника"
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ KILL_CDF {
+  coords 1609.265 14.084 1574.584
+  m_sTitle "Разромить противника"
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_DEF2 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK2 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF3 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK3 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF4 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK4 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF5 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK5 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF6 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK6 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF7 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK7 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF8 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK8 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_ATK9 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF9 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+ HELI_ATK10 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Уничтожить вертолёт"
+  m_iScore 10
+  m_sFactionKey "RHS_USAF"
+ }
+ HELI_DEF10 {
+  coords 8494.292 257.691 2403.939
+  m_sTitle "Сохранить вертолёт"
+  m_iScore 10
+  m_sFactionKey "Ses_CDF"
+ }
+}
+Vehicle UH1H_CDF10 : "{EBC87FB92E4F35BD}Prefabs/Vehicles/Helicopters/UH1H/UH1H_CDF.et" {
+ components {
+  SCR_FuelManagerComponent "{5622A70CD78A9E2C}" {
+   FuelNodes {
+    SCR_FuelNode "{5622A70CD4036C5A}" {
+     MaxFuel 0
+     m_fInitialFuelTankState 0
+    }
+    SCR_FuelNode "{5E9AE02488359898}" {
+     MaxFuel 0
+     m_fInitialFuelTankState 0
+    }
+    SCR_FuelNode "{5E9AE0248D00D20B}" {
+     MaxFuel 0
+     m_fInitialFuelTankState 0
+    }
+    SCR_FuelNode "{5E9AE0248101059B}" {
+     MaxFuel 0
+     m_fInitialFuelTankState 0
+    }
+    SCR_FuelNode "{5E9AE02480691735}" {
+     MaxFuel 0
+     m_fInitialFuelTankState 0
+    }
+   }
+  }
+ }
+ coords 5080.909 339.126 9714.42
+ angleY -56.606
+}
