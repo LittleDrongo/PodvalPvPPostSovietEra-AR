@@ -32,6 +32,12 @@ SCR_ChimeraCharacter : "{1CF3E4D5B8C1E794}Prefabs/Characters/Factions/BLUFOR/RHS
       "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et"
      }
     }
+    ItemsInitConfigurationItem "{653AB0CDFB74E257}" {
+     PrefabsToSpawn {
+     }
+    }
+    ItemsInitConfigurationItem "{653AB0CAE80C5F50}" {
+    }
    }
   }
  }

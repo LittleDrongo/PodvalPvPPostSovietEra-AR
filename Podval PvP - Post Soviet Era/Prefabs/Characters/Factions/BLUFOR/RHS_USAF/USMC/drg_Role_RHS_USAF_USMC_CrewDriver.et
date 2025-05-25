@@ -23,7 +23,7 @@ SCR_ChimeraCharacter : "{35885F6D3B7F5CCD}Prefabs/Characters/Factions/BLUFOR/RHS
      }
     }
     ItemsInitConfigurationItem "{653AC5F3B9EE422E}" {
-     TargetStorage "Back/FILBE_Backpack.et"
+     TargetStorage "Back/Backpack_511_rush12_Coy.et"
      PrefabsToSpawn {
       "{3B247CAC215C0D51}Prefabs/Characters/HeadGear/Helmet_ECH/Helmet_ECH_lc_cwd.et"
      }

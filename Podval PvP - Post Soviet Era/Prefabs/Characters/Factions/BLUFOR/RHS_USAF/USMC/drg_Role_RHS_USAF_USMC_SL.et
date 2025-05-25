@@ -25,6 +25,9 @@ SCR_ChimeraCharacter : "{1B341E84DE475D57}Prefabs/Characters/Factions/BLUFOR/RHS
       "{C742BD6CB3D77A5A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL.et"
      }
     }
+    ItemsInitConfigurationItem "{653AB0CAE80C5F50}" {
+     TargetStorage "Back/Backpack_511_rush12_Coy.et"
+    }
    }
   }
  }

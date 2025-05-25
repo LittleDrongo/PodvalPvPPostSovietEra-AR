@@ -7,6 +7,9 @@ SCR_ChimeraCharacter : "{3A5AD64C37B0056E}Prefabs/Characters/Factions/BLUFOR/RHS
     Icon "{C8D22D6EC2B5DD09}UI/Icons/sso_pilot.edds"
    }
   }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   WeaponTemplate "{E998FA484B0C4BFF}Prefabs/Weapons/Handguns/Glock/Handgun_Glock17.et"
+  }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
@@ -23,7 +26,7 @@ SCR_ChimeraCharacter : "{3A5AD64C37B0056E}Prefabs/Characters/Factions/BLUFOR/RHS
      TargetStorage "Vest/Vest_SRU21P.et"
     }
     ItemsInitConfigurationItem "{653AC5F28C8A1907}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_MC.et"
+     TargetStorage "Jacket/Jacket_FROG_Combat_Shirt.et"
      PrefabsToSpawn {
       "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et"
      }
