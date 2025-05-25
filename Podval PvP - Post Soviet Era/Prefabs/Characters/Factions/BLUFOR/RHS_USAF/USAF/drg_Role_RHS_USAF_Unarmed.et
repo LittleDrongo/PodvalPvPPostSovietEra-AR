@@ -17,7 +17,7 @@ SCR_ChimeraCharacter : "{D0A4FBFC3F2FBE5A}Prefabs/Characters/Factions/BLUFOR/RHS
      TargetStorage "Pants/crye_pants_CoyoteBrown.et"
     }
     ItemsInitConfigurationItem "{652C93AE8849C9D9}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_MC.et"
+     TargetStorage "Pants/crye_pants_CoyoteBrown.et"
     }
    }
   }
