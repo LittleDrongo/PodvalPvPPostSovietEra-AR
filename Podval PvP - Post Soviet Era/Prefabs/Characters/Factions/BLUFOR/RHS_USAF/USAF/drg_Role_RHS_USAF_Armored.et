@@ -19,7 +19,7 @@ SCR_ChimeraCharacter : "{D0A4FBFC3F2FBE5B}Prefabs/Characters/Factions/BLUFOR/RHS
      Prefab "{AB9E3D5524876346}Prefabs/Characters/Footwear/Boots_Faradey_1085/Footware_Faradey_1085.et"
     }
     LoadoutSlotInfo Back {
-     Prefab "{48602F57998AB597}Prefabs/Items/Equipment/Backpacks/FILBE_Backpack.et"
+     Prefab "{C5E7592C94DC6D4C}Prefabs/Items/Equipment/Backpacks/backpack_Wartech_BB102/Backpack_Wartech_BB102_MC.et"
     }
     LoadoutSlotInfo Vest {
      Prefab "{C41C60EA0CD22C53}Prefabs/Characters/Vests/Vest_JPC/variants/Vest_JPC_okinawa_MC.et"

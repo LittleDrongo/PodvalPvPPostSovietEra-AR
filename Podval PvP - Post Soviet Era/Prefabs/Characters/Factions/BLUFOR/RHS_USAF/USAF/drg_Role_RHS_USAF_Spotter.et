@@ -28,5 +28,12 @@ SCR_ChimeraCharacter : "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{652C93BCE2E655BC}" {
+     TargetStorage ""
+    }
+   }
+  }
  }
 }

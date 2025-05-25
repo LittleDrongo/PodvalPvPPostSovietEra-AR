@@ -4,5 +4,22 @@ SCR_ChimeraCharacter : "{D0A4FBFC3F2FBE5A}Prefabs/Characters/Factions/BLUFOR/RHS
   PS_PlayableComponent "{5EFCC1946F475F15}" {
    m_bIsPlayable 1
   }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Pants {
+     Prefab "{ECCC7BDEA2F3D3A5}Prefabs/Characters/Uniforms/Crye_Pants/crye_pants_CoyoteBrown.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{652C93AEBD1EDE56}" {
+     TargetStorage "Pants/crye_pants_CoyoteBrown.et"
+    }
+    ItemsInitConfigurationItem "{652C93AE8849C9D9}" {
+     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_MC.et"
+    }
+   }
+  }
  }
 }

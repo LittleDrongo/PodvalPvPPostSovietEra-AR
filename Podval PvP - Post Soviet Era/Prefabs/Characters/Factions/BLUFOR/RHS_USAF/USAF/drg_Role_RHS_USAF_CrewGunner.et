@@ -13,6 +13,9 @@ SCR_ChimeraCharacter : "{9808758629EAA4E0}Prefabs/Characters/Factions/BLUFOR/RHS
       "{C742BD6CB3D77A5A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL.et"
      }
     }
+    ItemsInitConfigurationItem "{652CEBE426C4C160}" {
+     TargetStorage "Back/Backpack_Wartech_BB102_MC.et"
+    }
    }
   }
  }

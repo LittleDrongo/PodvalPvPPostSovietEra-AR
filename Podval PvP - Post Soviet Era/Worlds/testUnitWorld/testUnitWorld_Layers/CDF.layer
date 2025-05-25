@@ -16,9 +16,6 @@ GenericEntity : "{727AB5567E71B5C9}Prefabs/Weapons/Attachments/Muzzle/SUREFIRE/S
 GenericEntity : "{8909A91CFF369BB3}Prefabs/Weapons/Rifles/M40/Rifle_M40A5_Optic.et" {
  coords 124.348 1 253.893
 }
-GenericEntity : "{8A639020E2A6F157}Prefabs/Weapons/Rifles/m107/Barret_M107A1_optic.et" {
- coords 106.188 1 222.386
-}
 $grp GenericEntity : "{D30D4FA5A82D6F0D}Prefabs/Items/Equipment/RangeCard/RangeCard_Notepad_Base.et" {
  {
   coords 64.778 1 230.436
