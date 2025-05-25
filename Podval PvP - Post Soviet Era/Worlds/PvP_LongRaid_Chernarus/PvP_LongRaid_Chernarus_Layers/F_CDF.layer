@@ -42,16 +42,6 @@ $grp Vehicle : "{52441D784D145D52}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Ses_CDF.e
   coords 4644.101 339.125 10296.309
   angleY -28.127
  }
- BTR70_Ses_CDF7 {
-  coords 4644.101 339.125 10296.309
-  angleY -28.127
-  m_sAttachmentGroupName "CDF_2_0_1"
- }
- BTR70_Ses_CDF8 {
-  coords 4649.248 339.125 10287.113
-  angleY -28.127
-  m_sAttachmentGroupName "CDF_2_0_2"
- }
 }
 SCR_AIGroup CDF_0_0_0 : "{83A26C7CCCC5BC24}Prefabs/Groups/BLUFOR/CDF/DRG_Group_Ses_CDF_RifleSquad_P.et" {
  coords 4616.317 339.126 10360.386

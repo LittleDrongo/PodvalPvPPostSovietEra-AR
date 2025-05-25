@@ -25,6 +25,10 @@ SCR_ChimeraCharacter : "{29F50BE3FC6A4882}Prefabs/Characters/Factions/BLUFOR/CDF
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{62387670C065B659}" {
+     PrefabsToSpawn +{
+     }
+    }
     ItemsInitConfigurationItem "{623876773B28341A}" {
      TargetStorage "ArmoredVest/Vest_6B3_Dubok_CDF.et"
      PrefabsToSpawn {

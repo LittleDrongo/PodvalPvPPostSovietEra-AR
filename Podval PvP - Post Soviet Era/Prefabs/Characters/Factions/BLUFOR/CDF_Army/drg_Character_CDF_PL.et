@@ -19,12 +19,12 @@ SCR_ChimeraCharacter : "{14B773656108F1C6}Prefabs/Characters/Factions/BLUFOR/CDF
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
-   WeaponTemplate "{A91412A7C6D517B8}Prefabs/Weapons/Rifles/AK74N/Rifle_AK74N_Rai_Aimpointl_Ses_CDF.et"
+   WeaponTemplate "{A91412A7C6D517B8}Prefabs/Weapons/Rifles/AK74N/Rifle_AK74N_Rail_Aimpoint.et"
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Back {
-     Prefab "{C3351EC6D64ED74A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC77.et"
+     Prefab "{568BE55E4E68C1EE}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC77_CDF.et"
     }
    }
   }
