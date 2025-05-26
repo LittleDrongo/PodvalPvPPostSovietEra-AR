@@ -33,6 +33,9 @@ SCR_ChimeraCharacter : "{4F7152B2B88B92CA}Prefabs/Characters/Factions/BLUFOR/RHS
     ItemsInitConfigurationItem "{653AC5F64B26F232}" {
      TargetStorage "Vest/Vest_PCGen_III_rifleman_shawplacard2.et/radio/Pouch_152_Radio.et"
     }
+    ItemsInitConfigurationItem "{653AC5E0B3E596A2}" {
+     TargetStorage "Jacket/ACU_jacket_UCP.et"
+    }
     ItemsInitConfigurationItem "{653AC5FD041455C1}" {
      TargetStorage "Vest/Vest_PCGen_III_rifleman_shawplacard2.et/flex2/Pouch_FILBE_doubleM4_2.et"
      PrefabsToSpawn {

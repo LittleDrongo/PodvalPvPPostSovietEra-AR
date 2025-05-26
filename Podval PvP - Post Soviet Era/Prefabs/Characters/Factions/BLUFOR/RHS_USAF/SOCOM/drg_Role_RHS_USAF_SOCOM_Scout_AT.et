@@ -18,6 +18,9 @@ SCR_ChimeraCharacter : "{9FBBBCD632861C8A}Prefabs/Characters/Factions/BLUFOR/RHS
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{653AC5E0B3E596A2}" {
+     TargetStorage "Jacket/ACU_jacket_UCP.et"
+    }
     ItemsInitConfigurationItem "{653AC5FD7C9B58B6}" {
      PrefabsToSpawn {
       "{27AC9FC7F5E2BEEB}Prefabs/Weapons/Magazines/MK153/Container_MK153_HEDP.et" "{27AC9FC7F5E2BEEB}Prefabs/Weapons/Magazines/MK153/Container_MK153_HEDP.et" "{27AC9FC7F5E2BEEB}Prefabs/Weapons/Magazines/MK153/Container_MK153_HEDP.et"

@@ -29,13 +29,13 @@ SCR_ChimeraCharacter : "{D0A4FBFC3F2FBE5A}Prefabs/Characters/Factions/BLUFOR/RHS
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{652C93AEBD1EDE56}" {
-     TargetStorage "Pants/Military_Pants_CADPAT_Temperate.et"
+     TargetStorage "Pants/ACU_pants_UCP.et"
     }
     ItemsInitConfigurationItem "{652C93AE8849C9D9}" {
-     TargetStorage "Pants/Military_Pants_CADPAT_Temperate.et"
+     TargetStorage "Pants/ACU_pants_UCP.et"
     }
     ItemsInitConfigurationItem "{652C93AFA7C32F0A}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_Rolled_CADPAT_Temperate.et"
+     TargetStorage "Jacket/ACU_jacket_UCP.et"
      TargetPurpose 64
     }
    }
