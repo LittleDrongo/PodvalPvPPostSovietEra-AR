@@ -16,9 +16,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "СПОСОБЫ ПОБЕДЫ ДЛЯ ВС США"\
   "— Уничтожить все вертолёты."\
   "— Нанести критические потери противнику."\
-  ""\
-  "ДЕТАЛИ"\
-  "— Каждый уничтоженный / сохраненный вертолёт даёт стороне 10 очков из 100."
+  ""
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
   m_iOrder 1
@@ -26,7 +24,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  "_2_USAF" {
   m_sTitle "#PS-Description_HeaderUS"
   m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
-  m_sTextData "Нам необходимо уничтожить10 вертолётов. Каждый уничтоженный вертолёт даст нам в 10 очков."
+  m_sTextData "Нам необходимо уничтожить10 вертолётов для победы."
   m_aVisibleForFactions {
    "RHS_AFRF"
   }
@@ -42,7 +40,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  "_2_CDF" {
   m_sTitle "#DRG-Description_HeaderCDF"
   m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
-  m_sTextData "Нам необходимо сохранить в целостности 10 вертолётов. Каждый потерянный вертолёт обойдётся нам в 10 очков."
+  m_sTextData "Нам необходимо недопустить уничтожения 10 вертолётов."
   m_aVisibleForFactions {
    "Ses_CDF"
   }
