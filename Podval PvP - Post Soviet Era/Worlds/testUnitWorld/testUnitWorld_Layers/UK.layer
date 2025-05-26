@@ -1,21 +1,9 @@
-SCR_ChimeraCharacter : "{0D02798B07380183}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Recon.et" {
- coords 76.478 1 225.535
+SCR_ChimeraCharacter : "{709622FCCD4BC2A8}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_Rifleman_TEST_DESERT.et" {
+ coords 75.156 1 180.156
 }
-SCR_ChimeraCharacter : "{28924C323A5EA49E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Sapper.et" {
- coords 74.306 1 226.737
-}
-SCR_ChimeraCharacter : "{404E4DF1D42FF62C}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_SeniorRecon.et" {
- coords 72.177 1 227.072
-}
-SCR_ChimeraCharacter : "{461FD4530D71EB74}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Sniper.et" {
- coords 70.772 1 227.173
-}
-SCR_ChimeraCharacter : "{6991FAEB35D21165}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Recon_2.et" {
- coords 67.772 1 228.266
-}
-SCR_ChimeraCharacter : "{72BCF7A2CD99344E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_SquadLeader.et" {
- coords 69.292 1 226.91
-}
-SCR_ChimeraCharacter : "{8C0DB6123937860E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Recon_3.et" {
- coords 67.361 1 229.898
+SCR_AIGroup : "{88827B912FA33559}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_SAS.et" {
+ coords 75.442 1 177.577
+ m_aUnitPrefabSlots + {
+  "{709622FCCD4BC2A8}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_Rifleman_TEST_DESERT.et"
+ }
 }
