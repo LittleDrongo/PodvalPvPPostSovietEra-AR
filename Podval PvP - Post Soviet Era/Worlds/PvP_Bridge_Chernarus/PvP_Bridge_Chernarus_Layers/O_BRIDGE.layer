@@ -1,0 +1,89 @@
+$grp StaticModelEntity : "{528AB2322A646026}Prefabs/Terrain/Erosion/ErodedEmbankment_01/ErodedEmbankment_01_forest_wave.et" {
+ {
+  coords 934.428 173.928 7851.87
+  angleY 58.245
+  scale 1.21
+ }
+ {
+  coords 937.928 173.952 7847.693
+  angleX 0.046
+  angleY 42.492
+  angleZ -2.952
+  scale 1.21
+ }
+ {
+  coords 948.001 174.444 7844.678
+  angleX -2.232
+  angleY -7.503
+  angleZ -1.933
+  scale 1.21
+ }
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{C2D897A275076309}PrefabLibrary/Rocks/Granite/GraniteCliff_02/GraniteCliff_02.et" {
+ {
+  coords 1216.29 200.562 9321.677
+  angleX -83.984
+  angleY -144.085
+  angleZ -80.866
+  scale 1.659
+ }
+ {
+  coords 1187.446 202.163 9286.752
+  angleX -87.917
+  angleY 48.131
+  angleZ 0.184
+  scale 1.095
+ }
+}
+$grp SCR_IndestructibleEnvironmentalEntity : "{E3972F6F29774671}PrefabLibrary/Rocks/Granite/GraniteSurfaceStone_04.et" {
+ {
+  coords 956.683 173.343 7852.748
+  angleY 47.033
+  scale 1.583
+ }
+ {
+  coords 942.471 171.956 7867.474
+  angleY 94.622
+  scale 1.583
+ }
+ {
+  coords 929.624 172.095 7832.297
+  angleX -5.768
+  angleY -141.794
+  angleZ -179.209
+  scale 1.583
+ }
+ {
+  coords 687.089 183.766 8714.538
+  angleX 3.543
+  angleY -35.232
+  angleZ -2.306
+  scale 1.754
+ }
+}
+$grp GenericEntity : "{EAFB8BCEE733517E}Prefabs/Structures/BuildingParts/Bridges/drg_BridgeRailingBig.et" {
+ OPORA_1 {
+  coords 684.479 188.188 8703.932
+  angleY -22.378
+ }
+ OPORA_2 {
+  coords 690.631 188.188 8688.99
+  angleY -22.378
+ }
+ OPORA_3 {
+  coords 693.709 188.188 8681.513
+  angleY -22.378
+ }
+ OPORA_4 {
+  coords 690.565 188.188 8706.438
+  angleY -22.378
+ }
+ OPORA_5 {
+  coords 696.762 188.188 8691.515
+  angleY -22.378
+ }
+ OPORA_6 {
+  coords 699.84 188.188 8684.037
+  angleY -22.378
+ }
+}
