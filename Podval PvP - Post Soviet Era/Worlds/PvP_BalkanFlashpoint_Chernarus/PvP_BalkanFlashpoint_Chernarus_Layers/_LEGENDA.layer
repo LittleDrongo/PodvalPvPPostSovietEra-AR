@@ -176,7 +176,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_MarkerColor 1 1 1 1
   m_sQuadName "undefined"
   m_fWorldSize 50
-  m_sDescription "11A"
+  m_sDescription "(#DRG-Sq-CompanyHQ) 11A"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
    "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK"
@@ -261,7 +261,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_MarkerColor 1 1 1 1
   m_sQuadName "undefined"
   m_fWorldSize 50
-  m_sDescription "(#DRG-Sq-InfantrySection) 214"
+  m_sDescription "(#DRG_Sqd_AT) 214"
   m_bUseWorldScale 0
   m_aVisibleForFactions {
    "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK"

@@ -5,7 +5,7 @@ $grp SCR_AIGroup : "{0E84EF3D585F1560}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_Infa
   m_aUnitPrefabSlots {
    "{D21D1064AC476000}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_CL.et"
   }
-  m_sCustomNameSet ""
+  m_sCustomNameSet "#DRG-Sq-CompanyHQ"
  }
  UK_1_0_0 {
   components {
@@ -70,6 +70,7 @@ $grp SCR_AIGroup : "{0E84EF3D585F1560}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_Infa
   m_aUnitPrefabSlots {
    "{FDCDFF7A3B3D4211}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SMAW.et" "{446115906D56CBDA}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_MAW_Assist.et" "{446115906D56CBDA}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_MAW_Assist.et"
   }
+  m_sCustomNameSet "#DRG_Sqd_AT"
  }
 }
 $grp SCR_AIGroup : "{88827B912FA33559}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_SAS.et" {

@@ -19,6 +19,50 @@ $grp StaticModelEntity : "{528AB2322A646026}Prefabs/Terrain/Erosion/ErodedEmbank
   scale 1.21
  }
 }
+$grp GenericEntity : "{ADB764EA160A1A4E}Prefabs/Props/Industrial/CargoContainers/CargoContainer_01/CargoContainer_01_10ft_grey.et" {
+ collision_block {
+  coords 684.125 187.861 8704.742
+  angleX 89.27
+  angleY 156.482
+  angleZ 178.352
+  scale 0.67
+ }
+ collision_block2 {
+  coords 690.275 187.857 8689.793
+  angleX 89.27
+  angleY 156.482
+  angleZ 178.352
+  scale 0.67
+ }
+ collision_block3 {
+  coords 693.352 187.755 8682.309
+  angleX 89.27
+  angleY 156.482
+  angleZ 178.352
+  scale 0.67
+ }
+ collision_block4 {
+  coords 699.477 187.859 8684.846
+  angleX 89.27
+  angleY 156.482
+  angleZ 178.352
+  scale 0.67
+ }
+ collision_block5 {
+  coords 696.451 187.863 8692.323
+  angleX 89.27
+  angleY 156.482
+  angleZ 178.352
+  scale 0.67
+ }
+ collision_block6 {
+  coords 690.252 187.859 8707.246
+  angleX 89.27
+  angleY 156.482
+  angleZ 178.352
+  scale 0.67
+ }
+}
 $grp SCR_IndestructibleEnvironmentalEntity : "{C2D897A275076309}PrefabLibrary/Rocks/Granite/GraniteCliff_02/GraniteCliff_02.et" {
  {
   coords 1216.29 200.562 9321.677

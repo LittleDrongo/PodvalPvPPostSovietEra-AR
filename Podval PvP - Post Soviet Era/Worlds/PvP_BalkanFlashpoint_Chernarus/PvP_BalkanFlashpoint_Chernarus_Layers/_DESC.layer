@@ -2,6 +2,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  "_1_RULES" {
   coords 5534.73 61.71 10496.381
   m_sTitle "#PS-Description_HeaderRules"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "ОБЩИЕ ПРАВИЛА"\
   "— Всем запрещено надевать форму, головные уборы, разгрузки, бронежилеты противника (рюкзаки можно)"\
   "— Внимание на миссии ограниченное кол-во раций, 2-3 на отделение."\
@@ -14,10 +15,13 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— 1. Удержать позиции логистического пункта, не допустить захвата флага."\
   "— 2. Уничтожить мост"\
   ""\
+  "ОБРАТИТЕ ВНИМАНИЕ"\
+  "— Миссия завершиться после захвата флага."\
+  ""\
   "ПАРАМЕТРЫ МИССИИ"\
   "— Для контроля необходимо поменять флаг через взаимодействие."\
   "— Для победы сторонам необходимо выполнить обе задачи."\
-  "— Миссия завершиться после захвата флага."\
+  ""\
   ""\
   ""
   m_bEmptyFactionVisibility 1
@@ -27,6 +31,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  "_2_UK" {
   coords 5159.505 56.132 10322.095
   m_sTitle "#DRG-Description_HeaderUK"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "Ситуация на грани. Российские войска неожиданно ворвались в Косово и захватили аэродром Слатина. Попытка договориться провалилась — теперь речь идёт не о дипломатии, а о выживании."\
   ""\
   "В нескольких километрах от аэродрома находится наш логистический узел. Потеря этого пункта нарушит цепочки снабжения и даст противнику возможность продвинуться дальше на юг."\
@@ -46,6 +51,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  "_2_RF" {
   coords 5534.418 43.503 10540.239
   m_sTitle "#DRG-Description_HeaderRUS"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "06:00 утра. За плечами — марш-бросок через Балканы. Впереди — аэродром Слатина, занятый накануне. Но мир не наступил. Переговоры с НАТО провалились, британские войска отказываются покидать позиции. Командование приняло решение: начать наступление."\
   ""\
   "Перед вами — ключевой логистический пункт противника: склад снабжения и распределения ГСМ и боеприпасов. Его захват обеспечит нам оперативное преимущество в регионе и даст возможность развить наступление."\
@@ -65,6 +71,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  "_0_ABOUT" {
   coords 5568.057 56.802 10524.196
   m_sTitle "#PS-Description_HeaderAboutMission"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "Июнь 1999 года. Мир стоит на пороге новой войны."\
   "В альтернативной реальности события вокруг аэродрома Слатина в Косово развиваются иначе: дипломатия бессильна, компромисс недостижим, а первый выстрел уже прозвучал."\
   "Российские войска, прорвавшиеся через Балканы, занимают ключевой аэродром в Приштине. Вскоре туда прибывают британские силы под флагом НАТО. Встреча, которая могла остаться в истории как напряжённая, но мирная, перерастает в вооружённое столкновение."\
@@ -79,6 +86,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  "_3_UK_2" {
   coords 5159.505 56.132 10322.095
   m_sTitle "Памятка по подрыву моста"
+  m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "Обратите внимание, у моста имеется 6 опор, ваша задача подорвать все эти опоры."\
   ""\
   "После уничтожения мост будет не пригоден для логистики противника. "\
