@@ -79,7 +79,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   }
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
-  m_sCustomNameSet "#DRG-Sq-PlatoonHQ"
+  m_sCustomNameSet "#DRG-Sq-RifleSquad"
  }
  RF_1_0_1 {
   components {
@@ -138,7 +138,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   }
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
-  m_sCustomNameSet "#DRG-Sq-PlatoonHQ"
+  m_sCustomNameSet "#DRG-Sq-RifleSquad"
  }
  RF_2_0_1 {
   components {
@@ -197,7 +197,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   }
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
-  m_sCustomNameSet "#DRG-Sq-RifleSquad"
+  m_sCustomNameSet "#DRG-Sq-ReconSquad"
  }
  RF_3_0_0 {
   components {
@@ -216,7 +216,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   }
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
-  m_sCustomNameSet "#DRG-Sq-PlatoonHQ"
+  m_sCustomNameSet "#DRG-Sq-RifleSquad"
  }
  RF_3_0_1 {
   components {
@@ -236,7 +236,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   }
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
-  m_sCustomNameSet "#DRG-Sq-PlatoonHQ"
+  m_sCustomNameSet "#DRG-Sq-RifleSquad"
  }
 }
 Vehicle GAZ_TIGR_v2_KORD1 : "{AC12E5669B411D57}Prefabs/Vehicles/Wheeled/TIGR/KORD/GAZ_TIGR_v2_KORD.et" {
