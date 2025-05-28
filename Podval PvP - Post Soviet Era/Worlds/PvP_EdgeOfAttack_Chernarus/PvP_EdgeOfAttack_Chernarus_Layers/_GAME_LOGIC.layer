@@ -10,9 +10,12 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
        m_sFactionKey "Ses_CDF"
       }
      }
+     m_sObjectiveNames {
+      "KILL_CDF"
+     }
      m_bAdvanceGameStage 1
      m_bUseMessage 1
-     m_bEventMessage "Победа обороны: Атака понесла серьёзные потери"
+     m_bEventMessage "Победа обороны! Атака понесла большие потери."
     }
     LossLogic "{6532E5DED2A74EF8}" {
      m_aLosses {
@@ -20,8 +23,12 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
        m_sFactionKey "RHS_AFRF"
       }
      }
+     m_sObjectiveNames {
+      "KILL_AFRF"
+     }
      m_bAdvanceGameStage 1
      m_bUseMessage 1
+     m_bEventMessage "Победа атаки! Оборона понесла большие потери."
     }
    }
   }

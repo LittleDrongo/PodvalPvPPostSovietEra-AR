@@ -26,7 +26,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  "_0_ABOUT" {
   m_sTitle "#PS-Description_HeaderAboutMission"
   m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
-  m_sTextData "В глубине лесного массива был обнаружен перевалочный пункт ВС ЧСО. По данным разведки, через него осуществляется снабжение и переброска личного состава вглубь зоны конфликта. Вооружённые Силы Российской Федерации (ВС РФ) начинают операцию по захвату и нейтрализации объекта. "
+  m_sTextData "В глубине лесного массива был обнаружен перевалочный пункт ВС ЧСО. По данным разведки, через него осуществляется снабжение и переброска личного состава вглубь зоны конфликта. Вооружённые Силы Российской Федерации начинают операцию по захвату и нейтрализации объекта. "
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
  }
@@ -45,7 +45,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
  }
  "_2_CDF" {
   coords 2891.292 336.211 2422.753
-  m_sTitle "#DRG-Description_HeaderUK"
+  m_sTitle "#DRG-Description_HeaderCDF"
   m_sDescriptionLayout "{B6DE04F7CF7A95DA}UI/MissionDescription/DescriptionEditableScrollable.layout"
   m_sTextData "Удержать перевалочный пункт любой ценой. "\
   "Организовать круговую оборону, использовать преимущества укрытий в лесу и не дать противнику продвинуться к ключевым объектам. При необходимости — провести контратаку и вытеснить ВС РФ из лесного массива. Поддержание контроля над пунктом критически важно для обеспечения снабжения и манёвра в регионе."

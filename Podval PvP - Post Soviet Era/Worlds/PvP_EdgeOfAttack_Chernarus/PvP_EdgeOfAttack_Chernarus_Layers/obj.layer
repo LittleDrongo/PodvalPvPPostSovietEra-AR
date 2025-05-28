@@ -11,4 +11,16 @@ $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
   m_sDescriptionLayout ""
   m_sFactionKey "RHS_AFRF"
  }
+ KILL_CDF {
+  coords 3514.416 338.646 7024.973
+  m_sTitle "Разромить противника"
+  m_sDescriptionLayout ""
+  m_sFactionKey "RHS_AFRF"
+ }
+ KILL_AFRF {
+  coords 3514.416 338.646 7024.973
+  m_sTitle "Разромить противника"
+  m_sDescriptionLayout ""
+  m_sFactionKey "Ses_CDF"
+ }
 }

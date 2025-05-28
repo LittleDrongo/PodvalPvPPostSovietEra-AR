@@ -5,7 +5,7 @@ SplineShapeEntity O_BASE_2 {
    Position -108.567 0 127.174
   }
   ShapePoint "{65651E07EE2D88EE}" {
-   Position -135.312 -0 118.546
+   Position -135.312 0 118.546
   }
   ShapePoint "{65651E07EC092B21}" {
    Position -139.256 0 111.915
@@ -26,13 +26,13 @@ SplineShapeEntity O_BASE_2 {
    Position -111.81 0 57.884
   }
   ShapePoint "{65651E07F061E1A6}" {
-   Position -100.233 -0 56.774
+   Position -100.233 0 56.774
   }
   ShapePoint "{65651E07F0AC6965}" {
-   Position -91.212 -0 64.66
+   Position -91.212 0 64.66
   }
   ShapePoint "{65651E07F1C14AAA}" {
-   Position -80.521 -0 68.039
+   Position -80.521 0 68.039
   }
   ShapePoint "{65651E07F61314B6}" {
    Position -73.425 0 70.029
@@ -47,28 +47,28 @@ SplineShapeEntity O_BASE_2 {
    Position -54.26 0 83.205
   }
   ShapePoint "{65651E07F6C25750}" {
-   Position -45.741 -0 86.843
+   Position -45.741 0 86.843
   }
   ShapePoint "{65651E07F80063E7}" {
    Position -41.445 0 91.178
   }
   ShapePoint "{65651E07F84AFCA5}" {
-   Position -37.583 -0 97.096
+   Position -37.583 0 97.096
   }
   ShapePoint "{65651E07F88E9A9F}" {
-   Position -35.362 -0 101.913
+   Position -35.362 0 101.913
   }
   ShapePoint "{65651E07F8DB4170}" {
-   Position -33.983 -0 107.763
+   Position -33.983 0 107.763
   }
   ShapePoint "{65651E07D8439A12}" {
-   Position -23.735 -0 114.604
+   Position -23.735 0 114.604
   }
   ShapePoint "{65651E07D8927B78}" {
    Position -14.544 -0.001 118.815
   }
   ShapePoint "{65651E07D972C3FE}" {
-   Position -4.436 -0 126.497
+   Position -4.436 0 126.497
   }
   ShapePoint "{65651E07DE7A619E}" {
    Position 1.241 0 134.38
@@ -77,7 +77,7 @@ SplineShapeEntity O_BASE_2 {
    Position -7.224 0 150.927
   }
   ShapePoint "{65651E07DF6E1EC6}" {
-   Position -21.899 -0 171.512
+   Position -21.899 0 171.512
   }
   ShapePoint "{65651E07DD6B0EF0}" {
    Position -40.481 0.308 200.483
@@ -116,7 +116,7 @@ SplineShapeEntity O_BASE_2 {
    Position -94.305 -0.001 149.382
   }
   ShapePoint "{65651E06253A20CF}" {
-   Position -91.269 -0 139.739
+   Position -91.269 0 139.739
   }
  }
  {
@@ -705,33 +705,43 @@ SplineShapeEntity O_BASE_2 {
   }
  }
 }
-$grp SCR_DestructibleBuildingEntity : "{D25D2FE26B8DA6BE}Prefabs/Structures/Bulding/Military/fort_rampart_ep1.et" {
+$grp SCR_DestructibleBuildingEntity : "{8F92FA56BC6BBB4F}Prefabs/Structures/Bulding/Military/fort_rampart_ep1.et" {
  {
-  coords 8306.118 0 2161.318
+  coords 8306.114 322.459 2161.318
   angleY 70.507
  }
  {
-  coords 8303.211 0.001 2169.531
+  coords 8303.211 322.46 2169.531
   angleY 70.507
  }
  {
-  coords 8300.32 0.107 2177.695
-  angleY 70.507
+  coords 8300.315 322.081 2177.695
+  angleX 1.875
+  angleY 70.485
+  angleZ -0.664
  }
  {
-  coords 8297.382 0.299 2185.996
-  angleY 70.507
+  coords 8297.382 321.888 2185.996
+  angleX 2.314
+  angleY 70.462
+  angleZ -1.122
  }
  {
-  coords 8294.493 0.38 2194.156
-  angleY 70.507
+  coords 8294.493 321.806 2194.156
+  angleX 0.959
+  angleY 70.481
+  angleZ -1.546
  }
  {
-  coords 8291.492 0.589 2202.633
-  angleY 70.507
+  coords 8291.492 321.598 2202.633
+  angleX 2.124
+  angleY 70.446
+  angleZ -1.658
  }
  {
-  coords 8289.155 0.59 2209.232
-  angleY 70.507
+  coords 8289.15 321.597 2209.232
+  angleX 3.338
+  angleY 70.561
+  angleZ 0.928
  }
 }
