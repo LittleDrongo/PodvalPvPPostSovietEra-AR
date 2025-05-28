@@ -1,0 +1,11 @@
+GenericEntity : "{0450A01FB0CA6378}Prefabs/Compositions/Misc/SubCompositions/Tents/Tent_Medical_US_02_without_boxes.et" {
+ coords 2296.389 242.769 1875.741
+}
+StaticModelEntity : "{06DD0F7384BE4FDC}Prefabs/Compositions/Misc/SubCompositions/drg_Tent_BarrackHQ_Cluttered_US_01.et" {
+ coords 2311.921 244.888 1873.267
+ angleY 0
+}
+GenericEntity : "{8B4B8BF44162B24E}Prefabs/Compositions/Slotted/SlotFlatSmall/Antenna_S_US_01.et" {
+ coords 2304.95 244.894 1841.741
+ angleY -157.658
+}
