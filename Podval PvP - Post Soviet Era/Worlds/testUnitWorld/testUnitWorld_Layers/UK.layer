@@ -1,6 +1,3 @@
-SCR_ChimeraCharacter : "{709622FCCD4BC2A8}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_Rifleman_TEST_DESERT.et" {
- coords 75.156 1 180.156
-}
 SCR_AIGroup : "{88827B912FA33559}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_SAS.et" {
  coords 75.442 1 177.577
  m_aUnitPrefabSlots + {

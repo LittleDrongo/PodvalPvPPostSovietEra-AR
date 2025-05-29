@@ -181,3 +181,53 @@ $grp SCR_AIGroup : "{02B7DC04CD35582D}Prefabs/Groups/BLUFOR/CDF/drg_CDF_PlatoonH
   m_sCustomNameSet "#DRG-Sq-RifleSquad"
  }
 }
+$grp GenericEntity : "{375F0DE9BFFB8BBD}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_Explosive_USSR.et" {
+ {
+  coords 3643.323 323.937 2482.532
+  angleY -77.484
+ }
+ {
+  coords 3644.959 323.969 2494.26
+  angleY -77.484
+ }
+ {
+  coords 3646.498 324 2505.511
+  angleY -77.484
+ }
+ {
+  coords 3648.254 323.968 2516.03
+  angleY -77.484
+ }
+ {
+  coords 3133.012 345.656 2465.607
+  angleY -77.484
+ }
+ {
+  coords 3141.338 345.26 2462.646
+  angleY -77.484
+ }
+ {
+  coords 3150.705 344.831 2459.387
+  angleY -77.484
+ }
+ {
+  coords 3160.725 344.267 2455.654
+  angleY -77.484
+ }
+ {
+  coords 3448.229 332.719 2358.304
+  angleY -77.484
+ }
+ {
+  coords 3455.321 332.558 2355.858
+  angleY -77.484
+ }
+ {
+  coords 3466.005 332.344 2352.143
+  angleY -77.484
+ }
+ {
+  coords 3475.97 332.187 2348.704
+  angleY -77.484
+ }
+}
