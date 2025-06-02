@@ -8,13 +8,13 @@ SCR_ChimeraCharacter : "{EAA4CE2A03A6D9ED}Prefabs/Characters/Factions/BLUFOR/CDF
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
-    ItemsInitConfigurationItem "{623876773A154FCC}" {
-     TargetStorage "Back/Backpack_Veshmeshok.et"
-    }
     ItemsInitConfigurationItem "{654AD37418827625}" {
      PrefabsToSpawn {
-      "{C742BD6CB3D77A5A}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL.et"
+      "{CCEEA6BC6177C51F}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL_CDF.et"
      }
+    }
+    ItemsInitConfigurationItem "{623876773A154FCC}" {
+     TargetStorage "Back/Backpack_Veshmeshok.et"
     }
    }
   }

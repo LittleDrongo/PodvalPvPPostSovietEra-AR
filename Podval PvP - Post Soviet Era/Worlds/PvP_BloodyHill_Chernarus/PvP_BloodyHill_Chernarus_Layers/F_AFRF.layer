@@ -3,6 +3,14 @@ Vehicle Ural4320_transport1 : "{16C1F16C9B053801}Prefabs/Vehicles/Wheeled/Ural43
  angleY 93.458
  m_sAttachmentGroupName "RF_5_0_DEF"
 }
+$grp Vehicle : "{259EE7B78C51B624}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469.et" {
+ UAZ1 {
+  coords 4631.426 339.125 9579.018
+ }
+ UAZ2 {
+  coords 4621.752 339.125 9579.018
+ }
+}
 Vehicle Ural4320_ammo1 : "{3336BE330C4F355B}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo.et" {
  coords 4682.036 339.125 9579.44
  angleY 91.941
@@ -205,18 +213,6 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   m_sCustomNameSet "#DRG-Sq-MachineGunnerSquad"
  }
 }
-$grp Vehicle : "{98225ED6D5F724D7}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_gunship_empty.et" {
- Mi8MT_armed_gunship_empty1 {
-  coords 4758.31 339.125 9718.601
-  angleY -32.829
-  m_sAttachmentGroupName "RF_4_0"
- }
- Mi8MT_armed_gunship_empty2 {
-  coords 4785.264 339.159 9670.424
-  angleY -28.97
-  m_sAttachmentGroupName "RF_4_1"
- }
-}
 Vehicle Ural4320_repair1 : "{A5647958579A4149}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_repair.et" {
  coords 4682.148 339.125 9585.143
  angleY 93.502
@@ -256,5 +252,17 @@ $grp GenericEntity : "{C63BFEEA9DE1CF26}Prefabs/MP/Campaign/SupplyDepots/SupplyC
  {
   coords 4711.18 339.125 9609.649
   angleY -88.08
+ }
+}
+$grp Vehicle : "{DBEC63C9DEE4358C}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed_gunship_HEDP.et" {
+ Mi8MT_armed_gunship_HEDP1 {
+  coords 4174.253 339.125 10732.342
+  angleY -29.658
+  m_sAttachmentGroupName "RF_4_0"
+ }
+ Mi8MT_armed_gunship_HEDP2 {
+  coords 4202.765 339.125 10683.726
+  angleY -30.294
+  m_sAttachmentGroupName "RF_4_1"
  }
 }
