@@ -19,10 +19,17 @@ SCR_ChimeraCharacter : "{9A132AE865F1DB2D}Prefabs/Characters/Factions/INDFOR/PIR
      Prefab "{608F66AB8B36B85D}Prefabs/Characters/Eyewear/crossbow/Eyewear_ess_crossbow_blk.et"
     }
     LoadoutSlotInfo Jacket {
-     Prefab "{D78C66D7C5387881}Prefabs/Characters/Uniforms/T_Shirts/Velocity_Shirt/velocity_shirt_BLK.et"
+     Prefab "{228DBC831D3EDD65}Prefabs/Characters/Uniforms/Shirt_flannel/flannel_shirt_blue_1.et"
     }
     LoadoutSlotInfo Back {
      Prefab "{E328B3306A15E882}Prefabs/Items/Equipment/Radios/INDFOR_Radio_RF10.et"
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{631929928565B5AA}" {
+     TargetStorage "Jacket/flannel_shirt_blue_1.et"
     }
    }
   }
