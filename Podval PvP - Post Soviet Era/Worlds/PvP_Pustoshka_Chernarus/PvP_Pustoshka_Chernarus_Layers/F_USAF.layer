@@ -1,46 +1,48 @@
 $grp Vehicle : "{04BDACC0BB83284E}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_MERDC.et" {
  M923A1_transport_covered_MERDC1 {
-  coords 2086.718 234.094 9831.996
-  angleX 0.895
-  angleY -179.497
-  angleZ 0.008
+  coords 2123.092 239.327 9703.072
+  angleX 3.213
+  angleY 141.499
+  angleZ -0.27
   m_sAttachmentGroupName "USAF_2_0_2"
  }
  M923A1_transport_covered_MERDC2 {
-  coords 2087.722 234.156 9817.407
-  angleY -179.497
+  coords 2131.894 240.409 9691.494
+  angleY 137.624
   m_sAttachmentGroupName "USAF_2_0_1"
  }
  M923A1_transport_covered_MERDC3 {
-  coords 2087.872 234.125 9800.323
-  angleY -179.497
+  coords 2141.842 241.004 9680.48
+  angleX 3.157
+  angleY 134.556
+  angleZ -0.656
   m_sAttachmentGroupName "USAF_2_0_0"
  }
  M923A1_transport_covered_MERDC4 {
-  coords 2087.96 234.268 9778.814
-  angleX 0.893
-  angleY 176.533
-  angleZ -0.054
+  coords 2152.959 241.749 9669.979
+  angleX 2.53
+  angleY 135.782
+  angleZ 0.034
   m_sAttachmentGroupName "USAF_1_0_2"
  }
  M923A1_transport_covered_MERDC5 {
-  coords 2089.72 235.02 9763.387
-  angleX 0.877
-  angleY 168.616
-  angleZ -0.177
+  coords 2165.035 242.505 9658.886
+  angleX 0.564
+  angleY 129.119
+  angleZ -0.694
   m_sAttachmentGroupName "USAF_1_0_1"
  }
  M923A1_transport_covered_MERDC6 {
-  coords 2093.188 235.931 9750.318
-  angleX 4.481
-  angleY 158.339
-  angleZ -0.818
+  coords 2176.307 243.065 9650.45
+  angleX 1.969
+  angleY 126.905
+  angleZ 0.359
   m_sAttachmentGroupName "USAF_1_0_0"
  }
 }
 SCR_AIGroup USAF_0_0_0 : "{4A02B745F553821E}Prefabs/Groups/BLUFOR/drg_USAF_CompanyHQ.et" {
- coords 2099.986 236.589 9742.755
- angleY -119.362
+ coords 2177.261 243.277 9641.5
+ angleY -134.663
  m_aUnitPrefabSlots + {
   "{893533817C25A8B0}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Medic.et"
  }
@@ -52,8 +54,8 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
     m_iCompanyCallsign 1
    }
   }
-  coords 2097.984 236.266 9748.053
-  angleY -110.844
+  coords 2176.375 243.167 9646.072
+  angleY -143.773
   m_sCustomNameSet "w"
  }
  USAF_1_0_1 {
@@ -63,10 +65,10 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
     m_iSquadCallsign 1
    }
   }
-  coords 2093.954 235.174 9760.701
-  angleX 4.788
-  angleY -101.513
-  angleZ 1.093
+  coords 2165.608 242.674 9654.239
+  angleX 4.403
+  angleY -140.741
+  angleZ -2.178
   m_sCustomNameSet "w"
  }
  USAF_1_0_2 {
@@ -76,10 +78,10 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
     m_iSquadCallsign 2
    }
   }
-  coords 2092.133 234.322 9775.76
-  angleX 4.605
-  angleY -94.015
-  angleZ 1.708
+  coords 2152.436 241.883 9665.188
+  angleX 0.064
+  angleY -136.45
+  angleZ 2.53
   m_sCustomNameSet "w"
  }
  USAF_2_0_0 {
@@ -88,8 +90,8 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
     m_iCompanyCallsign 2
    }
   }
-  coords 2091.391 234.156 9797.48
-  angleY -90.871
+  coords 2141.175 241.191 9675.204
+  angleY -131.983
   m_sCustomNameSet "w"
  }
  USAF_2_0_1 {
@@ -99,8 +101,8 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
     m_iSquadCallsign 1
    }
   }
-  coords 2091.153 234.156 9813.149
-  angleY -90.871
+  coords 2131.584 240.412 9686.196
+  angleY -130.182
   m_sCustomNameSet "w"
  }
  USAF_2_0_2 {
@@ -110,8 +112,10 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
     m_iSquadCallsign 2
    }
   }
-  coords 2091.054 234.125 9828.813
-  angleY -90.871
+  coords 2122.713 239.61 9696.793
+  angleX 0.355
+  angleY -130.012
+  angleZ 3.205
   m_sCustomNameSet "w"
  }
  USAF_3_0_0 {
@@ -120,7 +124,7 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
     m_iCompanyCallsign 3
    }
   }
-  coords 2089.091 233.864 9850.735
+  coords 2090.256 234.105 9831.261
   angleX 0.065
   angleY -94.198
   angleZ 0.893
@@ -136,7 +140,7 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
     m_iSquadCallsign 1
    }
   }
-  coords 2088.3 233.695 9861.513
+  coords 2089.465 233.968 9842.038
   angleX 0.065
   angleY -94.198
   angleZ 0.893
@@ -148,17 +152,15 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
 }
 $grp Vehicle : "{FA6820A9A52CD05B}Prefabs/Vehicles/Wheeled/M998/M1025_armed_M2HB_MDO_USAF.et" {
  M1025_armed_M2HB_MDO_USAF1 {
-  coords 2085.47 233.835 9851.673
-  angleX 0.052
+  coords 2086.635 234.094 9832.196
   angleY 176.641
-  angleZ 0.894
   m_sAttachmentGroupName "USAF_3_0_0"
  }
  M1025_armed_M2HB_MDO_USAF2 {
-  coords 2084.441 233.61 9862.455
-  angleX 1.781
-  angleY 174.403
-  angleZ -0.175
+  coords 2085.606 233.954 9842.981
+  angleX 0.891
+  angleY 174.404
+  angleZ -0.087
   m_sAttachmentGroupName "USAF_3_0_1"
  }
 }

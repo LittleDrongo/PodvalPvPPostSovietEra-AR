@@ -313,10 +313,8 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 2085.47 233.835 9851.673
-  angleX 0.052
+  coords 2086.635 234.094 9832.196
   angleY 266.641
-  angleZ 0.894
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.016 0.552 0.905 1
@@ -334,10 +332,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 2084.441 233.61 9862.455
-  angleX 1.781
-  angleY 264.403
-  angleZ -0.175
+  coords 2085.606 233.954 9842.981
+  angleX 0.891
+  angleY 264.404
+  angleZ -0.087
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.016 0.552 0.905 1
@@ -355,10 +353,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 2086.718 234.094 9831.996
-  angleX 0.895
-  angleY -89.497
-  angleZ 0.008
+  coords 2123.092 239.327 9703.072
+  angleX 3.213
+  angleY 231.499
+  angleZ -0.27
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.016 0.552 0.905 1
@@ -376,8 +374,8 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 2087.722 234.156 9817.407
-  angleY -89.497
+  coords 2131.894 240.409 9691.494
+  angleY 227.624
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.016 0.552 0.905 1
@@ -395,8 +393,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 2087.872 234.125 9800.323
-  angleY -89.497
+  coords 2141.842 241.004 9680.48
+  angleX 3.157
+  angleY 224.556
+  angleZ -0.656
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.016 0.552 0.905 1
@@ -414,10 +414,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 2087.96 234.268 9778.814
-  angleX 0.894
-  angleY 266.533
-  angleZ -0.054
+  coords 2152.959 241.749 9669.979
+  angleX 2.53
+  angleY 225.782
+  angleZ 0.034
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.016 0.552 0.905 1
@@ -435,10 +435,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 2089.72 235.02 9763.387
-  angleX 0.878
-  angleY 258.616
-  angleZ -0.177
+  coords 2165.035 242.505 9658.886
+  angleX 0.564
+  angleY 219.119
+  angleZ -0.694
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.016 0.552 0.905 1
@@ -456,10 +456,10 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  {
-  coords 2093.188 235.931 9750.318
-  angleX 4.481
-  angleY 248.339
-  angleZ -0.818
+  coords 2176.307 243.065 9650.45
+  angleX 1.969
+  angleY 216.905
+  angleZ 0.359
   m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0.016 0.552 0.905 1
@@ -477,7 +477,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 0
  }
  RHS_USAF_G_000_M {
-  coords 2099.986 236.589 9742.755
+  coords 2177.261 243.277 9641.5
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -494,7 +494,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_USAF_G_100_M {
-  coords 2097.984 236.266 9748.053
+  coords 2176.375 243.167 9646.072
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -511,7 +511,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_USAF_G_101_M {
-  coords 2093.954 235.174 9760.701
+  coords 2165.608 242.674 9654.239
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -528,7 +528,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_USAF_G_102_M {
-  coords 2092.133 234.322 9775.76
+  coords 2152.436 241.883 9665.188
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -545,7 +545,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_USAF_G_200_M {
-  coords 2091.391 234.156 9797.48
+  coords 2141.175 241.191 9675.204
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -562,7 +562,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_USAF_G_201_M {
-  coords 2091.153 234.156 9813.149
+  coords 2131.584 240.412 9686.196
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -579,7 +579,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_USAF_G_202_M {
-  coords 2091.054 234.125 9828.813
+  coords 2122.713 239.61 9696.793
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -596,7 +596,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_USAF_G_300_M {
-  coords 2089.091 233.864 9850.735
+  coords 2090.256 234.105 9831.261
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
@@ -613,7 +613,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_iZOrder 10
  }
  RHS_USAF_G_301_M {
-  coords 2088.3 233.695 9861.513
+  coords 2089.465 233.968 9842.038
   m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 1 1 1 1
