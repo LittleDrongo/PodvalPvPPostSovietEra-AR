@@ -1,0 +1,89 @@
+$grp SCR_AIGroup : "{096E2AA151C3580D}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_RifleSquad.et" {
+ USSR_1_0_1 {
+  components {
+   PS_GroupCallsignAssigner "{645CD4F530E5119A}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 9273.302 474.846 4737.492
+  angleX -5.8
+  angleY -14.418
+  angleZ -4.342
+ }
+ USSR_1_0_2 {
+  components {
+   PS_GroupCallsignAssigner "{645CD4F530E5119A}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 9274.101 475.128 4734.437
+  angleX -0.355
+  angleY -14.822
+  angleZ -5.766
+ }
+ USSR_1_0_3 {
+  components {
+   PS_GroupCallsignAssigner "{645CD4F530E5119A}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 9274.794 475.134 4731.099
+  angleX -3.382
+  angleY -14.824
+  angleZ -0.573
+ }
+ USSR_2_0_1 {
+  components {
+   PS_GroupCallsignAssigner "{645CD4F530E5119A}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 9263.076 471.507 4748.11
+  angleX -5.8
+  angleY -14.418
+  angleZ -4.342
+ }
+ USSR_2_0_2 {
+  components {
+   PS_GroupCallsignAssigner "{645CD4F530E5119A}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 2
+   }
+  }
+  coords 9263.933 471.556 4745.746
+  angleX -0.355
+  angleY -14.822
+  angleZ -5.766
+ }
+}
+SCR_AIGroup USSR_0_0_0 : "{2797EDBC47A47C2F}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_CompanyHQ.et" {
+ coords 9254.203 472.451 4736.141
+}
+$grp SCR_AIGroup : "{7A8CA920227BCBA8}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_PlatoonHQ.et" {
+ USSR_1_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{645CD4FE39870BD1}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 9272.742 472.854 4739.526
+  angleX 2.174
+  angleY -17.873
+  angleZ -19.33
+ }
+ USSR_2_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{645CD4FE39870BD1}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 9268.858 473.007 4753.468
+  angleX 1.225
+  angleY -24.974
+  angleZ -7.424
+ }
+}
