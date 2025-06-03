@@ -11,7 +11,6 @@ PS_GameModeCoop PS_GameMode_Lobby1 : "{9C2001FE7A2F2281}Prefabs/MP/Modes/PS_Game
    m_iStartingHours 0
   }
  }
- m_bRemoveRedundantUnits 0
  {
   SCR_FactionManager "5EE8949D46B62B0A" {
    ID "5ED9088735FF2D8B"
