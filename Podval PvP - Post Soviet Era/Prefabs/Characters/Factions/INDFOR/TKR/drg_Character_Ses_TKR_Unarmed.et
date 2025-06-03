@@ -45,7 +45,7 @@ SCR_ChimeraCharacter : "{4761C4263E75E85E}Prefabs/Characters/Factions/INDFOR/TKR
     ItemsInitConfigurationItem "{6586FC580BD1FA4A}" {
      TargetStorage "Jacket/ChilabaFull06.et"
      PrefabsToSpawn {
-      "{61D4F80E49BF9B12}Prefabs/Items/Equipment/Compass/Compass_SY183.et" "{922F95F91943F69A}Prefabs/Items/Equipment/Maps/PaperMap_01_folded_US.et" "{6E35D94130954509}Prefabs/Items/Equipment/Accessories/ETool_ALICE/ETool_ALICE_FreeRoamBuilding_Gadget.et"
+      "{61D4F80E49BF9B12}Prefabs/Items/Equipment/Compass/Compass_SY183.et" "{922F95F91943F69A}Prefabs/Items/Equipment/Maps/PaperMap_01_folded_US.et" "{6E35D94130954509}Prefabs/Items/Equipment/Accessories/ETool_ALICE/ETool_ALICE_FreeRoamBuilding_Gadget.et" "{98C79F5FAE12F9B6}Prefabs/Weapons/Attachments/Bayonets/Bayonet_6Kh4.et"
      }
     }
     ItemsInitConfigurationItem "{6586FC580BEFCB9E}" {

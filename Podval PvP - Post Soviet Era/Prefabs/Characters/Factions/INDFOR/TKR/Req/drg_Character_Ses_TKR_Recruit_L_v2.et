@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{685C05A81C17991E}Prefabs/Characters/Factions/INDFOR/TKR/Req/drg_Character_Ses_TKR_Recruit_L_base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{C890AE4AD6D7891D}Prefabs/Characters/HeadGear/Hat_FlatCap_01/TakHat02.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{F1C69416292EA997}Prefabs/Characters/Uniforms/TakShirts/ChilabaFull03.et"
+    }
+   }
+  }
+ }
+}
