@@ -9,14 +9,14 @@ $grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
   m_sTitle "Разгромить противника"
   m_sFactionKey "USSR"
  }
- FLAG_TKR {
+ TARGETS_TKR {
   coords 1609.265 14.084 1574.584
-  m_sTitle "Захватить опорный пункт"
+  m_sTitle "Сохранить ящики"
   m_sFactionKey "Ses_TKR"
  }
- FLAG_USSR {
+ TARGETS_USSR {
   coords 1609.265 14.084 1574.584
-  m_sTitle "Удержать опорный пункт"
+  m_sTitle "Уничтожить ящики"
   m_sFactionKey "USSR"
  }
 }

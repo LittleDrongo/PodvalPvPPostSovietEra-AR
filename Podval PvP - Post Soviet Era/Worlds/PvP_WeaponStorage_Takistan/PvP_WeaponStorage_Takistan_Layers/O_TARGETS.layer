@@ -1,0 +1,42 @@
+$grp GenericEntity : "{93B2511EFB2B6A51}Prefabs/Props/Military/MilitaryCrates/CrateStack_01/CrateStack_01_grey.et" {
+ O_TARGET_1 {
+  coords 2672.369 223.994 5124.201
+  angleY -119.667
+  angleZ 0.013
+ }
+ O_TARGET_2 {
+  coords 2671.586 223.993 5125.575
+  angleY -119.667
+  angleZ 0.013
+ }
+ O_TARGET_3 {
+  coords 2670.886 223.993 5126.804
+  angleY -119.667
+  angleZ 0.013
+ }
+ O_TARGET_4 {
+  coords 2670.155 223.993 5128.089
+  angleY -119.667
+  angleZ 0.013
+ }
+ O_TARGET_5 {
+  coords 2669.46 223.992 5129.307
+  angleY -119.667
+  angleZ 0.013
+ }
+ O_TARGET_6 {
+  coords 2668.716 223.992 5130.614
+  angleY -119.667
+  angleZ 0.013
+ }
+ O_TARGET_7 {
+  coords 2667.943 223.992 5131.971
+  angleY -119.667
+  angleZ 0.013
+ }
+ O_TARGET_8 {
+  coords 2667.207 223.991 5133.263
+  angleY -119.667
+  angleZ 0.013
+ }
+}

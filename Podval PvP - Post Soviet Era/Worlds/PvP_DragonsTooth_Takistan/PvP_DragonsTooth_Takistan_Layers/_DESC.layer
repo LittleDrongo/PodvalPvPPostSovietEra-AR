@@ -31,7 +31,7 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   ""\
   "Сегодня ночью, мы должны победить! "
   m_aVisibleForFactions {
-   "Ses_CDF"
+   "Ses_TKR"
   }
   m_iOrder 2
  }

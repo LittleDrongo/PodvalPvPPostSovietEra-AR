@@ -7,14 +7,15 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
     LossLogic "{654C7E247C7951AD}" {
      m_aLosses {
       FactionLoss "{654C7E244634033D}" {
+       m_iCriticalLossCount 4
        m_sFactionKey "Ses_TKR"
       }
      }
      m_sObjectiveNames {
-      "KILL_TKR" "FLAG_USSR"
+      "KILL_TKR" "TARGET_USSR"
      }
      m_sFailedObjectiveNames {
-      "FLAG_TKR" "KILL_USSR"
+      "TARGET_TKR" "KILL_USSR"
      }
      m_bAdvanceGameStage 1
      m_bUseMessage 1
@@ -23,13 +24,14 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
     LossLogic "{654C7E247CCB525F}" {
      m_aLosses {
       FactionLoss "{654C7E24443173C6}" {
+       m_iCriticalLossCount 4
       }
      }
      m_sObjectiveNames {
-      "FLAG_TKR" "KILL_USSR"
+      "TARGET_TKR" "KILL_USSR"
      }
      m_sFailedObjectiveNames {
-      "KILL_TKR" "FLAG_USSR"
+      "KILL_TKR" "TARGET_USSR"
      }
      m_bAdvanceGameStage 1
      m_bUseMessage 1
@@ -40,10 +42,55 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
  }
  coords 4729.839 290.153 6998.263
 }
+GenericEntity : "{93F9FBDB589D2C9A}Prefabs/System/DRG_BuildingDestroyPrefab.et" {
+ components {
+  DRG_BuildingDestroyComponent "{657476373CF666F8}" {
+   m_bUseDescriptionGenerator 0
+   m_aBuildingDestroyLogics {
+    BuildingDestroyLogic "{65876A0E311D72F5}" {
+     m_bAdvanceGameStage 1
+     m_sSuccessObjectiveNames {
+      "TARGETS_USSR"
+     }
+     m_sFailedObjectiveNames {
+      "TARGETS_TKR"
+     }
+     m_aDestroableBuildings {
+      DestroableBuilding "{65876A0E3BA29EDD}" {
+       m_sBuildingEntityName "O_TARGET_1"
+      }
+      DestroableBuilding "{65876A06F9BA7B07}" {
+       m_sBuildingEntityName "O_TARGET_2"
+      }
+      DestroableBuilding "{65876A06F99A89AE}" {
+       m_sBuildingEntityName "O_TARGET_3"
+      }
+      DestroableBuilding "{65876A06F9E0F251}" {
+       m_sBuildingEntityName "O_TARGET_4"
+      }
+      DestroableBuilding "{65876A06F9CEB199}" {
+       m_sBuildingEntityName "O_TARGET_5"
+      }
+      DestroableBuilding "{65876A06F9D0E41F}" {
+       m_sBuildingEntityName "O_TARGET_6"
+      }
+      DestroableBuilding "{65876A06FE3E9BBE}" {
+       m_sBuildingEntityName "O_TARGET_7"
+      }
+      DestroableBuilding "{65876A06FC11E150}" {
+       m_sBuildingEntityName "O_TARGET_8"
+      }
+     }
+     m_sMessage "Победа СССР! Ящики с пусковыми комплексами уничтожены."
+    }
+   }
+  }
+ }
+}
 GenericEntity : "{E6FC6DD69FA3479F}Prefabs/System/DRG_MissionEndTimerPrefab.et" {
  components {
   DRG_MissionEndTimerComponent "{651B0839B21B3BBF}" {
-   m_iMissionTime 2400
+   m_iMissionTime 2700
   }
  }
  coords 4762.458 287.818 7005.816

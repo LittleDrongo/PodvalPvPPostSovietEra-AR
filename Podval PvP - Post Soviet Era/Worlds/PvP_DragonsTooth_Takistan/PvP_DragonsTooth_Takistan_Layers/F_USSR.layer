@@ -108,7 +108,7 @@ $grp SCR_AIGroup : "{7A8CA920227BCBA8}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_P
   angleY -17.873
   angleZ -19.33
   m_aUnitPrefabSlots {
-   "{1A865584531AACEE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_PL2.et" "{BC5DDFA8D9262E7A}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MG.et" "{8D15D76B163B42E6}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MGA_B.et" "{C8917EA9B578E2CE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Medic.et" "{FBECF688D117F377}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Sniper.et"
+   "{AE9DB47C93640A8F}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_PL_v2.et" "{BC5DDFA8D9262E7A}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MG.et" "{8D15D76B163B42E6}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MGA_B.et" "{C8917EA9B578E2CE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Medic.et" "{FBECF688D117F377}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Sniper.et"
   }
  }
  USSR_2_0_0 {
@@ -122,7 +122,7 @@ $grp SCR_AIGroup : "{7A8CA920227BCBA8}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_P
   angleY -24.661
   angleZ -10.942
   m_aUnitPrefabSlots {
-   "{1A865584531AACEE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_PL2.et" "{BC5DDFA8D9262E7A}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MG.et" "{8D15D76B163B42E6}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MGA_B.et" "{C8917EA9B578E2CE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Medic.et" "{FBECF688D117F377}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Sniper.et"
+   "{AE9DB47C93640A8F}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_PL_v2.et" "{BC5DDFA8D9262E7A}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MG.et" "{8D15D76B163B42E6}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_MGA_B.et" "{C8917EA9B578E2CE}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Medic.et" "{FBECF688D117F377}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Sniper.et"
   }
  }
 }

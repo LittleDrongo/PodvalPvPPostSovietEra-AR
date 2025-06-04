@@ -1,0 +1,52 @@
+GenericEntity : "{69A8FFE5527CB776}Prefabs/Structures/BuildingParts/Entry/Entry_Direct_01.et" {
+ components {
+  Hierarchy "{5488F0388A297CDE}" {
+   Enabled 1
+   PivotID "socket_entry_01"
+   AutoTransform 1
+  }
+ }
+ coords 2657.955 223.967 5145.214
+ angleY -29.372
+}
+$grp GenericEntity : "{951D471BB891BEE3}Prefabs/Compositions/WeaponStorage/WeaponStorage_RPG.et" {
+ {
+  coords 2665.296 223.994 5123.673
+  angleY 62.776
+ }
+ {
+  coords 2664.202 223.995 5125.772
+  angleY 63.053
+ }
+}
+$grp GenericEntity : "{A884FCC8E30726CC}Prefabs/Compositions/WeaponStorage/WeaponStorageAKM.et" {
+ {
+  coords 2660.896 223.997 5132.302
+  angleY 64.039
+ }
+ {
+  coords 2661.927 223.997 5130.28
+  angleY 64.039
+ }
+ {
+  coords 2662.981 223.997 5128.186
+  angleY 64.039
+ }
+}
+GenericEntity : "{B0D196C515B220A4}Prefabs/Compositions/WeaponStorage/Rack_RPG_Ammo.et" {
+ coords 2669.094 223.993 5121.804
+ angleY -25.133
+}
+SCR_DestructibleBuildingEntity : "{BE248D0B31D3B097}Prefabs/Structures/Military/Bunkers/AmmoDump_E_02/AmmoDump_E_02.et" {
+ coords 2658.177 223.86 5144.852
+ angleY -27.823
+}
+SCR_DestructibleEntity : "{CAFF4B51059A0F81}PrefabLibrary/Walls/Concrete/ConcreteWall_01_3m.et" {
+ coords 2657.713 0.738 5142.442
+ angleY -27.993
+}
+GenericEntity : "{D00D13892E318E63}Prefabs/Compositions/WeaponStorage/Rack_Radio.et" {
+ coords 2671.536 223.994 5123.027
+ angleX -0.013
+ angleY -27.03
+}
