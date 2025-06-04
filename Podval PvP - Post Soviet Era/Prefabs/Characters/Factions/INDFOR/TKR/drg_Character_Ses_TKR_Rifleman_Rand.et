@@ -32,6 +32,12 @@ SCR_ChimeraCharacter : "{A67F829645FE3164}Prefabs/Characters/Factions/INDFOR/TKR
      SCR_EditableEntityVariant "{6586FC5DC28C7745}" {
       m_sVariantPrefab "{44B364E3BE30218B}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman/drg_Character_Ses_TKR_Rifleman_v8.et"
      }
+     SCR_EditableEntityVariant "{6588AA2CC06C64C6}" {
+      m_sVariantPrefab "{A12F281AB2D5B6E0}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman/drg_Character_Ses_TKR_Rifleman_v9.et"
+     }
+     SCR_EditableEntityVariant "{6588AA2CC0BB229C}" {
+      m_sVariantPrefab "{16A7E7BA49A61669}Prefabs/Characters/Factions/INDFOR/TKR/Rifleman/drg_Character_Ses_TKR_Rifleman_v10.et"
+     }
     }
    }
   }
