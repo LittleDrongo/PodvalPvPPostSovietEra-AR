@@ -42,12 +42,11 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
  }
  coords 4729.839 290.153 6998.263
 }
-GenericEntity : "{93F9FBDB589D2C9A}Prefabs/System/DRG_BuildingDestroyPrefab.et" {
+GenericEntity : "{7A333AFB11EA847A}Prefabs/System/DRG_VehicleDestroyPrefab.et" {
  components {
-  DRG_BuildingDestroyComponent "{657476373CF666F8}" {
-   m_bUseDescriptionGenerator 0
-   m_aBuildingDestroyLogics {
-    BuildingDestroyLogic "{65876A0E311D72F5}" {
+  DRG_VehicleDestroyComponent "{65733BD6110AE8FC}" {
+   m_aVehicleLossLogics {
+    VehicleLossLogic "{6588FED7E07B2B8B}" {
      m_bAdvanceGameStage 1
      m_sSuccessObjectiveNames {
       "TARGETS_USSR"
@@ -55,37 +54,15 @@ GenericEntity : "{93F9FBDB589D2C9A}Prefabs/System/DRG_BuildingDestroyPrefab.et" 
      m_sFailedObjectiveNames {
       "TARGETS_TKR"
      }
-     m_aDestroableBuildings {
-      DestroableBuilding "{65876A0E3BA29EDD}" {
-       m_sBuildingEntityName "O_TARGET_1"
-      }
-      DestroableBuilding "{65876A06F9BA7B07}" {
-       m_sBuildingEntityName "O_TARGET_2"
-      }
-      DestroableBuilding "{65876A06F99A89AE}" {
-       m_sBuildingEntityName "O_TARGET_3"
-      }
-      DestroableBuilding "{65876A06F9E0F251}" {
-       m_sBuildingEntityName "O_TARGET_4"
-      }
-      DestroableBuilding "{65876A06F9CEB199}" {
-       m_sBuildingEntityName "O_TARGET_5"
-      }
-      DestroableBuilding "{65876A06F9D0E41F}" {
-       m_sBuildingEntityName "O_TARGET_6"
-      }
-      DestroableBuilding "{65876A06FE3E9BBE}" {
-       m_sBuildingEntityName "O_TARGET_7"
-      }
-      DestroableBuilding "{65876A06FC11E150}" {
-       m_sBuildingEntityName "O_TARGET_8"
-      }
+     m_sVehicleEntityNames {
+      "GRAD_TARGET"
      }
-     m_sMessage "Победа СССР! Ящики с пусковыми комплексами уничтожены."
+     m_sMessage "Победа СССР! РЗСО уничтожена."
     }
    }
   }
  }
+ coords 2663.108 223.991 5137.287
 }
 GenericEntity : "{E6FC6DD69FA3479F}Prefabs/System/DRG_MissionEndTimerPrefab.et" {
  components {

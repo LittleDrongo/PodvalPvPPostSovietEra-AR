@@ -11,5 +11,15 @@ SCR_ChimeraCharacter : "{685C05A81C17991E}Prefabs/Characters/Factions/INDFOR/TKR
     }
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{6586FC580B8096AD}" {
+     TargetStorage "Jacket/ChilabaFull03.et"
+    }
+    ItemsInitConfigurationItem "{6586FC580BD1FA4A}" {
+     TargetStorage "Jacket/ChilabaFull03.et"
+    }
+   }
+  }
  }
 }
