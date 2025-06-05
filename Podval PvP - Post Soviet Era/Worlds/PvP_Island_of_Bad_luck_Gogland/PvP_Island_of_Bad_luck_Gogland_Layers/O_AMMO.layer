@@ -34,7 +34,6 @@ $grp GenericEntity : "{2B1D0128ED660BE9}Prefabs/Props/Crates/BoxWooden_01.et" {
  {
   coords 1247.921 3.163 4978.144
   angleY -148.472
-  angleZ -0
   {
    $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
     {
@@ -259,7 +258,6 @@ $grp GenericEntity : "{2B1D0128ED660BE9}Prefabs/Props/Crates/BoxWooden_01.et" {
  {
   coords 1245.32 3.163 4980.151
   angleY -148.472
-  angleZ -0
   {
    $grp GenericEntity : "{9C5C20FB0E01E64F}Prefabs/Weapons/Launchers/M72/Launcher_M72A3.et" {
     {
