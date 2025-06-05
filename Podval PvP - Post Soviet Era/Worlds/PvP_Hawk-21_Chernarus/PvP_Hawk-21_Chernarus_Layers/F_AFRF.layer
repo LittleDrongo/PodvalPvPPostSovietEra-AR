@@ -43,11 +43,27 @@ $grp SCR_AIGroup : "{0FC09C311C951395}Prefabs/Groups/OPFOR/drg_AFRF_PlatoonHQ.et
   }
  }
 }
-Vehicle Ural4320_command_camo1 : "{2C95509CA3E61DE1}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command_camo1.et" {
- coords 1463.115 460.947 14450.719
- angleX 3.647
- angleY 117.444
- angleZ -3.138
+$grp Vehicle : "{2C95509CA3E61DE1}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command_camo1.et" {
+ Ural4320_command_camo1 {
+  coords 1463.115 460.947 14450.719
+  angleX 3.647
+  angleY 117.444
+  angleZ -3.138
+  m_sAttachmentGroupName "AFRFD_3_0_0"
+  m_bEnableMoveOnFreeze 1
+ }
+ Ural4320_command_camo2 {
+  coords 4011.25 375.875 11792.521
+  angleY -90.008
+  m_sAttachmentGroupName "AFRF_0_0_0"
+  m_bEnableMoveOnFreeze 1
+ }
+}
+Vehicle Ural4320_ammo1 : "{3336BE330C4F355B}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo.et" {
+ coords 1435.777 459.882 14463.66
+ angleX 1.558
+ angleY 114.549
+ angleZ -1.256
  m_sAttachmentGroupName "AFRFD_3_0_0"
  m_bEnableMoveOnFreeze 1
 }
@@ -199,11 +215,4 @@ $grp SCR_AIGroup : "{3EDA372443FD105F}Prefabs/Groups/OPFOR/drg_AFRF_RifleSquad.e
 SCR_AIGroup AFRF_0_0_0 : "{52DBD8AD794AA412}Prefabs/Groups/OPFOR/drg_AFRF_CompanyHQ.et" {
  coords 4005.441 375.875 11787.858
  angleY 177.093
-}
-Vehicle Ural4320_ammo_camo1 : "{677628B9FB43F83D}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_ammo_camo1.et" {
- coords 1434.744 459.854 14464.036
- angleX 1.183
- angleY 114.191
- angleZ -0.45
- m_sAttachmentGroupName "AFRFD_3_0_0"
 }

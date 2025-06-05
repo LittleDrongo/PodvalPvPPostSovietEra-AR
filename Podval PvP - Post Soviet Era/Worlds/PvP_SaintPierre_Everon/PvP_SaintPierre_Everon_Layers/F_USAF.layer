@@ -183,7 +183,7 @@ $grp SCR_AIGroup : "{CB79DA5FE5AC31AB}Prefabs/Groups/BLUFOR/drg_USAF_RifleSquad.
   coords 7462.062 164.563 4327.153
   angleY 107.202
   m_aUnitPrefabSlots {
-   "{D13AD1B898B26305}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Sniper_M107.et" "{6C9433CEFA84F73C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Spotter_M107.et" "{D82203FB9DC2F6C6}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_RTO.et"
+   "{D13AD1B898B26305}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Sniper_M107.et" "{6C9433CEFA84F73C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Spotter_M107.et"
   }
   m_sCustomNameSet ""
  }
