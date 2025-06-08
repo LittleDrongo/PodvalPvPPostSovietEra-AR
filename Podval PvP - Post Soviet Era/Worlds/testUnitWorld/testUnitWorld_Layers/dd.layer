@@ -1,0 +1,122 @@
+GenericEntity : "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et" {
+ coords 115.261 2.015 208.842
+}
+GameEntity : "{3A421547BC29F679}Prefabs/Items/Equipment/Flashlights/Flashlight_MX991/Flashlight_MX991.et" {
+ coords 115.907 2.018 209.032
+}
+GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_01.et" {
+ coords 115.617 1 208.98
+}
+$grp GameEntity : "{9BC2C188BC094A24}Prefabs/Items/Equipment/Patches/RedArmy_Patch.et" {
+ {
+  coords 114.632 2.018 208.763
+  angleX 88.826
+  angleY -175.856
+ }
+ {
+  components {
+   InventoryItemComponent "{5DB09136B1C985CE}" {
+    Attributes SCR_ItemAttributeCollection "{5DB09136B1C985C1}" {
+     ItemAnimationAttributes ItemAnimationAttributes "{658F57303DB15D11}" {
+      AnimationAttachments {
+       AnimationAttachmentInfo "{658F5730918CA543}" {
+        AnimGraph "{83675D0B0AB1B2C3}Assets/Items/Equipment/workspaces/paper_map.agr"
+        AnimInstance "{56794534F6B8C3D7}Assets/Items/Equipment/workspaces/player_map.asi"
+        BindingName "Gadget"
+       }
+      }
+      HandAdditiveRotation 90 180 0
+      HandAdditiveTranslation -0.035 0.01 0
+      AllowInspection 1
+     }
+     CustomAttributes {
+      PreviewRenderAttributes "{5DB09136B1C985C3}" {
+      }
+      CharacterModifierAttributes "{6590784E1409C75F}" {
+      }
+     }
+    }
+   }
+   MeshObject "{5DB09136B1C985B5}" {
+    InheritVisibility 1
+   }
+   RigidBody "{6590784D9F47AFCE}" {
+    LinearDamping 0.05
+    AngularDamping 0.05
+    ModelGeometry 1
+   }
+   SCR_GadgetComponent "{659078401CF2DBE6}" {
+    m_eAnimVariable ADRIANOV
+   }
+   SCR_VisibleInventoryItemComponent "{65907840E2142D30}" {
+    Attributes ItemAttributeCollection "{65907840EB843A1B}" {
+     ItemDisplayName SCR_ItemHintUIInfo "{65907840C020241D}" {
+     }
+     ItemPhysAttributes ItemPhysicalAttributes "{65907840F03FEDAF}" {
+     }
+     ItemAnimationAttributes ItemAnimationAttributes "{65907840F18CC29F}" {
+     }
+     CommonItemType "FLASHLIGHT"
+    }
+   }
+   SCR_MineWeaponComponent "{658F5731BB91745C}" {
+    Enabled 0
+    WeaponType SmokeGrenade
+    "Deployment Trigger Effect" GamepadTriggerEffect "{659078492FFE69F2}" {
+    }
+    WeaponSlotType "Gadget"
+   }
+  }
+  coords 116.597 2.018 208.62
+  angleY 86.689
+ }
+ {
+  coords 115.608 2.018 208.666
+ }
+ {
+  components {
+   InventoryItemComponent "{5DB09136B1C985CE}" {
+    Attributes SCR_ItemAttributeCollection "{5DB09136B1C985C1}" {
+     ItemAnimationAttributes ItemAnimationAttributes "{658F57303DB15D11}" {
+      AnimationAttachments {
+       AnimationAttachmentInfo "{658F5730918CA543}" {
+        AnimGraph "{83675D0B0AB1B2C3}Assets/Items/Equipment/workspaces/paper_map.agr"
+        AnimInstance "{56794534F6B8C3D7}Assets/Items/Equipment/workspaces/player_map.asi"
+        BindingName "Gadget"
+       }
+      }
+      HandAdditiveRotation 90 180 0
+      HandAdditiveTranslation -0.035 0.01 0
+      AllowInspection 1
+     }
+     CustomAttributes {
+      PreviewRenderAttributes "{5DB09136B1C985C3}" {
+       IsDynamicObject 1
+      }
+     }
+    }
+   }
+   SCR_GadgetComponent "{658F5737D9A61AD1}" {
+    Enabled 0
+    m_eAnimVariable ADRIANOV
+   }
+   SCR_MineWeaponComponent "{658F5731BB91745C}" {
+    WeaponSlotType "throwable"
+   }
+  }
+  coords 116.033 2.076 208.62
+  angleX 90
+ }
+}
+GenericEntity : "{D6EEA6ED1516248D}Prefabs/Items/Equipment/RangeCard/Rangecard_AK74M.et" {
+ coords 115.903 2.018 209.191
+}
+GenericEntity : "{F2539FA5706E51E4}Prefabs/Items/Equipment/Binoculars/Binoculars_B12/Binoculars_B12.et" {
+ coords 115.561 2.018 209.115
+}
+SCR_AIGroup : "{F34EA9571C481A4D}Prefabs/Groups/OPFOR/drg_Group_RHS_AFRF_ShowCase.et" {
+ coords 113.505 1 206.66
+ m_aUnitPrefabSlots {
+  "{A985CD90251A1939}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_MG.et"
+ }
+}
