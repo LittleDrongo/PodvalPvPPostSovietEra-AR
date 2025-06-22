@@ -15,6 +15,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_100_M {
   coords 5250.159 171.625 6114.644
@@ -32,6 +33,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_101_M {
   coords 5254.433 171.625 6116.152
@@ -49,6 +51,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_102_M {
   coords 5259.254 171.625 6117.623
@@ -66,6 +69,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_103_M {
   coords 5264.873 171.625 6119.422
@@ -83,6 +87,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_200_M {
   coords 5209.067 171.625 6147.752
@@ -100,6 +105,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_201_M {
   coords 5212.04 171.625 6137.413
@@ -117,6 +123,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_202_M {
   coords 5215.141 171.625 6127.166
@@ -134,6 +141,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_203_M {
   coords 5218.113 171.625 6117.078
@@ -151,6 +159,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_300_M {
   coords 6161.771 109.313 11662.098
@@ -168,6 +177,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_301_M {
   coords 6186.627 109.313 11685.677
@@ -185,6 +195,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_AFRF_G_302_M {
   coords 6220.05 109.313 11718.514
@@ -202,6 +213,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  {
   coords 6176.356 109.313 11683.731
@@ -221,6 +233,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 6211.174 109.313 11717.5
@@ -240,6 +253,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 5243.413 171.625 6105.112
@@ -259,6 +273,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 5247.972 171.625 6106.574
@@ -278,6 +293,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 5252.722 171.625 6108.096
@@ -297,6 +313,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 5216.114 171.624 6114.27
@@ -318,6 +335,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 5212.996 171.598 6125.018
@@ -339,6 +357,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 5210.223 171.617 6134.585
@@ -360,6 +379,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 5207.375 171.625 6145.248
@@ -379,6 +399,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 6217.417 109.313 11724.28
@@ -398,6 +419,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 6184.052 109.313 11690.919
@@ -417,6 +439,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 6157.927 109.313 11664.499
@@ -436,6 +459,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 5219.906 171.625 6154.292
@@ -455,6 +479,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 6191.85 109.313 11698.854
@@ -474,6 +499,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 6224.74 109.313 11731.906
@@ -493,6 +519,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4143.623 352.146 553.536
@@ -514,6 +541,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4156.384 351.417 555.902
@@ -535,6 +563,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4169 351.149 558.001
@@ -556,6 +585,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4295.882 349.992 556.161
@@ -577,6 +607,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4318.253 348.879 535.96
@@ -598,6 +629,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4319.757 349.094 547.253
@@ -619,6 +651,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4320.13 349.281 552.99
@@ -640,6 +673,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4295.512 349.907 550.428
@@ -661,6 +695,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4294.372 349.64 532.108
@@ -682,6 +717,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4294.781 349.679 539.053
@@ -703,6 +739,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4293.434 349.077 520.487
@@ -724,6 +761,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4293.028 348.667 513.541
@@ -745,6 +783,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4315.265 347.61 510.609
@@ -766,6 +805,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4316.392 347.9 517.477
@@ -787,6 +827,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4317.843 348.611 529.012
@@ -808,6 +849,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 8425.124 322.187 1937.689
@@ -827,6 +869,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 8432.228 322.187 1942.479
@@ -846,6 +889,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 8428.559 322.187 1940.006
@@ -864,6 +908,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 8421.338 322.187 1935.263
@@ -883,6 +928,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 8418.249 322.187 1933.323
@@ -902,6 +948,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 4358.638 350.81 559.569
@@ -923,6 +970,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 8437.393 322.187 2007.389
@@ -942,6 +990,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  {
   coords 8406.481 322.187 1989.681
@@ -961,6 +1010,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
    1
   }
   m_iZOrder 0
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_000_M {
   coords 4290.759 350.051 561.493
@@ -978,6 +1028,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_100_M {
   coords 4290.968 350.045 557.781
@@ -995,6 +1046,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_101_M {
   coords 4290.456 349.829 540.81
@@ -1012,6 +1064,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_102_M {
   coords 4288.993 349.442 521.94
@@ -1029,6 +1082,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_200_M {
   coords 4314.791 349.369 554.82
@@ -1046,6 +1100,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_201_M {
   coords 4313.791 349.076 536.607
@@ -1063,6 +1118,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_202_M {
   coords 4310.904 348.049 518.14
@@ -1080,6 +1136,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_300_M {
   coords 4168.488 351.17 553.773
@@ -1097,6 +1154,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_300_M {
   coords 4156.481 351.432 551.753
@@ -1114,6 +1172,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_300_M {
   coords 4143.385 352.197 549.72
@@ -1131,6 +1190,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_400_M {
   coords 4358.531 350.564 557.098
@@ -1148,6 +1208,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_500_M {
   coords 8434.794 322.187 2013.454
@@ -1165,6 +1226,7 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
  RHS_USAF_G_501_M {
   coords 8403.306 322.187 1995.034
@@ -1182,5 +1244,6 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_aHideOnGameModeStates {
   }
   m_iZOrder 10
+  m_bShowForAnyFaction 1
  }
 }
