@@ -19,7 +19,7 @@ Vehicle : "{4597626AF36C0858}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320.et" {
      SlotTemplate InventoryStorageSlot Ammo1 {
       Prefab "{AB801054310BC947}Prefabs/Weapons/Magazines/Box_BaconZU23_23x152.et"
      }
-     NumSlots 3
+     NumSlots 10
     }
    }
   }

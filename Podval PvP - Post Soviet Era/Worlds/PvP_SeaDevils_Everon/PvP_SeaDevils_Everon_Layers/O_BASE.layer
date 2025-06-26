@@ -1,0 +1,18 @@
+SCR_DestructibleBuildingEntity : "{51F233A0BA73532A}Prefabs/Structures/Industrial/Houses/Office_E_01/Office_E_01.et" {
+ coords 7734.882 0.31 8140.955
+ angleY -138.048
+}
+$grp SCR_DestructibleBuildingEntity : "{BE248D0B31D3B097}Prefabs/Structures/Military/Bunkers/AmmoDump_E_02/AmmoDump_E_02.et" {
+ {
+  coords 7623.861 13.263 8151.65
+  angleY 128.393
+ }
+ {
+  coords 7637.594 13.263 8168.979
+  angleY 128.393
+ }
+ {
+  coords 7610.818 13.263 8135.189
+  angleY 128.393
+ }
+}

@@ -33,6 +33,9 @@ SCR_ChimeraCharacter : "{EC325FC7AF4DDF9E}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{6528F2E079033878}" {
+     TargetPurpose 64
+    }
     ItemsInitConfigurationItem "{652AABA0C0E9AA74}" {
      TargetStorage "Vest/Vest_Taktika_belt_arsarma_1.et/radio/Pouch_UP111_radioClosed_FG.et"
      PrefabsToSpawn {
