@@ -99,24 +99,108 @@ $grp GameEntity {
   angleX 90
  }
 }
+GenericEntity {
+ components {
+  MeshObject "{65BD4720DC7CD74E}" {
+   Object "{44A0334F08B74A37}Assets/Weapons/Attachments/Rails/MLOK_MK16_URGI/MAG582_Rail.xob"
+  }
+ }
+ coords 104.789 1 208.125
+}
+SCR_ChimeraCharacter : "{2836211FE98BA458}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Army/drg_Role_RHS_AFRF_Army_Rifleman.et" {
+ coords 100.689 1 210.519
+}
 GenericEntity : "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/DemoBlock_M112.et" {
  coords 115.261 2.015 208.842
 }
 GameEntity : "{3A421547BC29F679}Prefabs/Items/Equipment/Flashlights/Flashlight_MX991/Flashlight_MX991.et" {
  coords 115.907 2.018 209.032
 }
+GenericEntity : "{45520DFB75F85B80}Prefabs/Weapons/Rifles/SR3M/Rifle_SR3M_wd__sup_PSO.et" {
+ coords 104.86 1.088 208.438
+}
+GenericEntity : "{5F3661399CE6BEE6}Prefabs/Weapons/Rifles/AKS74U/Variants/Rifle_AKS74UN_PBS4.et" {
+ coords 105.422 1 231.379
+}
 GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_01.et" {
  coords 115.617 1 208.98
+}
+GenericEntity : "{7279721D20AD7855}Prefabs/Weapons/Attachments/Rails/b18/drg_mlokrail.et" {
+ coords 104.774 1.024 207.869
+}
+GenericEntity : "{8CA2F88AA3DC4DCE}Prefabs/Weapons/Rifles/SR3M/Rifle_SR3M_wd_rails_1p86.et" {
+ coords 101.868 1 212.083
+}
+SCR_AIGroup : "{9520E7AB1B4FED25}Prefabs/Groups/OPFOR/drg_Group_RHS_AFRF_Sabotage_Showcase.et" {
+ coords 108.114 1 204.282
+ m_aUnitPrefabSlots {
+  "{C24587D5FF9E994E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Rifleman.et" "{B8608D7D947C984A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Debolition.et" "{BC56CF0102B189DB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_SL.et" "{BB91355064373318}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_TL.et" "" "" "" "" "" ""
+ }
+}
+GameEntity : "{9C42803E49305273}Prefabs/Weapons/Attachments/Optics/exps/Optic_EXPS3-1.et" {
+ coords 115.136 2.018 208.718
+}
+SCR_ChimeraCharacter : "{B8608D7D947C984A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Debolition.et" {
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{45520DFB75F85B80}Prefabs/Weapons/Rifles/SR3M/Rifle_SR3M_wd__sup_PSO.et"
+  }
+ }
+ coords 103.135 1 208.656
+}
+SCR_ChimeraCharacter : "{BB91355064373318}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_TL.et" {
+ coords 104.115 1 211.662
+}
+SCR_ChimeraCharacter : "{BC56CF0102B189DB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_SL.et" {
+ coords 105.348 1 212.379
+}
+$grp SCR_ChimeraCharacter : "{C24587D5FF9E994E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Rifleman.et" {
+ {
+  coords 104.281 1 208.446
+ }
+ {
+  coords 102.212 1 210.278
+ }
+}
+SCR_ChimeraCharacter : "{D1FC452D48AB3333}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SOCOM/drg_Role_RHS_USAF_SOCOM_ScoutSapper.et" {
+ coords 105.222 1 228.527
+}
+GenericEntity : "{D688A947EBC71A04}Prefabs/Weapons/MachineGuns/M249/MG_M249_rail.et" {
+ components {
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{652EF0E882778307}" {
+     AttachmentSlot InventoryStorageSlot "{652EF0E889FFB231}" {
+     }
+    }
+   }
+  }
+ }
+ coords 115.637 2.018 209.017
 }
 GenericEntity : "{D6EEA6ED1516248D}Prefabs/Items/Equipment/RangeCard/Rangecard_AK74M.et" {
  coords 115.903 2.018 209.191
 }
+SCR_ChimeraCharacter : "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" {
+ coords 102.444 1 229.788
+}
+$grp GenericEntity : "{E0010C5E27F9FDB4}Prefabs/Weapons/Rifles/SR3M/Rifle_SR3M_wd_rails.et" {
+ {
+  coords 114.791 2.095 209.155
+ }
+ {
+  coords 105.108 1 208.702
+ }
+}
 GenericEntity : "{F2539FA5706E51E4}Prefabs/Items/Equipment/Binoculars/Binoculars_B12/Binoculars_B12.et" {
  coords 115.561 2.018 209.115
 }
-SCR_AIGroup : "{F34EA9571C481A4D}Prefabs/Groups/OPFOR/drg_Group_RHS_AFRF_ShowCase.et" {
- coords 113.505 1 206.66
- m_aUnitPrefabSlots {
-  "{A985CD90251A1939}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Recon/drg_Role_RHS_AFRF_Recon_MG.et"
- }
+GenericEntity : "{F30B5EEADDEFCD43}Prefabs/Weapons/Attachments/Optics/reap_ir/snipe_ir.et" {
+ coords 115.209 2.018 208.587
+}
+GameEntity : "{F727A9D4939E89EE}Prefabs/Weapons/Attachments/Optics/1p86/Optic_1p86-1.et" {
+ coords 114.982 2.018 208.7
+}
+GenericEntity : "{FF16FFBFA99A3571}Prefabs/Weapons/Rifles/SR3M/Rifle_SR3M_wd_sup_1p63.et" {
+ coords 104.894 1 209.03
 }
