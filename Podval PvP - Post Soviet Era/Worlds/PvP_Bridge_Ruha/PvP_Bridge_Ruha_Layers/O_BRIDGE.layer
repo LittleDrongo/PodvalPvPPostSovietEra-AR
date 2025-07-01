@@ -57,5 +57,6 @@ $grp GenericEntity : "{EAFB8BCEE733517E}Prefabs/Structures/BuildingParts/Bridges
  }
 }
 GenericEntity : "{F9EBA10CC445ED63}PrefabsEditable/Auto/Structures/Military/Flags/FlagPole_02_V1_CDF_Editable.et" {
- coords 6779.301 62.492 6941.162
+ coords 6781.442 62.492 6948.347
+ angleY 18.062
 }
