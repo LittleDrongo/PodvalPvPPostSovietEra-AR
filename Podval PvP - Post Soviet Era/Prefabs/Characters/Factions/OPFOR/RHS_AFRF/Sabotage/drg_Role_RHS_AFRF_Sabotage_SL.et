@@ -12,6 +12,12 @@ SCR_ChimeraCharacter : "{BB91355064373318}Prefabs/Characters/Factions/OPFOR/RHS_
     }
    }
   }
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "#DRG_Role-Saboteur_SL"
+    Icon "{286254E4AF3FFD04}UI/Icons/sabateur_v2_sl.edds"
+   }
+  }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{65BD656388727CA6}" {

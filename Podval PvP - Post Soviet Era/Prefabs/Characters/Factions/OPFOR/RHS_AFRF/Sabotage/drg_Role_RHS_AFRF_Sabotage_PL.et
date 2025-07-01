@@ -1,16 +1,10 @@
-SCR_ChimeraCharacter : "{C24587D5FF9E994E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Rifleman.et" {
+SCR_ChimeraCharacter : "{BC56CF0102B189DB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_SL.et" {
  ID "520EC961A090B1EE"
  components {
-  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
-   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    Name "#DRG_Role-SaboteurDemolition"
-    Icon "{DE9F30CD054BA54B}UI/Icons/sabateur_demolition.edds"
-   }
-  }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Back {
-     Prefab "{99B347D92F16A6D3}Prefabs/Items/Equipment/Backpacks/backpack_511_rush12/Backpack_511_rush12_od.et"
+     Prefab "{B31D9C2465D00D93}Prefabs/Items/Equipment/Radios/Radio_R107M_PL.et"
     }
     LoadoutSlotInfo Vest {
      Prefab "{1A1584785389F088}Prefabs/Characters/Vests/Vest_TV115/variants/drg_Vest_TV115_Rifleman_OD_radio.et"
@@ -42,15 +36,16 @@ SCR_ChimeraCharacter : "{C24587D5FF9E994E}Prefabs/Characters/Factions/OPFOR/RHS_
     }
     ItemsInitConfigurationItem "{65BD656388727CA6}" {
      TargetStorage "Vest/drg_Vest_TV115_Rifleman_OD_radio.et/radio/Pouch_UP111_radioClosed_OD.et"
-    }
-    ItemsInitConfigurationItem "{65BD6561E9B7E262}" {
-     TargetStorage "Back/Backpack_511_rush12_od.et"
      PrefabsToSpawn {
-      "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{97064F8597F2D7BF}Prefabs/Weapons/Explosives/DemoBlock_TSh400g/DemoBlock_TSh400g.et" "{90976DC90A223095}Prefabs/Items/Equipment/Detonators/BlastingMachine_KPM_3U1/BlastingMachine_KPM_3U1.et" "{90976DC90A223095}Prefabs/Items/Equipment/Detonators/BlastingMachine_KPM_3U1/BlastingMachine_KPM_3U1.et" "{D6EF54367CECE1D9}Prefabs/Weapons/Explosives/Mine_TM62M/Mine_TM62M.et"
+      "{A2DD1D2EEB52BFC0}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_prv.et"
+     }
+    }
+    ItemsInitConfigurationItem "{65BD6563E8B7F9F8}" {
+     TargetStorage ""
+     PrefabsToSpawn {
      }
     }
    }
   }
  }
- coords 103.29 1 208.27
 }

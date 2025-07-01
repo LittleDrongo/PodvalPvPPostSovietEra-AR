@@ -1,0 +1,27 @@
+GenericEntity : "{23D34FB66BBC8BEE}Prefabs/Weapons/Attachments/Bipods/harris_bipod/rhs_lt706_harris.et" {
+ coords 106.332 1.145 208.984
+}
+Projectile : "{34FB0732CCED1504}Prefabs/Weapons/Ammo/drg_Ammo_Grenade_Smoke_GDM-40.et" {
+ coords 99.211 1 237.027
+}
+GenericEntity : "{370F886F78B4337D}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_Raid_v2.et" {
+ coords 105.256 1.099 208.299
+}
+GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_01.et" {
+ coords 109.048 1 208.945
+}
+GenericEntity : "{7AF1C4F7220066F9}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_Raid.et" {
+ coords 106.08 1 208.881
+}
+SCR_ChimeraCharacter : "{7F6DBCE3E5DB83AA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Sniper.et" {
+ coords 105.883 1 207.453
+}
+SCR_AIGroup : "{9520E7AB1B4FED25}Prefabs/Groups/OPFOR/drg_Group_RHS_AFRF_Sabotage_Showcase.et" {
+ coords 108.114 1 204.282
+ m_aUnitPrefabSlots {
+  "{C24587D5FF9E994E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Rifleman.et" "{E02F7C3171C2735D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Rifleman_2.et" "{BC56CF0102B189DB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_SL.et" "{BB91355064373318}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_TL.et" "{254876981F56B84B}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_PL.et" "{8F2A7045847145F9}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_RPO.et" "{7F6DBCE3E5DB83AA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Sniper.et" "{B8608D7D947C984A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Debolition.et" "{DC0B403FC78242E2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_GL.et"
+ }
+}
+GenericEntity : "{D0F213711B925CF5}Prefabs/Weapons/Rifles/M27IAR/Rifle_M38SDMR.et" {
+ coords 105.678 1 208.288
+}

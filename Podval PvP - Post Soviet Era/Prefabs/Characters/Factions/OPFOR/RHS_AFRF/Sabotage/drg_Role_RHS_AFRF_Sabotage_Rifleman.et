@@ -3,7 +3,8 @@ SCR_ChimeraCharacter : "{91D300C88D1121DE}Prefabs/Characters/Factions/OPFOR/RHS_
  components {
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
-    Icon "{0D9BD3A9E383F660}UI/Icons/recon.edds"
+    Name "#DRG_Role-Saboteur"
+    Icon "{6CD708C8B13A2D38}UI/Icons/sabateur_v2.edds"
    }
   }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
@@ -23,6 +24,9 @@ SCR_ChimeraCharacter : "{91D300C88D1121DE}Prefabs/Characters/Factions/OPFOR/RHS_
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
+    ItemsInitConfigurationItem "{6528F2E78A33803A}" {
+     TargetStorage "Pants/Gorka_pants_base.et"
+    }
     ItemsInitConfigurationItem "{6528F2E079033878}" {
      PrefabsToSpawn {
      }
@@ -72,7 +76,7 @@ SCR_ChimeraCharacter : "{91D300C88D1121DE}Prefabs/Characters/Factions/OPFOR/RHS_
      }
     }
     ItemsInitConfigurationItem "{65BD656388727CA6}" {
-     TargetStorage "Vest/drg_Vest_TV115_Rifleman_OD_Sab.et/BackpackMini/Minimap_ArsArma_GMR_OD.et"
+     TargetStorage "Vest/drg_Vest_TV115_Rifleman_OD_Sab.et/RadioPouch/Pouch_UP111_radioClosed_OD.et"
      PrefabsToSpawn {
       "{A2DD1D2EEB52BFC0}Prefabs/Items/Equipment/Radios/Radio_R187P1_OLD_prv.et"
      }
@@ -86,5 +90,5 @@ SCR_ChimeraCharacter : "{91D300C88D1121DE}Prefabs/Characters/Factions/OPFOR/RHS_
    }
   }
  }
- coords 102.212 1 210.278
+ coords 95.96 1 213.864
 }
