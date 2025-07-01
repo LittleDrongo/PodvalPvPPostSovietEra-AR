@@ -102,120 +102,6 @@ Vehicle Ural4320_Ses_CDF_transport_covered1 : "{0EFFC9A8E672EF33}Prefabs/Vehicle
  angleY -26.933
  m_sAttachmentGroupName "CDF_3_0_0"
 }
-$grp GenericEntity : "{2BD8F0769429AC4A}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_81mm_MortarCluster_100rnd_HE.et" {
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.109 99.875 5928.592
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.291 99.875 5928.153
-  angleY 67.443
- }
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
- {
-  coords 8149.476 99.875 5927.705
-  angleY 67.443
- }
-}
 $grp Vehicle : "{52441D784D145D52}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Ses_CDF.et" {
  BTR70_Ses_CDF1 {
   coords 7709.285 78.704 6443.333
@@ -246,17 +132,199 @@ $grp Vehicle : "{52441D784D145D52}Prefabs/Vehicles/Wheeled/BTR70/BTR70_Ses_CDF.e
   m_sAttachmentGroupName "CDF_1_0_0"
  }
 }
-Turret : "{8094D99689ABE241}Prefabs/Weapons/Mortars/M252/Mortar_M252.et" {
- components {
-  PS_GroupAttachmentComponent "{65C3452071DABA2C}" {
-   m_sAttachmentGroupName "CDF_3_0_0"
+$grp GenericEntity : "{8F17290FBF410605}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_82mm_mortar_10rnd_HE.et" {
+ {
+  coords 8149.332 99.875 5928.006
+  angleY -26.461
+  {
+   $grp GenericEntity : "{8F17290FBF410605}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_82mm_mortar_10rnd_HE.et" {
+    {
+     coords -0.001 0.097 0
+     angleX 0.018
+     angleZ 0.023
+    }
+    {
+     coords -0.002 0.194 0.001
+     angleX 0.035
+     angleZ 0.046
+    }
+    {
+     coords -0.002 0.291 0.001
+     angleX 0.052
+     angleY -0.001
+     angleZ 0.069
+    }
+    {
+     coords -0.002 0.388 0.001
+     angleX 0.07
+     angleY -0.001
+     angleZ 0.092
+    }
+    {
+     coords -0.003 0.485 0.001
+     angleX 0.087
+     angleY -0.001
+     angleZ 0.115
+    }
+    {
+     coords -0.003 0.582 0.002
+     angleX 0.105
+     angleY -0.001
+     angleZ 0.138
+    }
+    {
+     coords -0.003 0.679 0.002
+     angleX 0.123
+     angleY -0
+     angleZ 0.161
+    }
+    {
+     coords -0.003 0.775 0.002
+     angleX 0.14
+     angleY -0
+     angleZ 0.184
+    }
+    {
+     coords -0.003 0.873 0.002
+     angleX 0.157
+     angleY -0
+     angleZ 0.207
+    }
+   }
   }
  }
- coords 8148.097 99.875 5929.971
- angleY -117.016
+ {
+  coords 8149.677 99.875 5928.177
+  angleY -26.461
+  {
+   $grp GenericEntity : "{8F17290FBF410605}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_82mm_mortar_10rnd_HE.et" {
+    {
+     coords -0.001 0.097 0
+     angleX 0.018
+     angleZ 0.023
+    }
+    {
+     coords -0.002 0.194 0.001
+     angleX 0.035
+     angleZ 0.046
+    }
+    {
+     coords -0.002 0.291 0.001
+     angleX 0.052
+     angleY -0.001
+     angleZ 0.069
+    }
+    {
+     coords -0.002 0.388 0.001
+     angleX 0.07
+     angleY -0.001
+     angleZ 0.092
+    }
+    {
+     coords -0.003 0.485 0.001
+     angleX 0.087
+     angleY -0.001
+     angleZ 0.115
+    }
+    {
+     coords -0.003 0.582 0.002
+     angleX 0.105
+     angleY -0.001
+     angleZ 0.138
+    }
+    {
+     coords -0.003 0.679 0.002
+     angleX 0.123
+     angleY -0
+     angleZ 0.161
+    }
+    {
+     coords -0.003 0.775 0.002
+     angleX 0.14
+     angleY -0
+     angleZ 0.184
+    }
+    {
+     coords -0.003 0.873 0.002
+     angleX 0.157
+     angleY -0
+     angleZ 0.207
+    }
+   }
+  }
+ }
+ {
+  coords 8150.05 99.875 5928.363
+  angleY -26.461
+  {
+   $grp GenericEntity : "{8F17290FBF410605}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_82mm_mortar_10rnd_HE.et" {
+    {
+     coords -0.001 0.097 0
+     angleX 0.018
+     angleZ 0.023
+    }
+    {
+     coords -0.002 0.194 0.001
+     angleX 0.035
+     angleZ 0.046
+    }
+    {
+     coords -0.002 0.291 0.001
+     angleX 0.052
+     angleY -0.001
+     angleZ 0.069
+    }
+    {
+     coords -0.002 0.388 0.001
+     angleX 0.07
+     angleY -0.001
+     angleZ 0.092
+    }
+    {
+     coords -0.003 0.485 0.001
+     angleX 0.087
+     angleY -0.001
+     angleZ 0.115
+    }
+    {
+     coords -0.003 0.582 0.002
+     angleX 0.105
+     angleY -0.001
+     angleZ 0.138
+    }
+    {
+     coords -0.003 0.679 0.002
+     angleX 0.123
+     angleY -0
+     angleZ 0.161
+    }
+    {
+     coords -0.003 0.775 0.002
+     angleX 0.14
+     angleY -0
+     angleZ 0.184
+    }
+    {
+     coords -0.003 0.873 0.002
+     angleX 0.157
+     angleY -0
+     angleZ 0.207
+    }
+   }
+  }
+ }
 }
 Vehicle UAZ469_Ses_CDF1 : "{A36B7742CB4CC488}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_Ses_CDF.et" {
  coords 8166.323 99.875 5893.362
  angleY -26.609
  m_sAttachmentGroupName "CDF_2_0_0"
+}
+Turret : "{D1FFE458E8AC4BDB}Prefabs/Weapons/Mortars/2B14/Mortar_2B14.et" {
+ components {
+  PS_GroupAttachmentComponent "{65C3672E9C00BFB2}" {
+   m_sAttachmentGroupName "CDF_3_0_0"
+  }
+ }
+ coords 8148.684 99.875 5929.084
+ angleY -113.154
 }
