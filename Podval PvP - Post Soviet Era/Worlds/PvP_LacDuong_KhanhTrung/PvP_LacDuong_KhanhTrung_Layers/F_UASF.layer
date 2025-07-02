@@ -33,7 +33,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   coords 3307.74 46.281 1853.095
   m_faction "RHS_USAF"
   m_aUnitPrefabSlots {
-   "{C59D53ECB7D5E36D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_PL.et"
+   "{F910309D8C211296}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_PL.et"
   }
   m_bSnapToTerrain 0
   m_bDeleteWhenEmpty 0
@@ -51,7 +51,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   angleZ -0.895
   m_faction "RHS_USAF"
   m_aUnitPrefabSlots {
-   "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SL.et" "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et" "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et"
+   "{600E890491C62306}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_SL.et" "{67C97355F74099C5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_TL.et" "{0D86781BA3428115}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_AR.et" "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_GL.et" "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman.et" "{67C97355F74099C5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_TL.et" "{0D86781BA3428115}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_AR.et" "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_GL.et" "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -68,7 +68,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   angleY -0.014
   m_faction "RHS_USAF"
   m_aUnitPrefabSlots {
-   "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SL.et" "{631CC570F6F9640D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MG.et" "{FF35618CBD9D147A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGAB.et" "{02D9F2C55EC4BC36}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGA.et" "{631CC570F6F9640D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MG.et" "{FF35618CBD9D147A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGAB.et" "{02D9F2C55EC4BC36}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGA.et"
+   "{600E890491C62306}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_SL.et" "{36FE68EB81398B5C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MG_opt.et" "{D38A51C19D66AAC8}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MGAB.et" "{FEA8A03109D0FC66}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MGA.et" "{36FE68EB81398B5C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MG_opt.et" "{D38A51C19D66AAC8}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MGAB.et" "{FEA8A03109D0FC66}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MGA.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -86,7 +86,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   angleZ -0.895
   m_faction "RHS_USAF"
   m_aUnitPrefabSlots {
-   "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SL.et" "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et" "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et"
+   "{600E890491C62306}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_SL.et" "{67C97355F74099C5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_TL.et" "{0D86781BA3428115}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_AR.et" "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_GL.et" "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman.et" "{67C97355F74099C5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_TL.et" "{0D86781BA3428115}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_AR.et" "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_GL.et" "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -104,7 +104,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   angleZ -0.895
   m_faction "RHS_USAF"
   m_aUnitPrefabSlots {
-   "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SL.et" "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et" "{5B441024CCB4683E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_TL.et" "{310B1B6A98B670EE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_AR.et" "{3CDE654B6F0119C4}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_GL.et" "{6AD8073B67B71A7C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Rifleman.et"
+   "{600E890491C62306}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_SL.et" "{67C97355F74099C5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_TL.et" "{0D86781BA3428115}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_AR.et" "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_GL.et" "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman.et" "{67C97355F74099C5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_TL.et" "{0D86781BA3428115}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_AR.et" "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_GL.et" "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -122,7 +122,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   angleY -0.014
   m_faction "RHS_USAF"
   m_aUnitPrefabSlots {
-   "{5C83EA75AA32D2FD}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_SL.et" "{631CC570F6F9640D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MG.et" "{FF35618CBD9D147A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGAB.et" "{02D9F2C55EC4BC36}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGA.et" "{631CC570F6F9640D}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MG.et" "{FF35618CBD9D147A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGAB.et" "{02D9F2C55EC4BC36}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MGA.et"
+   "{600E890491C62306}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_SL.et" "{36FE68EB81398B5C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MG_opt.et" "{D38A51C19D66AAC8}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MGAB.et" "{FEA8A03109D0FC66}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MGA.et" "{36FE68EB81398B5C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MG_opt.et" "{D38A51C19D66AAC8}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MGAB.et" "{FEA8A03109D0FC66}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MGA.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -139,7 +139,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   angleY -0.014
   m_faction "RHS_USAF"
   m_aUnitPrefabSlots {
-   "{70A4F5C235238366}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Sniper.et" "{B2D9A64690CBB4BE}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Spotter.et" "{3863FA68EF37D76B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_Marksman.et"
+   "{D13AD1B898B26305}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Sniper_M107.et" "{6C9433CEFA84F73C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Spotter_M107.et" "{D82203FB9DC2F6C6}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_RTO.et"
   }
   m_bDeleteWhenEmpty 0
  }
@@ -158,7 +158,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   angleZ -0.872
   m_faction "RHS_USAF"
   m_aUnitPrefabSlots {
-   "{A3E0E704B5A25702}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MortarLeader.et" "{0EE1FA6B9FDECB3B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MortarGunner.et" "{CA024B438E50A5E7}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MortarLoader.et" "{CA058F310A61F2F2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Character_RHS_USAF_MortarAmmoBearer.et"
+   "{A25CCAC020E867E6}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Mortar_TeamLeader.et" "{1CB207D10EB55F66}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MortarGunner.et" "{D851B6F91F3B31BA}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MortarLoader.et" "{4F562E308714607E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_MortarAmmoBearer.et"
   }
   m_bDeleteWhenEmpty 0
  }

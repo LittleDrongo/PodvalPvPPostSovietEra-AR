@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{1A5EC0FCCEEA79B9}Prefabs/Characters/Factions/INDFOR/TKR/Character_TKR_SL.et" {
+SCR_ChimeraCharacter : "{1A5EC0FCCEEA79B9}Prefabs/Characters/Factions/INDFOR/TKR/Character_Ses_TKR_SL.et" {
  ID "520EC961A090B1EE"
  components {
   FactionAffiliationComponent "{60745A466E15E001}" {
@@ -10,7 +10,7 @@ SCR_ChimeraCharacter : "{1A5EC0FCCEEA79B9}Prefabs/Characters/Factions/INDFOR/TKR
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{20C05AF8047F741C}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_TAN.et"
+     Prefab "{CB379AD8EC48690C}Prefabs/Characters/HeadGear/Balaclavas/Balaclava_v1/Balaclava_v1_BLK.et"
     }
     LoadoutSlotInfo Jacket {
      Prefab "{0518C70D4EFE075A}Prefabs/Characters/Uniforms/T_Shirts/Velocity_Shirt/velocity_shirt_brown.et"

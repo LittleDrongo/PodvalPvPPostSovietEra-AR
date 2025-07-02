@@ -10,7 +10,10 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
       }
      }
      m_sObjectiveNames {
-      "DESTROY_ENEMY_AFRF"
+      "DESTROY_ENEMY_AFRF" "FLAG_USAF"
+     }
+     m_sFailedObjectiveNames {
+      "DESTROY_ENEMY_USAF" "FLAG_AFRF"
      }
      m_bAdvanceGameStage 1
      m_bUseMessage 1
@@ -24,7 +27,10 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
       }
      }
      m_sObjectiveNames {
-      "DESTROY_ENEMY_USAF"
+      "DESTROY_ENEMY_USAF" "FLAG_AFRF"
+     }
+     m_sFailedObjectiveNames {
+      "DESTROY_ENEMY_AFRF" "FLAG_USAF"
      }
      m_bAdvanceGameStage 1
      m_bUseMessage 1
