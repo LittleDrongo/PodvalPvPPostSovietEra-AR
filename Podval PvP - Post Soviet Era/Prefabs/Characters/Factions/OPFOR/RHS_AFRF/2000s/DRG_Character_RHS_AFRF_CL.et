@@ -4,7 +4,7 @@ SCR_ChimeraCharacter : "{2492743A725472E0}Prefabs/Characters/Factions/OPFOR/RHS_
   SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
    m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
     Name "#DRG-COMPANY_LEADER"
-    Icon "{B0B3E06A17B8AC6D}UI/Icons/officer.edds"
+    Icon "{631E0A0EDCB63B8A}UI/Icons/company_leader.edds"
    }
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
