@@ -72,6 +72,179 @@ $grp GenericEntity : "{A884FCC8E30726CC}Prefabs/Compositions/WeaponStorage/Weapo
   angleZ -0.001
  }
 }
+$grp GenericEntity : "{ADE19B33DCBB9005}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2.et" {
+ {
+  coords 4498.153 59.474 2841.513
+  angleX -0.002
+  angleY 61.005
+  angleZ -0.001
+  {
+   $grp GenericEntity : "{ADE19B33DCBB9005}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2.et" {
+    {
+     coords 0.001 0.079 -0.001
+     angleX -12.143
+     angleY -0.205
+     angleZ 0.973
+    }
+    {
+     coords 0.005 0.159 0.01
+     angleX -10
+     angleY -0.83
+     angleZ 1.618
+    }
+    {
+     coords 0.011 0.249 -0.031
+     angleX -18.119
+     angleY -1.654
+     angleZ 5.727
+    }
+   }
+  }
+ }
+ {
+  coords 4497.996 59.474 2840.969
+  angleY 121.008
+  angleZ -0.003
+  {
+   $grp GenericEntity : "{ADE19B33DCBB9005}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2.et" {
+    {
+     coords 0.005 0.159 0.01
+     angleX -10
+     angleY -0.83
+     angleZ 1.618
+    }
+    {
+     coords 0.011 0.249 -0.031
+     angleX -18.119
+     angleY -1.654
+     angleZ 5.727
+    }
+    {
+     coords 0.001 0.079 -0.001
+     angleX -12.143
+     angleY -0.205
+     angleZ 0.973
+    }
+   }
+  }
+ }
+ {
+  coords 4498.523 59.474 2841.906
+  angleX 0.001
+  angleY 133.027
+  angleZ -0.003
+  {
+   $grp GenericEntity : "{ADE19B33DCBB9005}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2.et" {
+    {
+     coords 0.005 0.159 0.01
+     angleX -10
+     angleY -0.83
+     angleZ 1.618
+    }
+    {
+     coords 0.011 0.249 -0.031
+     angleX -18.119
+     angleY -1.654
+     angleZ 5.727
+    }
+    {
+     coords 0.001 0.079 -0.001
+     angleX -12.143
+     angleY -0.205
+     angleZ 0.973
+    }
+   }
+  }
+ }
+ {
+  coords 4498.598 59.474 2841.302
+  angleX -0.003
+  angleY 23.113
+  angleZ 0
+  {
+   $grp GenericEntity : "{ADE19B33DCBB9005}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2.et" {
+    {
+     coords 0.005 0.159 0.01
+     angleX -10
+     angleY -0.83
+     angleZ 1.618
+    }
+    {
+     coords 0.011 0.249 -0.031
+     angleX -18.119
+     angleY -1.654
+     angleZ 5.727
+    }
+    {
+     coords 0.001 0.079 -0.001
+     angleX -12.143
+     angleY -0.205
+     angleZ 0.973
+    }
+   }
+  }
+ }
+ {
+  coords 4501.764 59.474 2844.702
+  angleX -0.001
+  angleY -158.193
+  angleZ 0
+  {
+   $grp GenericEntity : "{ADE19B33DCBB9005}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2.et" {
+    {
+     coords 0.005 0.159 0.01
+     angleX -10
+     angleY -0.83
+     angleZ 1.618
+    }
+    {
+     coords 0.011 0.249 -0.031
+     angleX -18.119
+     angleY -1.654
+     angleZ 5.727
+    }
+    {
+     coords 0.001 0.079 -0.001
+     angleX -12.143
+     angleY -0.205
+     angleZ 0.973
+    }
+   }
+  }
+ }
+ {
+  coords 4501.419 59.474 2844.161
+  angleX -0.001
+  angleY -122.302
+  angleZ -0
+  {
+   $grp GenericEntity : "{ADE19B33DCBB9005}Prefabs/Characters/Vests/Vest_6B2/Vest_6B2.et" {
+    {
+     coords 0.005 0.159 0.01
+     angleX -10
+     angleY -0.83
+     angleZ 1.618
+    }
+    {
+     coords 0.011 0.249 -0.031
+     angleX -18.119
+     angleY -1.654
+     angleZ 5.727
+    }
+    {
+     coords 0.001 0.079 -0.001
+     angleX -12.143
+     angleY -0.205
+     angleZ 0.973
+    }
+   }
+  }
+ }
+}
+GenericEntity : "{B0D196C515B220A4}Prefabs/Compositions/WeaponStorage/Rack_RPG_Ammo.et" {
+ coords 4496.172 59.474 2838.779
+ angleY 122.724
+}
 $grp SCR_DestructibleBuildingEntity : "{B35DED766930521B}Prefabs/Models/tem_train2_car.et" {
  {
   components {
@@ -179,7 +352,6 @@ $grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
    }
   }
   coords 4463.39 59.509 2783.361
-  angleX 0
   angleY 31.262
  }
  BTR1 {
@@ -218,7 +390,6 @@ $grp Vehicle : "{C012BB3488BEA0C2}Prefabs/Vehicles/Wheeled/BTR70/BTR70.et" {
    }
   }
   coords 4472.711 59.509 2798.459
-  angleX 0
   angleY 31.262
  }
 }
