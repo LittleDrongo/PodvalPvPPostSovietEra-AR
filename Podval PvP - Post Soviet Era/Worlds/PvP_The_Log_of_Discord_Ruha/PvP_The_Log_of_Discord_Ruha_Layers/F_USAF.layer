@@ -3,7 +3,7 @@ $grp SCR_AIGroup : "{AA6B2DAECCF14831}Prefabs/Groups/BLUFOR/drg_USMC_RifleSquad.
   coords 2820.22 86.5 7581.983
   angleY 121.867
   m_aUnitPrefabSlots {
-   "{CEDCC068342815AB}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/Recon/drg_Role_RHS_USAF_Recon_SL.et"
+   "{9E8A45F22F94636C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_CL.et"
   }
  }
  USAF_1_0_0 {

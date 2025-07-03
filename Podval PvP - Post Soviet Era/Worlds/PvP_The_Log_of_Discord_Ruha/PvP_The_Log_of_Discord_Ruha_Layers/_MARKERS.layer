@@ -20,3 +20,6 @@ GenericEntity Huhtamaki2 {
  Flags 1027
  coords 3488.268 82.781 7152.388
 }
+GenericEntity : "{3914BACD81F2F105}Prefabs/Items/sat_1.et" {
+ coords 3479.907 82.781 7130.583
+}
