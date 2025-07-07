@@ -2,15 +2,17 @@ SCR_AIGroup : "{E3545CFEDD312D54}Prefabs/Groups/OPFOR/Group_USSR_RifleSquad_P.et
  ID "0000000000000001"
  components {
   AIFormationComponent "{507E9DC12F541FE6}" {
-   DefaultFormation "Column"
+   DefaultFormation "NUL"
   }
   PS_GroupCallsignAssigner "{624D56B5FDC6118E}" {
-   m_iCompanyCallsign 4
-   m_iSquadCallsign 1
+   m_iCompanyCallsign 1
+   m_iSquadCallsign 0
   }
  }
  m_faction "RHS_USAF"
  m_aUnitPrefabSlots {
-  "{0DD0D2D95D5F6532}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_SL.et" "{324FFDDC0194D3C2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MG.et" "{AC27C8298A1C3B9B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGAB.et" "{AF29C533E014E165}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGA.et" "{324FFDDC0194D3C2}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MG.et" "{AC27C8298A1C3B9B}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGAB.et" "{AF29C533E014E165}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USMC/drg_Character_RHS_USMC_MGA.et"
+  "{600E890491C62306}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_SL.et" "{67C97355F74099C5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_TL.et" "{0D86781BA3428115}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_AR.et" "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_GL.et" "{74A02B02FD60CB8E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman_LAT.et" "{67C97355F74099C5}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_TL.et" "{0D86781BA3428115}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_AR.et" "{0053063A54F5E83F}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_GL.et" "{74A02B02FD60CB8E}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Rifleman_LAT.et"
  }
+ m_bDeleteWhenEmpty 0
+ m_sCustomNameSet "#DRG-Sq-RifleSquad"
 }

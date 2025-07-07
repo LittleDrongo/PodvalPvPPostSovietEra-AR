@@ -1,0 +1,22 @@
+$grp PS_Objective : "{A4F0B4846EF850C4}Prefabs/Objective/Objective.et" {
+ FLAG_USAF {
+  coords 676.094 182.384 8690.432
+  m_sTitle "Кишлак удержан"
+  m_sFactionKey "RHS_USAF"
+ }
+ FLAG_AFRF {
+  coords 676.094 182.384 8690.432
+  m_sTitle "Кишлак захвачен"
+  m_sFactionKey "RHS_AFRF"
+ }
+ KILL_USAF {
+  coords 676.094 182.384 8690.432
+  m_sTitle "Разгромить противника"
+  m_sFactionKey "RHS_AFRF"
+ }
+ KILL_AFRF {
+  coords 676.094 182.384 8690.432
+  m_sTitle "Разгромить противника"
+  m_sFactionKey "RHS_USAF"
+ }
+}

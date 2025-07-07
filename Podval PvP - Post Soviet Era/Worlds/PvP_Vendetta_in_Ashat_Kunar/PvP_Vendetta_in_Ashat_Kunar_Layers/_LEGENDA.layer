@@ -1,0 +1,544 @@
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ {
+  coords 2097.72 119.658 1297.193
+  angleX 2.529
+  angleY -43.176
+  angleZ 0.08
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Car"
+  m_fWorldSize 2.974
+  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Camo (#TF-Weapon-PKP-Name)"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 2106.52 119.287 1305.147
+  angleX 1.264
+  angleY -41.906
+  angleZ 0.068
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Car"
+  m_fWorldSize 2.974
+  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Camo (#TF-Weapon-PKP-Name)"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 2142.538 114.793 1317.483
+  angleX 8.773
+  angleY -16.378
+  angleZ -1.645
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Car"
+  m_fWorldSize 2.974
+  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Camo (#TF-Weapon-PKP-Name)"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 2154.728 112.947 1322.867
+  angleX 7.655
+  angleY -34.715
+  angleZ 0.11
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Car"
+  m_fWorldSize 2.974
+  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Camo (#TF-Weapon-PKP-Name)"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 2164.784 111.504 1328.9
+  angleX 4.807
+  angleY -19.982
+  angleZ 0.153
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Car"
+  m_fWorldSize 2.974
+  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Camo (#TF-Weapon-PKP-Name)"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 2113.808 118.982 1311.346
+  angleX 1.251
+  angleY -36.297
+  angleZ 0.191
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Car"
+  m_fWorldSize 2.974
+  m_sDescription "#TF-Vehicle-Gaz233114 - #TF-Vehicle-Color-Camo (#TF-Weapon-PKP-Name)"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 2620.139 9.999 3324.425
+  angleY 212.828
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Helicopter"
+  m_fWorldSize 9.387
+  m_sDescription "#AR-Vehicle_Mi8MT_Armed_Name"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ {
+  coords 2650.76 10 3304.67
+  angleY 212.828
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.855 0.031 0.028 1
+  m_sQuadName "Helicopter"
+  m_fWorldSize 9.387
+  m_sDescription "#AR-Vehicle_Mi8MT_Armed_Name"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ RHS_AFRF_G_000_M {
+  coords 2099.072 120.376 1321.038
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG_Sqd_Hq) Актив 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_100_M {
+  coords 2098.212 119.566 1301.581
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Буран 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_101_M {
+  coords 2106.148 119.211 1309.109
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Буран 1–2"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_102_M {
+  coords 2115.139 118.983 1315.187
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Буран 1–3"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_200_M {
+  coords 2144.675 114.436 1320.858
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-PlatoonHQ) Компас 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_201_M {
+  coords 2156.087 112.691 1326.964
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Компас 1–2"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_202_M {
+  coords 2166.566 111.315 1332.518
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Компас 1–3"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_300_M {
+  coords 2625.532 10.262 3352.572
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-ReconSquad) Динамо 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_301_M {
+  coords 2634.144 10.262 3347.418
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-ReconSquad) Динамо 1–2"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_302_M {
+  coords 2642.626 10.261 3342.047
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-ReconSquad) Динамо 1–3"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_303_M {
+  coords 2651.034 10.265 3336.809
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-ReconSquad) Динамо 1–4"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_400_M {
+  coords 2656.222 10.008 3309.723
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-ReconSquad) Эбонит 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_AFRF_G_401_M {
+  coords 2623.46 10.008 3330.223
+  m_sImageSet "{7CD99D22C7AE8195}UI/Textures/GroupManagement/FlagIcons/GroupFlagsOpfor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-ReconSquad) Эбонит 1–2"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ {
+  coords 2105.409 121.134 1326.253
+  angleX -6.927
+  angleY -55.583
+  angleZ 0.652
+  m_sImageSet "{F3A9B47F55BE8D2B}UI/Textures/Icons/PS_Atlas_x64.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0.555 0.002 0 1
+  m_sQuadName "Truck"
+  m_fWorldSize 3.722
+  m_sDescription "#RHS-Vehicle_Ural4320_comms_camo_Name"
+  m_bUseWorldScale 1
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+   1
+  }
+  m_iZOrder 0
+ }
+ RHS_USAF_G_000_M {
+  coords 1124.686 238.222 951.986
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-PlatoonHQ) Атлас 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_100_M {
+  coords 1122.681 238.028 948.899
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Блэйзер 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_101_M {
+  coords 1116.924 237.648 939.211
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Блэйзер 1–2"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_102_M {
+  coords 1111.024 237.133 929.135
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Блэйзер 1–3"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_200_M {
+  coords 1131.44 238.275 963.767
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Хаос 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_201_M {
+  coords 1131.525 238.273 954.604
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-RifleSquad) Хаос 1–2"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_300_M {
+  coords 1116.708 237.426 927.255
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-MachineGunnerSquad) Диско 1–1"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+ RHS_USAF_G_301_M {
+  coords 1121.096 237.426 936.052
+  m_sImageSet "{1228936E5DB30403}UI/Textures/GroupManagement/FlagIcons/GroupFlagsBlufor.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 1 1 1 1
+  m_sQuadName "undefined"
+  m_fWorldSize 50
+  m_sDescription "(#DRG-Sq-SniperTeam) Диско 1–2"
+  m_bUseWorldScale 0
+  m_aVisibleForFactions {
+   "RHS_AFRF" "RHS_USAF" "Ses_CDF" "Ses_ChDKZ" "Ses_TKR" "Ses_TKA" "Drg_IGF" "Drg_PIR" "UK" "USSR" "USA" "FIA"
+  }
+  m_bVisibleForEmptyFaction 1
+  m_aHideOnGameModeStates {
+  }
+  m_iZOrder 10
+ }
+}
