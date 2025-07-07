@@ -40,7 +40,7 @@ SCR_ChimeraCharacter : "{D0A4FBFC3F2FBE5B}Prefabs/Characters/Factions/BLUFOR/RHS
      TargetPurpose 64
     }
     ItemsInitConfigurationItem "{652CEBE6D8D3152D}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_MC.et"
+     TargetStorage "Jacket/ACU_jacket_base_MC.et"
      PrefabsToSpawn {
       "{BAB50E5D149D64D9}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_prv.et"
      }

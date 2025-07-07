@@ -18,5 +18,12 @@ SCR_ChimeraCharacter : "{A25CCAC020E867E6}Prefabs/Characters/Factions/BLUFOR/RHS
     Icon "{DCF0F63BF8F4B59B}UI/Icons/spotter.edds"
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{652C93A1E33FC67D}" {
+     TargetStorage "Jacket/ACU_jacket_base_MC.et"
+    }
+   }
+  }
  }
 }

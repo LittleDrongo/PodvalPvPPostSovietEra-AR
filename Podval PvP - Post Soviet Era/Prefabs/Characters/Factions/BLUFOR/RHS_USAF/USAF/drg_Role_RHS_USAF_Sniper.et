@@ -78,13 +78,13 @@ SCR_ChimeraCharacter : "{741676D36040EA84}Prefabs/Characters/Factions/BLUFOR/RHS
      TargetStorage "Vest/Vest_JPC_okinawa_MC_sniper2.et/pistolbelt2/Pouch_Filbe_M67_2.et"
     }
     ItemsInitConfigurationItem "{652C93A18E8D33F0}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_MC.et"
+     TargetStorage "Jacket/ACU_jacket_base_MC.et"
      PrefabsToSpawn {
       "{1ACBEA34BC9743FD}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_MC_glass_gad.et"
      }
     }
     ItemsInitConfigurationItem "{652C93A1E33FC67D}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_MC.et"
+     TargetStorage "Jacket/ACU_jacket_base_MC.et"
      PrefabsToSpawn {
       "{6343FDE2D086810C}Prefabs/Items/Equipment/RangeCard/RangeCard_M40A5.et"
      }

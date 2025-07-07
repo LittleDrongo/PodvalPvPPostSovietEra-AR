@@ -6,18 +6,24 @@ SCR_ChimeraCharacter : "{D0A4FBFC3F2FBE5A}Prefabs/Characters/Factions/BLUFOR/RHS
   }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
+    LoadoutSlotInfo Jacket {
+     Prefab "{C7AB6F6342093F30}Prefabs/Characters/Uniforms/ACU_jacket/ACU_jacket_base_MC.et"
+    }
     LoadoutSlotInfo Pants {
-     Prefab "{ECCC7BDEA2F3D3A5}Prefabs/Characters/Uniforms/Crye_Pants/crye_pants_CoyoteBrown.et"
+     Prefab "{FFC8049A506A0F9F}Prefabs/Characters/Uniforms/ACU_pants/ACU_pants_MC_base.et"
     }
    }
   }
   SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
    InitialInventoryItems {
     ItemsInitConfigurationItem "{652C93AEBD1EDE56}" {
-     TargetStorage "Pants/crye_pants_CoyoteBrown.et"
+     TargetStorage "Pants/ACU_pants_MC_base.et"
     }
     ItemsInitConfigurationItem "{652C93AE8849C9D9}" {
-     TargetStorage "Pants/crye_pants_CoyoteBrown.et"
+     TargetStorage "Pants/ACU_pants_MC_base.et"
+    }
+    ItemsInitConfigurationItem "{652C93AFA7C32F0A}" {
+     TargetStorage "Jacket/ACU_jacket_base_MC.et"
     }
    }
   }

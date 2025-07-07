@@ -13,7 +13,7 @@ SCR_ChimeraCharacter : "{9E8A45F22F94636C}Prefabs/Characters/Factions/BLUFOR/RHS
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{5C7F97C0F257180B}Prefabs/Characters/HeadGear/Hat_BallCap/Hat_ballcap_MC.et"
+     Prefab "{CD3C0473247FFE7E}Prefabs/Characters/Headwear/ACU_cap/ACU_cap_base.et"
     }
    }
   }

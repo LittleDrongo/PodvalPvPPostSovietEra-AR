@@ -113,9 +113,6 @@ GenericEntity : "{33CBDE73AB48172A}Prefabs/Weapons/Explosives/DemoBlock_M112/Dem
 GameEntity : "{3A421547BC29F679}Prefabs/Items/Equipment/Flashlights/Flashlight_MX991/Flashlight_MX991.et" {
  coords 115.907 2.018 209.032
 }
-GenericEntity : "{5F3661399CE6BEE6}Prefabs/Weapons/Rifles/AKS74U/Variants/Rifle_AKS74UN_PBS4.et" {
- coords 105.422 1 231.379
-}
 GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_01.et" {
  coords 115.617 1 208.98
 }
@@ -124,9 +121,6 @@ GenericEntity : "{7279721D20AD7855}Prefabs/Weapons/Attachments/Rails/b18/drg_mlo
 }
 GameEntity : "{9C42803E49305273}Prefabs/Weapons/Attachments/Optics/exps/Optic_EXPS3-1.et" {
  coords 115.136 2.018 208.718
-}
-SCR_ChimeraCharacter : "{D1FC452D48AB3333}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/SOCOM/drg_Role_RHS_USAF_SOCOM_ScoutSapper.et" {
- coords 105.222 1 228.527
 }
 GenericEntity : "{D688A947EBC71A04}Prefabs/Weapons/MachineGuns/M249/MG_M249_rail.et" {
  components {
@@ -143,9 +137,6 @@ GenericEntity : "{D688A947EBC71A04}Prefabs/Weapons/MachineGuns/M249/MG_M249_rail
 }
 GenericEntity : "{D6EEA6ED1516248D}Prefabs/Items/Equipment/RangeCard/Rangecard_AK74M.et" {
  coords 115.903 2.018 209.191
-}
-SCR_ChimeraCharacter : "{DC6EA865F186B3D1}Prefabs/Characters/Factions/BLUFOR/CDF_Army/drg_Character_CDF_Rifleman.et" {
- coords 102.444 1 229.788
 }
 GenericEntity : "{E0010C5E27F9FDB4}Prefabs/Weapons/Rifles/SR3M/Rifle_SR3M_wd_rails.et" {
  coords 114.791 2.095 209.155

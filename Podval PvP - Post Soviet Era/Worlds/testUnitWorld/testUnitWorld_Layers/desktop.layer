@@ -13,9 +13,6 @@ GenericEntity : "{6CD34D6526429EEC}Prefabs/Props/Furniture/BarTable_01.et" {
 GenericEntity : "{7AF1C4F7220066F9}Prefabs/Weapons/Rifles/SVD/Rifle_SVD_Raid.et" {
  coords 106.08 1 208.881
 }
-SCR_ChimeraCharacter : "{7F6DBCE3E5DB83AA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Sniper.et" {
- coords 105.883 1 207.453
-}
 GenericEntity : "{D0F213711B925CF5}Prefabs/Weapons/Rifles/M27IAR/Rifle_M38SDMR.et" {
  coords 105.678 1 208.288
 }
