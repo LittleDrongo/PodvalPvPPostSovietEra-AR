@@ -49,6 +49,80 @@ Vehicle Ural4320_command_camo1 : "{2C95509CA3E61DE1}Prefabs/Vehicles/Wheeled/Ura
  angleZ 0.722
  m_sAttachmentGroupName "RF_0_0_0"
 }
+$grp GenericEntity : "{375F0DE9BFFB8BBD}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_Explosive_USSR.et" {
+ {
+  coords 3804.184 88.32 6974.127
+  angleX 0.174
+  angleY -21.587
+  angleZ -1.993
+ }
+ {
+  coords 3804.822 88.344 6974.377
+  angleX 0.174
+  angleY -21.587
+  angleZ -1.993
+ }
+ {
+  coords 3789.826 87.841 6968.926
+  angleX -0.329
+  angleY -21.579
+  angleZ -0.832
+ }
+ {
+  coords 3790.463 87.858 6969.177
+  angleX -0.658
+  angleY -21.562
+  angleZ -1.665
+ }
+ {
+  coords 3775.227 87.338 6963.174
+  angleX 0.174
+  angleY -21.587
+  angleZ -1.993
+ }
+ {
+  coords 3775.865 87.362 6963.425
+  angleX 0.174
+  angleY -21.587
+  angleZ -1.993
+ }
+ {
+  coords 3761.551 87.016 6957.932
+  angleX 0.174
+  angleY -21.587
+  angleZ -1.993
+ }
+ {
+  coords 3762.189 87.034 6958.184
+  angleX -0.329
+  angleY -21.579
+  angleZ -0.832
+ }
+ {
+  coords 3749.511 86.732 6953.343
+  angleX 0.503
+  angleY -21.593
+  angleZ -1.162
+ }
+ {
+  coords 3750.149 86.748 6953.594
+  angleX 0.174
+  angleY -21.587
+  angleZ -1.993
+ }
+ {
+  coords 3735.991 86.5 6948.494
+  angleX -0.329
+  angleY -21.579
+  angleZ -0.832
+ }
+ {
+  coords 3736.629 86.51 6948.746
+  angleX -0.329
+  angleY -21.579
+  angleZ -0.832
+ }
+}
 $grp Vehicle : "{7A21F47E09038E58}Prefabs/Vehicles/Wheeled/TIGR/ArbaletDM/GAZ_TIGR_v2_Arbalet_KORD.et" {
  GAZ_TIGR_v2_Arbalet_KORD1 {
   coords 3896.414 88.087 6978.593
@@ -208,7 +282,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
     m_iSquadCallsign 2
    }
   }
-  coords 3736.33 86.47 6948.667
+  coords 3736.027 86.47 6949.561
   angleY 161.253
   m_faction "RHS_AFRF"
   m_aUnitPrefabSlots {
