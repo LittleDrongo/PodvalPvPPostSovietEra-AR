@@ -16,9 +16,11 @@ GenericEntity : "{D2B48DEBEF38D7D7}Prefabs/Weapons/MachineGuns/M249/MG_M249.et" 
       PivotID "eye"
       Offset 0 -0.0083 0.2031
       Prefab "{30B41A4172CBD098}Prefabs/Weapons/Attachments/Optics/ta31rco/Optic_TA31RCO_ARD_army.et"
+      InspectionWidgetOffset 0 0.1381 0
      }
      AttachmentType AttachmentOpticsRIS1913 "{652EF0EA96896AC7}" {
      }
+     ShowInInspection 1
     }
    }
   }

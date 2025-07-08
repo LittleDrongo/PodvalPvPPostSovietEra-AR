@@ -33,7 +33,7 @@ SCR_ChimeraCharacter : "{7C660B3D3930EEC0}Prefabs/Characters/Factions/BLUFOR/RHS
      }
     }
     ItemsInitConfigurationItem "{653AC5E0B3E596A2}" {
-     TargetStorage "Jacket/Jacket_Crye_Combat_Shirt_Rolled_CADPAT_Temperate.et"
+     TargetStorage "Jacket/Crye_shirt_MC.et"
      PrefabsToSpawn {
       "{B1798B0F1258B765}Prefabs/Items/Equipment/Navigation/DAGR/DAGR.et"
      }
