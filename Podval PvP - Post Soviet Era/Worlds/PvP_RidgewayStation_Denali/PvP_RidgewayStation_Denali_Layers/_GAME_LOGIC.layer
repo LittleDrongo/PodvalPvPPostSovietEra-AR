@@ -42,5 +42,10 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
  coords 4729.839 290.153 6998.263
 }
 GenericEntity : "{E6FC6DD69FA3479F}Prefabs/System/DRG_MissionEndTimerPrefab.et" {
+ components {
+  DRG_MissionEndTimerComponent "{651B0839B21B3BBF}" {
+   m_iMissionTime 3000
+  }
+ }
  coords 4762.458 287.818 7005.816
 }
