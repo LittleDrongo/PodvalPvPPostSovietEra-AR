@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{EC325FC7AF4DDF9E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/drg_Role_RHS_AFRF_SSO_Unarmed.et"
+ Name "{EC325FC7AF4DDF9E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/SSO/drg_Role_RHS_AFRF_SSO_Unarmed.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }
