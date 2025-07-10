@@ -45,6 +45,16 @@ $grp Turret : "{3EA26CFD7A202636}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV_SPP.
      }
     }
    }
+   SCR_PreviewEntityComponent "{5ECC91C02782BF7F}" : "{6CADA7A88A6265FD}Prefabs/Editor/Components/PreviewEntityComponentClass.ct" {
+    m_aEntries {
+     SCR_BasePreviewEntry "{5ECC91C032B149EB}" {
+     }
+     SCR_BasePreviewEntry "{5ECC91C03431B1D4}" {
+      m_Mesh "{1C372CC3C2897372}Assets/Weapons/HeavyWeapons/NSV/NSV_body.xob"
+      m_Shape MESH
+     }
+    }
+   }
   }
   coords 4458.581 54.053 4374.101
   angleX -0.718
@@ -66,6 +76,16 @@ $grp Turret : "{3EA26CFD7A202636}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV_SPP.
      }
     }
    }
+   SCR_PreviewEntityComponent "{5ECC91C02782BF7F}" : "{6CADA7A88A6265FD}Prefabs/Editor/Components/PreviewEntityComponentClass.ct" {
+    m_aEntries {
+     SCR_BasePreviewEntry "{5ECC91C032B149EB}" {
+     }
+     SCR_BasePreviewEntry "{5ECC91C03431B1D4}" {
+      m_Mesh "{1C372CC3C2897372}Assets/Weapons/HeavyWeapons/NSV/NSV_body.xob"
+      m_Shape MESH
+     }
+    }
+   }
   }
   coords 4455.036 54.062 4378.323
   angleY 53.369
@@ -74,6 +94,16 @@ $grp Turret : "{3EA26CFD7A202636}Prefabs/Weapons/Tripods/6T7/Tripod_6T7_NSV_SPP.
   components {
    PS_GroupAttachmentComponent "{65D09C9303FBFABA}" {
     m_sAttachmentGroupName "RF_3_2_DEF"
+   }
+   SCR_PreviewEntityComponent "{5ECC91C02782BF7F}" : "{6CADA7A88A6265FD}Prefabs/Editor/Components/PreviewEntityComponentClass.ct" {
+    m_aEntries {
+     SCR_BasePreviewEntry "{5ECC91C032B149EB}" {
+     }
+     SCR_BasePreviewEntry "{5ECC91C03431B1D4}" {
+      m_Mesh "{1C372CC3C2897372}Assets/Weapons/HeavyWeapons/NSV/NSV_body.xob"
+      m_Shape MESH
+     }
+    }
    }
    SCR_PreviewEntityComponent "{5ECC91C02782BF7F}" : "{6CADA7A88A6265FD}Prefabs/Editor/Components/PreviewEntityComponentClass.ct" {
     m_aEntries {
@@ -188,7 +218,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   m_bDeleteIfNoPlayer 0
   m_sCustomNameSet "#DRG_Sqd_Rifle"
  }
- RF_4_0 {
+ RR_4_0 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -209,7 +239,7 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   m_bDeleteIfNoPlayer 0
   m_sCustomNameSet "#DRG_Sqd_HeliRocket"
  }
- RF_4_1 {
+ RR_4_1 {
   components {
    AIFormationComponent "{507E9DC12F541FE6}" {
     DefaultFormation ""
@@ -526,7 +556,7 @@ $grp Vehicle : "{DBEC63C9DEE4358C}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed
   angleX -0.451
   angleY -80.332
   angleZ 2.646
-  m_sAttachmentGroupName "RF_4_0"
+  m_sAttachmentGroupName "RR_4_0"
  }
  Mi8MT_armed_gunship_HEDP2 {
   components {
@@ -548,6 +578,6 @@ $grp Vehicle : "{DBEC63C9DEE4358C}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed
   angleX 0.974
   angleY -84.696
   angleZ -0.808
-  m_sAttachmentGroupName "RF_4_1"
+  m_sAttachmentGroupName "RR_4_1"
  }
 }

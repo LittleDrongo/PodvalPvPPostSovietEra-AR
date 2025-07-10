@@ -1214,7 +1214,7 @@ $grp PolylineShapeEntity {
     m_polyZoneEffect PS_PolyZoneEffectRestricted "{614548BC046ADB65}" {
      m_fKillTime 35
     }
-    m_sFactionKey "RHS_AFRF"
+    m_sGroupKey "RF_"
    }
   }
  }
