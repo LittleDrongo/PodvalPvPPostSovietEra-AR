@@ -2,6 +2,15 @@ SCR_AIGroup : "{267668529664A418}Prefabs/Groups/INDFOR/Drg_VCA/drg_VCA_Showcase.
  coords 108.123 1 245.136
  angleY 0
  m_aUnitPrefabSlots {
-  "{E991B0C76B6BDCD7}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed.et" "{89428A864350EA6E}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed_blk.et" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" ""
+  "{E991B0C76B6BDCD7}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed.et" "{89428A864350EA6E}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed_blk.et" "{AFD656F1D9ACD98E}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Rifleman.et" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" ""
  }
+}
+SCR_ChimeraCharacter : "{8EB5D325635DF57F}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Rifleman_v2.et" {
+ coords 106.389 1 252.631
+}
+Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" {
+ coords 100.298 -0 251.127
+}
+SCR_ChimeraCharacter : "{AFD656F1D9ACD98E}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Rifleman.et" {
+ coords 108.412 1 248.472
 }

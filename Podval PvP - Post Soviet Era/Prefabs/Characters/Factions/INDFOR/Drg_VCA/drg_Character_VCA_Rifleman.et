@@ -1,0 +1,8 @@
+SCR_ChimeraCharacter : "{E991B0C76B6BDCD7}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed.et" {
+ ID "520EC961A090B1EE"
+ components {
+  CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
+   WeaponTemplate "{80562265CBB79324}Prefabs/Weapons/Assault/AKM/Rifle_AKM_metal.et"
+  }
+ }
+}
