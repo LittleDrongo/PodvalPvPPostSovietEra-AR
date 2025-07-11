@@ -1,4 +1,4 @@
-SCR_ChimeraCharacter : "{AFD656F1D9ACD98F}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Rifleman.et" {
+SCR_ChimeraCharacter : "{30848A84E27BFA64}Prefabs/Characters/Factions/INDFOR/Drg_VCA/Recon/drg_Character_VCA_Recon_Rifleman.et" {
  ID "520EC961A090B1EE"
  components {
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {

@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{AFD656F1D9ACD98F}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Rifleman.et"
+ Name "{23F09E7DCEF03D91}Prefabs/Characters/Factions/INDFOR/Drg_VCA/Recon/drg_Character_VCA_Recon_AR_v3.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

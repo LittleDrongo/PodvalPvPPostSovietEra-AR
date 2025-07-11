@@ -1,0 +1,6 @@
+MatPBRBasic {
+ Color 0.183 0.345 0.18 1
+ CavityFromAO 1
+ BCRMap "{3881B9591169C44D}Assets/Items/Equipment/Backpacks/Backpack_Veshmeshok/Data/T_Backpack_Veshmeshok_BCR.edds"
+ NMOMap "{005902CBC81E96D3}Assets/Items/Equipment/Backpacks/Backpack_Veshmeshok/Data/T_Backpack_Veshmeshok_NMO.edds"
+}
