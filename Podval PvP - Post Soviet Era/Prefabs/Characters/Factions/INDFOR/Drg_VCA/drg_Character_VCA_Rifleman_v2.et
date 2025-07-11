@@ -4,7 +4,7 @@ SCR_ChimeraCharacter : "{AFD656F1D9ACD98F}Prefabs/Characters/Factions/INDFOR/Drg
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{9F601FC77AD72785}Prefabs/Characters/HeadGear/Hat_Boonie_US_01/Hat_Boonie_US_02_vietnam_blk.et"
+     Prefab "{C8BD892538B20D82}Prefabs/Characters/HeadGear/Hat_Boonie_US_01/Hat_Boonie_US_02_vietnam.et"
     }
    }
   }

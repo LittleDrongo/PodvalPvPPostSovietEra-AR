@@ -9,15 +9,17 @@ GenericEntity : "{0DBE058F13F0C7E8}PrefabsEditable/Auto/Structures/Military/Flag
      m_sFactionKey "US"
     }
     PS_FlagData "{651ED1F8C9BB2BAB}" {
-     m_sFactionKey "Drg_PIR"
+     m_sFactionKey "Drg_VCA"
      m_iCaptureCounter 1
     }
    }
    m_sFactionKey "US"
+   m_bUseAdvanceGameState 1
+   m_iAdvanceAfterSec 7
+   m_sUseNotification 1
   }
  }
  coords 1242.333 97.215 2696.567
  angleX -0.716
- angleY -0
  angleZ 0.029
 }

@@ -1,6 +1,9 @@
 SCR_AIGroup : "{267668529664A418}Prefabs/Groups/INDFOR/Drg_VCA/drg_VCA_Showcase.et" {
- coords 128.743 1 247.972
+ coords 126.561 1 247.972
  angleY 0
+}
+SCR_ChimeraCharacter : "{2C3E11CA45CC467B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_Rifleman_V.et" {
+ coords 133.049 1 253.571
 }
 Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" {
  coords 100.671 0 228.242
