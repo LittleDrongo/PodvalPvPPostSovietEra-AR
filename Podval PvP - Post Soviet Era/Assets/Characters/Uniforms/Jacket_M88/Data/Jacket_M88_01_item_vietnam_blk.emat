@@ -1,0 +1,5 @@
+MatPBRBasic : "{7C6AE2D69A440B7B}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_item_vietnam.emat" {
+ Color 0.114 0.114 0.114 1
+ SpecularIBL 1 1 1 1
+ Diffuse 0 0.041 0.165 1
+}

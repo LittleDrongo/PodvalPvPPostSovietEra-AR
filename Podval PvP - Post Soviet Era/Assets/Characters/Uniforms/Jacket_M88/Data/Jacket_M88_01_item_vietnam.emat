@@ -1,0 +1,4 @@
+MatPBRBasic : "{4CF49984BBF284E4}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_item.emat" {
+ Color 0.183 0.345 0.18 1
+ SpecularIBL 0.624 0.506 0.157 1
+}

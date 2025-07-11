@@ -1,0 +1,15 @@
+SCR_AIGroup : "{05CC77E539FE3536}Prefabs/Groups/INDFOR/TGK/DRG_Group_TGK_LigthRifleSquad.et" {
+ ID "0000000000000001"
+ components {
+  PS_GroupCallsignAssigner "{65154C1E6C2E8928}" {
+   m_iCompanyCallsign 1
+  }
+ }
+ coords 1970.815 2.316 2947.133
+ angleY -85.704
+ m_faction "Drg_VCA"
+ m_aUnitPrefabSlots {
+  "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" "" ""
+ }
+ m_sCustomNameSet "#DRG_Sqd_RaidGroup"
+}

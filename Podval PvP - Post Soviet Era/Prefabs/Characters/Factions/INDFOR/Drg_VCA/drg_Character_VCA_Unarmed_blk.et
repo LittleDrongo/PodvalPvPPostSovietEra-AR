@@ -1,0 +1,18 @@
+SCR_ChimeraCharacter : "{E991B0C76B6BDCD7}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Jacket {
+     Prefab "{55AFB5F8B0C23374}Prefabs/Characters/Uniforms/Jacket_M88_vietnam_blk.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{75297D1CED46CE60}Prefabs/Characters/Uniforms/Pants_M88_vietnam_blk.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{95E30DDE2495E6B0}Prefabs/Characters/Vests/Vest_Type56/Vest_Type56_base_vietnam_blk.et"
+    }
+   }
+  }
+ }
+}

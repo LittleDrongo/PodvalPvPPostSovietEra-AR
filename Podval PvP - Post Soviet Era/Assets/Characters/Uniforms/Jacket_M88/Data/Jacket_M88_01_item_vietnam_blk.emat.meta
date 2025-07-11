@@ -1,0 +1,19 @@
+MetaFileClass {
+ Name "{18C25D5F4732B4B9}Assets/Characters/Uniforms/Jacket_M88/Data/Jacket_M88_01_item_vietnam_blk.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+  EMATResourceClass Xbox : PC {
+  }
+ }
+}
