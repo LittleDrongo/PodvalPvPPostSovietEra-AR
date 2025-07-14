@@ -1,9 +1,0 @@
-MatPBRMulti {
- VFXMap "{CFBE7A0BE510550A}Assets/Characters/Uniforms/Jacket_Pilot_USSR_01/Data/Jacket_Pilot_USSR_VFX.edds"
- DirtUserOpacity 1
- DirtOpacity 3
- DirtRoughness 1
- DirtBCRMap "{F7AA57F5436F6437}Assets/Characters/Uniforms/Jacket_Pilot_USSR_01/Data/Jacket_Pilot_USSR_01_Wound_BCR.edds"
- BCR_1 "{3CC4166A53A1CA7D}dubok_cdf_jacket.edds"
- NMO_1 "{C1CE405E77902D1D}Assets/Characters/Uniforms/Jacket_Pilot_USSR_01/Data/Jacket_Pilot_USSR_01_NMO.edds"
-}

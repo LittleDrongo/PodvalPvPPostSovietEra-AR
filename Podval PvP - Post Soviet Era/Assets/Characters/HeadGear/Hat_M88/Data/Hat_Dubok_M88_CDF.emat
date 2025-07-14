@@ -1,9 +1,0 @@
-MatPBRBasic {
- SurfaceProperties "{CE9253778DD8FBDE}Common/Materials/Game/metal.gamemat"
- AllowUserAlphaBias 1
- DisableUserAphaInShadow 1
- CavityFromAO 0.853
- BCRMap "{224500A6D8271F65}Assets/Characters/Uniforms/DubokAssets/hat_Dubok_cdf.edds"
- OpacityMap "{70A53F4EA373F142}Assets/Characters/Basebody/Data/HeadClipping_A.edds"
- NMOMap "{6C2BEEF547A4FEAC}Assets/Characters/HeadGear/Hat_M88/Data/Hat_M88_02_NMO.edds"
-}

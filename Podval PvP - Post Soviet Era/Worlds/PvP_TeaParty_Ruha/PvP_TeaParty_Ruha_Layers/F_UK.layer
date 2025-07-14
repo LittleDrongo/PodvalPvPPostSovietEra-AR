@@ -1,0 +1,273 @@
+$grp SCR_AIGroup : "{0E84EF3D585F1560}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_InfantrySection.et" {
+ UK_0_0_0 {
+  coords 6906.254 62.125 4917.767
+  angleY 115.374
+  m_aUnitPrefabSlots {
+   "{D21D1064AC476000}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_CL.et"
+  }
+  m_sCustomNameSet "#DRG-Sq-CompanyHQ"
+ }
+ UK_1_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{6574F439E9435B4D}" {
+    m_iCompanyCallsign 1
+   }
+  }
+  coords 6911.895 62.125 4930.848
+  angleY 114.364
+ }
+ UK_1_0_1 {
+  components {
+   PS_GroupCallsignAssigner "{6574F439E9435B4D}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 1
+   }
+  }
+  coords 6916.282 62.156 4941.57
+  angleY 113.668
+ }
+ UK_1_0_2 {
+  components {
+   PS_GroupCallsignAssigner "{6574F439E9435B4D}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 6920.61 62.188 4951.912
+  angleY 113.204
+ }
+ UK_1_0_3 {
+  components {
+   PS_GroupCallsignAssigner "{6574F439E9435B4D}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 6924.656 62.25 4961.479
+  angleY 113.792
+  m_aUnitPrefabSlots {
+   "{2C99DC921215206A}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SL.et" "{FDCDFF7A3B3D4211}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SMAW.et" "{446115906D56CBDA}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_MAW_Assist.et" "{446115906D56CBDA}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_MAW_Assist.et" "{FDCDFF7A3B3D4211}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SMAW.et" "{446115906D56CBDA}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_MAW_Assist.et" "{FDCDFF7A3B3D4211}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SMAW.et"
+  }
+  m_sCustomNameSet "#DRG_Sqd_AT"
+ }
+ UK_2_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{6574F439E9435B4D}" {
+    m_iCompanyCallsign 2
+   }
+  }
+  coords 6945.55 62.344 5013.665
+  angleY 113.335
+ }
+ UK_2_0_1 {
+  components {
+   PS_GroupCallsignAssigner "{6574F439E9435B4D}" {
+    m_iCompanyCallsign 2
+    m_iSquadCallsign 1
+   }
+  }
+  coords 6949.785 62.344 5023.646
+  angleY 113.343
+ }
+ UK_2_0_2 {
+  components {
+   PS_GroupCallsignAssigner "{6574F439E9435B4D}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 2
+   }
+  }
+  coords 6954.844 62.375 5036.169
+  angleY 113.204
+ }
+ UK_2_0_3 {
+  components {
+   PS_GroupCallsignAssigner "{6574F439E9435B4D}" {
+    m_iCompanyCallsign 1
+    m_iSquadCallsign 3
+   }
+  }
+  coords 6958.775 62.406 5046.106
+  angleY 110.76
+  m_aUnitPrefabSlots {
+   "{2C99DC921215206A}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SL.et" "{FDCDFF7A3B3D4211}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SMAW.et" "{446115906D56CBDA}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_MAW_Assist.et" "{446115906D56CBDA}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_MAW_Assist.et" "{FDCDFF7A3B3D4211}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SMAW.et" "{446115906D56CBDA}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_MAW_Assist.et" "{FDCDFF7A3B3D4211}Prefabs/Characters/Factions/BLUFOR/UK_Army/Army/drg_Character_UK_Army_SMAW.et"
+  }
+  m_sCustomNameSet "#DRG_Sqd_AT"
+ }
+}
+$grp SCR_AIGroup : "{88827B912FA33559}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_SAS.et" {
+ UK_3_0_0 {
+  components {
+   PS_GroupCallsignAssigner "{6575082F14F9CEB8}" {
+    m_iCompanyCallsign 3
+   }
+  }
+  coords 6985.135 62.531 5115.521
+  angleY 110.821
+  m_aUnitPrefabSlots {
+   "{72BCF7A2CD99344E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_SquadLeader.et" "{6991FAEB35D21165}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Recon_2.et" "{404E4DF1D42FF62C}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_SeniorRecon.et" "{28924C323A5EA49E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Sapper.et"
+  }
+  m_sCustomNameSet "#DRG-Sq-ReconSquad"
+ }
+ UK_3_0_1 {
+  components {
+   PS_GroupCallsignAssigner "{6575082F14F9CEB8}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 1
+   }
+  }
+  coords 6989.146 62.531 5126.211
+  angleY 110.113
+  m_aUnitPrefabSlots {
+   "{72BCF7A2CD99344E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_SquadLeader.et" "{6991FAEB35D21165}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Recon_2.et" "{404E4DF1D42FF62C}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_SeniorRecon.et" "{28924C323A5EA49E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Sapper.et"
+  }
+  m_sCustomNameSet "#DRG-Sq-ReconSquad"
+ }
+ UK_3_0_2 {
+  components {
+   PS_GroupCallsignAssigner "{6575082F14F9CEB8}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 2
+   }
+  }
+  coords 6993.082 62.563 5136.823
+  angleY 109.848
+  m_aUnitPrefabSlots {
+   "{72BCF7A2CD99344E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_SquadLeader.et" "{6991FAEB35D21165}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Recon_2.et" "{404E4DF1D42FF62C}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_SeniorRecon.et" "{28924C323A5EA49E}Prefabs/Characters/Factions/BLUFOR/UK_Army/SAS/drg_Character_UK_SAS_Sapper.et"
+  }
+  m_sCustomNameSet "#DRG-Sq-ReconSquad"
+ }
+}
+$grp Vehicle : "{9B8FC88897DB630F}Prefabs/Vehicles/Wheeled/LR_3Series/3Series_LWB_Recce_Variant_2.et" {
+ _Series_LWB_Recce_Variant_1 {
+  coords 6989.347 62.531 5111.839
+  angleY -158.758
+  m_sAttachmentGroupName "UK_3_0_0"
+ }
+ _Series_LWB_Recce_Variant_2 {
+  coords 6993.068 62.543 5122.787
+  angleX -0.834
+  angleY -158.753
+  angleZ -0.324
+  m_sAttachmentGroupName "UK_3_0_1"
+ }
+ _Series_LWB_Recce_Variant_3 {
+  coords 6996.726 62.562 5133.273
+  angleY -158.758
+  m_sAttachmentGroupName "UK_3_0_2"
+ }
+}
+Vehicle M923A1_command_UK1 : "{B9540BEB76268B95}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command_UK.et" {
+ coords 6908.894 62.125 4912.531
+ angleY -159.513
+ m_sAttachmentGroupName "UK_0_0_0"
+}
+$grp GenericEntity : "{C1B83AC7D67F42C6}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_Explosive_UK.et" {
+ {
+  coords 6960.105 62.406 5045.358
+  angleY 113.013
+ }
+ {
+  coords 6959.537 62.406 5044.021
+  angleY 113.013
+ }
+ {
+  coords 6954.039 62.375 5031.309
+  angleY 113.013
+ }
+ {
+  coords 6953.47 62.375 5029.972
+  angleY 113.013
+ }
+ {
+  coords 6948.721 62.344 5018.041
+  angleY 113.013
+ }
+ {
+  coords 6948.152 62.344 5016.704
+  angleY 113.013
+ }
+ {
+  coords 6946.306 62.344 5012.797
+  angleY 113.013
+ }
+ {
+  coords 6945.737 62.344 5011.46
+  angleY 113.013
+ }
+ {
+  coords 6925.215 62.219 4960.899
+  angleY 113.013
+ }
+ {
+  coords 6924.646 62.219 4959.562
+  angleY 113.013
+ }
+ {
+  coords 6921.165 62.187 4951.015
+  angleY 113.013
+ }
+ {
+  coords 6920.596 62.187 4949.678
+  angleY 113.013
+ }
+ {
+  coords 6916.553 62.157 4940.576
+  angleY 113.013
+ }
+ {
+  coords 6915.984 62.157 4939.239
+  angleY 113.013
+ }
+ {
+  coords 6912.204 62.156 4929.702
+  angleY 113.013
+ }
+ {
+  coords 6911.635 62.156 4928.365
+  angleY 113.013
+ }
+}
+$grp Vehicle : "{F9FD7E24B28538EE}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered_UK.et" {
+ M923A1_transport_covered_UK1 {
+  coords 6961.263 62.406 5040.875
+  angleY -157.601
+  m_sAttachmentGroupName "UK_2_0_3"
+ }
+ M923A1_transport_covered_UK2 {
+  coords 6957.052 62.375 5030.184
+  angleY -159.136
+  m_sAttachmentGroupName "UK_2_0_2"
+ }
+ M923A1_transport_covered_UK3 {
+  coords 6952.474 62.344 5019.636
+  angleY -157.278
+  m_sAttachmentGroupName "UK_2_0_1"
+ }
+ M923A1_transport_covered_UK4 {
+  coords 6948.177 62.312 5008.725
+  angleY -157.278
+  m_sAttachmentGroupName "UK_2_0_0"
+ }
+ M923A1_transport_covered_UK5 {
+  coords 6926.868 62.218 4956.994
+  angleY -157.278
+  m_sAttachmentGroupName "UK_1_0_3"
+ }
+ M923A1_transport_covered_UK6 {
+  coords 6913.584 62.133 4924.927
+  angleX -1.171
+  angleY -157.288
+  angleZ 0.48
+  m_sAttachmentGroupName "UK_1_0_0"
+ }
+ M923A1_transport_covered_UK7 {
+  coords 6917.882 62.156 4935.839
+  angleY -157.278
+  m_sAttachmentGroupName "UK_1_0_1"
+ }
+ M923A1_transport_covered_UK8 {
+  coords 6922.458 62.187 4946.385
+  angleY -155.805
+  m_sAttachmentGroupName "UK_1_0_2"
+ }
+}

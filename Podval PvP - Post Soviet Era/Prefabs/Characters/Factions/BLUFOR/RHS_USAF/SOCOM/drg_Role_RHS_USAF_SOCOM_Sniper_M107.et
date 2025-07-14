@@ -43,7 +43,7 @@ SCR_ChimeraCharacter : "{9FBBBCD632861C8A}Prefabs/Characters/Factions/BLUFOR/RHS
      }
     }
     ItemsInitConfigurationItem "{656688A2F47AE9F4}" {
-     TargetStorage "Jacket/ACU_jacket_UCP.et"
+     TargetStorage "Jacket/Crye_shirt_MC.et"
      PrefabsToSpawn {
       "{1EC2D6189AD265BF}Prefabs/Items/Equipment/RangeCard/RangeCard_M107.et"
      }

@@ -1,9 +1,0 @@
-MatPBRBasic {
- AllowUserAlphaBias 1
- DisableUserAphaInShadow 1
- RoughnessScale 1.549
- MetalnessScale 0.14
- BCRMap "{ACAB2734C4555A8A}Assets/rice_hat/Assets/textures/rice_hat_BCR.edds"
- NormalPower 0.909
- NMOMap "{94739CA61D220814}Assets/rice_hat/Assets/textures/rice_hat_NMO.edds"
-}

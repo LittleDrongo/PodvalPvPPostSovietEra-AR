@@ -1,7 +1,0 @@
-MatPBRBasic {
- Color 0.216 0.216 0.216 1
- Diffuse 0 0.041 0.165 1
- CavityFromAO 1
- BCRMap "{3277CD1C741DE956}Assets/Items/Equipment/Backpacks/Backpack_Kolobok/Data/Backpack_Kolobok_BCR.edds"
- NMOMap "{0AAF768EAD6ABBC8}Assets/Items/Equipment/Backpacks/Backpack_Kolobok/Data/Backpack_Kolobok_NMO.edds"
-}
