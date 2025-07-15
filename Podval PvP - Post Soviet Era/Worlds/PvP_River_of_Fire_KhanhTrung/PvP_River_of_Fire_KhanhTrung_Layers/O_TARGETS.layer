@@ -61,6 +61,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
   {
    $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
     marker_all {
+     components {
+      MeshObject "{5EE4C890ECDDE8C5}" {
+       Enabled 0
+      }
+     }
      coords 0 0 0
      angleX -21.566
      angleY 70.114
@@ -77,6 +82,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
      m_bShowForAnyFaction 1
     }
     marker_specators {
+     components {
+      MeshObject "{5EE4C890ECDDE8C5}" {
+       Enabled 0
+      }
+     }
      coords 0 0 0
      angleX -1.667
      angleY 48.435
@@ -101,6 +111,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
   {
    $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
     marker_all2 {
+     components {
+      MeshObject "{5EE4C890ECDDE8C5}" {
+       Enabled 0
+      }
+     }
      coords 0 0 0
      angleX -21.566
      angleY 70.114
@@ -117,6 +132,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
      m_bShowForAnyFaction 1
     }
     marker_specators2 {
+     components {
+      MeshObject "{5EE4C890ECDDE8C5}" {
+       Enabled 0
+      }
+     }
      coords 0 0 0
      angleX -1.667
      angleY 48.435
@@ -141,6 +161,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
   {
    $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
     marker_all3 {
+     components {
+      MeshObject "{5EE4C890ECDDE8C5}" {
+       Enabled 0
+      }
+     }
      coords 0 0 0
      angleX -21.566
      angleY 70.114
@@ -157,6 +182,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
      m_bShowForAnyFaction 1
     }
     marker_specators3 {
+     components {
+      MeshObject "{5EE4C890ECDDE8C5}" {
+       Enabled 0
+      }
+     }
      coords 0 0 0
      angleX -1.667
      angleY 48.435
