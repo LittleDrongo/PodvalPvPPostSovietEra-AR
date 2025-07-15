@@ -32,8 +32,8 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
   }
   coords 2023.646 62.553 1447.503
   m_fWarnRadius 20
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 60
+  m_fZoneRadius 25
+  m_fZoneTeleportedRadius 30
   {
    GenericEntity {
     ID "59D673B36B893D84"
@@ -56,8 +56,8 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
   }
   coords 1951.19 26.59 1342.13
   m_fWarnRadius 20
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 60
+  m_fZoneRadius 25
+  m_fZoneTeleportedRadius 30
   {
    GenericEntity {
     ID "59D673B36B893D84"
@@ -80,8 +80,8 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
   }
   coords 2085.81 60.053 1525.604
   m_fWarnRadius 20
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 60
+  m_fZoneRadius 25
+  m_fZoneTeleportedRadius 30
   {
    GenericEntity {
     ID "59D673B36B893D84"
@@ -104,8 +104,8 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
   }
   coords 2183.066 22.6 1686.425
   m_fWarnRadius 20
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 60
+  m_fZoneRadius 25
+  m_fZoneTeleportedRadius 30
   {
    GenericEntity {
     ID "59D673B36B893D84"
@@ -128,8 +128,8 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
   }
   coords 2139.813 53.156 1613.787
   m_fWarnRadius 20
-  m_fZoneRadius 50
-  m_fZoneTeleportedRadius 60
+  m_fZoneRadius 25
+  m_fZoneTeleportedRadius 30
   {
    GenericEntity {
     ID "59D673B36B893D84"

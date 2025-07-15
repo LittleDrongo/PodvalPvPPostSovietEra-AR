@@ -28,9 +28,3 @@ GenericEntity : "{C468AE301638D4B6}PrefabLibrary/Props/Military/ObstacleLadder_0
  angleY -88.922
  angleZ 1.853
 }
-GenericEntity : "{CDD0712FD6215F04}Prefabs/Compositions/Slotted/SlotFlatMedium/FieldHospital_M_US_01.et" {
- coords 1142.702 89.848 1851.976
- angleX -5.61
- angleY -77.803
- angleZ 0.612
-}

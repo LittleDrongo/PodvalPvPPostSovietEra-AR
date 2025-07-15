@@ -9,7 +9,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 8
     m_bReversed 1
     m_aVisibleForFactions {
-     "Drg_PIR" "RHS_USAF" ""
+     "Drg_VCA" "US" ""
     }
    }
   }
@@ -177,7 +177,7 @@ $grp PolylineShapeEntity {
     m_fPolygonBorderWidth 8
     m_bLineMode 1
     m_aVisibleForFactions {
-     "Drg_PIR" "RHS_USAF" ""
+     "Drg_VCA" "US" ""
     }
    }
   }
@@ -213,7 +213,7 @@ $grp PolylineShapeEntity {
     m_cPolygonBorderColor 0 0.125 0.502 0
     m_fPolygonBorderWidth 8
     m_aVisibleForFactions {
-     "Drg_PIR" "RHS_USAF" ""
+     "Drg_VCA" "US" ""
     }
    }
   }
@@ -276,7 +276,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 40
     }
     m_bReversed 1
-    m_sFactionKey "RHS_USAF"
+    m_sFactionKey "US"
    }
   }
  }
