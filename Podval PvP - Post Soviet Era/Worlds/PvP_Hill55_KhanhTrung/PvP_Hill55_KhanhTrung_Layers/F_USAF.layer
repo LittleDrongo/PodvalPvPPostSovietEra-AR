@@ -45,9 +45,9 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
    }
   }
   coords 1184.068 88.994 1860.755
-  angleX 10.874
-  angleY 97.721
-  angleZ -1.196
+  angleX -0.85
+  angleY 97.873
+  angleZ -0.735
   m_faction "US"
   m_aUnitPrefabSlots {
    "{D6CC48884C7B221A}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_MG.et" "{74FE14DCCAE467DD}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_MGAB.et" "{852AE111B73A8B86}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_MGA.et"

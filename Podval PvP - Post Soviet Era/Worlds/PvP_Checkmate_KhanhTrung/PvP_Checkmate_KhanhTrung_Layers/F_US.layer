@@ -251,7 +251,7 @@ $grp SCR_AIGroup : "{8D21AAF73F41E8F6}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_Ri
   angleY 167.822
   angleZ -4.177
   m_aUnitPrefabSlots {
-   "{318BD8D29F92DF2E}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_TL_V.et" "{2C3E11CA45CC467B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_Rifleman_V.et" "{D6CC48884C7B221A}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_MG.et"
+   "{5C73FF535BBD28A5}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_AT.et" "{7F3BCC8438C56F1F}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_AAT.et" "{7F3BCC8438C56F1F}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_AAT.et"
   }
  }
  US_2_0_1 {

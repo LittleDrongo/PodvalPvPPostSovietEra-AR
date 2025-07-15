@@ -177,7 +177,7 @@ $grp PolylineShapeEntity {
     m_polyZoneEffect PS_PolyZoneEffectFreezeZone "{651EC8D4820DBCB8}" {
      m_fKillTime 30
     }
-    m_sFactionKey "Drg_PIR"
+    m_sFactionKey "Drg_VCA"
    }
   }
  }
@@ -225,7 +225,7 @@ $grp PolylineShapeEntity {
     Position 1423.871 -29.497 644.314
    }
    ShapePoint "{651ED1F38BE9DD31}" {
-    Position 1414.136 -0 249.65
+    Position 1414.136 0 249.65
    }
    ShapePoint "{651EC8D502E99322}" {
     Position 1302.28 0 4.845
@@ -259,7 +259,7 @@ $grp PolylineShapeEntity {
      m_fKillTime 30
     }
     m_bReversed 1
-    m_sFactionKey "Drg_PIR"
+    m_sFactionKey "Drg_VCA"
    }
   }
  }
