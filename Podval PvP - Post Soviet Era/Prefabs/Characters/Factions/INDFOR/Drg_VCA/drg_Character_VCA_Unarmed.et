@@ -12,6 +12,11 @@ SCR_ChimeraCharacter : "{854C04F0EA2129CC}Prefabs/Characters/Factions/INDFOR/FIA
     m_sFaction "Drg_VCA"
    }
   }
+  CharacterWeaponSlotComponent "{520EA1D2F659CFDC}" {
+   AttachType InventoryStorageSlot "{9113A68B4D97E2E6}" {
+   }
+   WeaponTemplate "{9237E1A3F22CF6ED}prefabs/machete/machete_wood.et"
+  }
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {

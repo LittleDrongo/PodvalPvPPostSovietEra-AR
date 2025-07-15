@@ -56,20 +56,26 @@ $grp Vehicle : "{3336BE330C4F355B}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_amm
 }
 $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_RPOA.et" {
  {
+  components {
+   WeaponComponent "{CFBAA4B706BA66E8}" {
+    components {
+     SCR_MuzzleInMagComponent "{50F65D04F21F7633}" {
+      MaxAmmo 0
+      InitialAmmo 0
+     }
+    }
+   }
+  }
   coords 1631.627 2.333 1747.977
   angleY -20.076
   {
    $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
     marker_all {
-     components {
-      MeshObject "{5EE4C890ECDDE8C5}" {
-       Enabled 0
-      }
-     }
-     coords 0 0 0
-     angleX -21.566
-     angleY 70.114
-     angleZ 89.697
+     coords 0.004 0.047 -0.328
+     angleX 0.812
+     angleY -1.036
+     angleZ 91.166
+     scale 0.11
      m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
      m_sImageSetGlow ""
      m_sQuadName "Task_Evac"
@@ -82,15 +88,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
      m_bShowForAnyFaction 1
     }
     marker_specators {
-     components {
-      MeshObject "{5EE4C890ECDDE8C5}" {
-       Enabled 0
-      }
-     }
-     coords 0 0 0
-     angleX -1.667
-     angleY 48.435
-     angleZ -179.948
+     coords 0.004 0.047 -0.328
+     angleX 0.812
+     angleY -1.036
+     angleZ 91.166
+     scale 0.11
      m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
      m_sImageSetGlow ""
      m_sQuadName "Task_Evac"
@@ -106,20 +108,26 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
   }
  }
  {
-  coords 1662.867 3.531 1754.422
-  angleY -1.092
+  components {
+   WeaponComponent "{CFBAA4B706BA66E8}" {
+    components {
+     SCR_MuzzleInMagComponent "{50F65D04F21F7633}" {
+      MaxAmmo 0
+      InitialAmmo 0
+     }
+    }
+   }
+  }
+  coords 1662.772 3.531 1754.406
+  angleY -7.059
   {
    $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
     marker_all2 {
-     components {
-      MeshObject "{5EE4C890ECDDE8C5}" {
-       Enabled 0
-      }
-     }
-     coords 0 0 0
-     angleX -21.566
-     angleY 70.114
-     angleZ 89.697
+     coords 0.004 0.047 -0.328
+     angleX 0.812
+     angleY -1.036
+     angleZ 91.166
+     scale 0.11
      m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
      m_sImageSetGlow ""
      m_sQuadName "Task_Evac"
@@ -132,15 +140,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
      m_bShowForAnyFaction 1
     }
     marker_specators2 {
-     components {
-      MeshObject "{5EE4C890ECDDE8C5}" {
-       Enabled 0
-      }
-     }
-     coords 0 0 0
-     angleX -1.667
-     angleY 48.435
-     angleZ -179.948
+     coords 0.004 0.047 -0.328
+     angleX 0.812
+     angleY -1.036
+     angleZ 91.166
+     scale 0.11
      m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
      m_sImageSetGlow ""
      m_sQuadName "Task_Evac"
@@ -156,20 +160,26 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
   }
  }
  {
-  coords 1666.22 2.802 1753.646
-  angleY -4.138
+  components {
+   WeaponComponent "{CFBAA4B706BA66E8}" {
+    components {
+     SCR_MuzzleInMagComponent "{50F65D04F21F7633}" {
+      MaxAmmo 0
+      InitialAmmo 0
+     }
+    }
+   }
+  }
+  coords 1666.19 2.802 1753.874
+  angleY -7.799
   {
    $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
     marker_all3 {
-     components {
-      MeshObject "{5EE4C890ECDDE8C5}" {
-       Enabled 0
-      }
-     }
-     coords 0 0 0
-     angleX -21.566
-     angleY 70.114
-     angleZ 89.697
+     coords 0.004 0.047 -0.328
+     angleX 0.812
+     angleY -1.036
+     angleZ 91.166
+     scale 0.11
      m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
      m_sImageSetGlow ""
      m_sQuadName "Task_Evac"
@@ -182,15 +192,11 @@ $grp GenericEntity : "{3F38EE51E904AE5B}Prefabs/Weapons/Launchers/RPOA/Launcher_
      m_bShowForAnyFaction 1
     }
     marker_specators3 {
-     components {
-      MeshObject "{5EE4C890ECDDE8C5}" {
-       Enabled 0
-      }
-     }
-     coords 0 0 0
-     angleX -1.667
-     angleY 48.435
-     angleZ -179.948
+     coords 0.004 0.047 -0.328
+     angleX 0.812
+     angleY -1.036
+     angleZ 91.166
+     scale 0.11
      m_sImageSet "{C3F217CA9CF060B4}UI/Imagesets/Conflict/ConflictIconsSet.imageset"
      m_sImageSetGlow ""
      m_sQuadName "Task_Evac"

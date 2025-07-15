@@ -29,3 +29,6 @@ GenericEntity : "{E07B25D9851B3AAA}Prefabs/Items/Equipment/Radios/drg_VCA_Radio_
 GenericEntity : "{E5E8A9347B1D8381}Prefabs/Items/Equipment/Radios/drg_VCA_Radio_R107M_PL.et" {
  coords 119.319 1 237.448
 }
+SCR_ChimeraCharacter : "{E991B0C76B6BDCD7}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed.et" {
+ coords 130.487 1 251.298
+}
