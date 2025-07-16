@@ -1,10 +1,7 @@
 SCR_AIGroup : "{267668529664A418}Prefabs/Groups/INDFOR/Drg_VCA/drg_VCA_Showcase.et" {
- coords 126.561 1 247.972
+ coords 128.386 1 241.674
  angleY 0
 }
 Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" {
  coords 100.671 0 228.242
-}
-SCR_ChimeraCharacter : "{E991B0C76B6BDCD7}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed.et" {
- coords 130.487 1 251.298
 }

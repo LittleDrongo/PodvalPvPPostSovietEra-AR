@@ -1,15 +1,3 @@
-GameEntity : "{2E673D7681977A8B}Prefabs/Characters/Uniforms/Jacket_M88_vietnam.et" {
- coords 129.8 1 251.329
-}
-GameEntity : "{5B18E767115F3671}Prefabs/Characters/Uniforms/Jacket_M88_rolledup_vietnam.et" {
- coords 129.104 1 252.046
-}
-GameEntity : "{83E9A61C52A99AB4}Prefabs/Characters/Uniforms/Pants_M88_vietnam.et" {
- coords 129.696 1 252.193
-}
-GameEntity : "{C8BD892538B20D82}Prefabs/Characters/HeadGear/Hat_Boonie_US_01/Hat_Boonie_US_02_vietnam.et" {
- coords 128.736 1 248.789
-}
 SCR_AIGroup : "{CD846FA46575E036}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_ShowCase_Vietnam.et" {
  coords 115.648 1 209.404
  m_aUnitPrefabSlots {

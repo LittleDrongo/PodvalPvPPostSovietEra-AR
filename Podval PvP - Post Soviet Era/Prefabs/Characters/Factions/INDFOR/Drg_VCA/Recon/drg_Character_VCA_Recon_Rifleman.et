@@ -3,6 +3,9 @@ SCR_ChimeraCharacter : "{AFD656F1D9ACD98F}Prefabs/Characters/Factions/INDFOR/Drg
  components {
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{3292BA8429AE5743}Prefabs/Characters/HeadGear/RiceHat/Rice_hat_v2.et"
+    }
     LoadoutSlotInfo Jacket {
      Prefab "{713F95071786AC64}Prefabs/Characters/Uniforms/Jacket_M88_rolledup_vietnam_blk.et"
     }

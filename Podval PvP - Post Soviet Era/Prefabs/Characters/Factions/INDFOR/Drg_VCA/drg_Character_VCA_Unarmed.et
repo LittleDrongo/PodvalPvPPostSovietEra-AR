@@ -20,7 +20,7 @@ SCR_ChimeraCharacter : "{854C04F0EA2129CC}Prefabs/Characters/Factions/INDFOR/FIA
   BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
    Slots {
     LoadoutSlotInfo Hat {
-     Prefab "{3292BA8429AE5743}Prefabs/Characters/HeadGear/RiceHat/Rice_hat_v2.et"
+     Prefab "{6B1886AD7C324E3D}Prefabs/Characters/HeadGear/VietCong_Pitch/Viet_helmet.et"
     }
     LoadoutSlotInfo Jacket {
      Prefab "{2E673D7681977A8B}Prefabs/Characters/Uniforms/Jacket_M88_vietnam.et"
