@@ -1,33 +1,9 @@
-GenericEntity : "{1767D6A5BAFCB460}Prefabs/Items/Equipment/Radios/drg_VCA_Radio_R148_rprv.et" {
- coords 117.009 1 236.314
-}
 SCR_AIGroup : "{267668529664A418}Prefabs/Groups/INDFOR/Drg_VCA/drg_VCA_Showcase.et" {
  coords 126.561 1 247.972
  angleY 0
 }
-GenericEntity : "{568BE55E4E68C1EE}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC77_CDF.et" {
- coords 117.889 1 242.97
-}
-GenericEntity : "{73950FBA2D7DB5C5}Prefabs/Items/Equipment/Radios/Radio_ANPRC68.et" {
- coords 115.381 1 242.743
-}
-SCR_ChimeraCharacter : "{A0FFE636D44E5918}Prefabs/Characters/Factions/BLUFOR/CDF_Army/Character_CDF_AAT.et" {
- coords 113.62 1 243.219
-}
 Tree : "{A5DE58FC9FB6BA60}Prefabs/Vegetation/Bush/b_corylus_avellana_2.et" {
  coords 100.671 0 228.242
-}
-GenericEntity : "{CCEEA6BC6177C51F}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC152A_OLD_SL_CDF.et" {
- coords 118.982 1 243.114
-}
-GenericEntity : "{E00E9B150D0DC4B3}Prefabs/Items/Equipment/Radios/drg_Radio_ANPRC68_prv_CDF.et" {
- coords 118.433 1 242.984
-}
-GenericEntity : "{E07B25D9851B3AAA}Prefabs/Items/Equipment/Radios/drg_VCA_Radio_R148_SL.et" {
- coords 114.672 1 236.194
-}
-GenericEntity : "{E5E8A9347B1D8381}Prefabs/Items/Equipment/Radios/drg_VCA_Radio_R107M_PL.et" {
- coords 119.319 1 237.448
 }
 SCR_ChimeraCharacter : "{E991B0C76B6BDCD7}Prefabs/Characters/Factions/INDFOR/Drg_VCA/drg_Character_VCA_Unarmed.et" {
  coords 130.487 1 251.298

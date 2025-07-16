@@ -1,57 +1,18 @@
-$grp Projectile : "{4D44C563104F77BB}Prefabs/Weapons/Ammo/BC_Ammo_Rocket_M37A1.et" {
- {
-  coords 123.011 1 228.499
- }
- {
-  coords 123.312 1 228.499
- }
- {
-  coords 123.522 1 228.499
- }
+GameEntity : "{2E673D7681977A8B}Prefabs/Characters/Uniforms/Jacket_M88_vietnam.et" {
+ coords 129.8 1 251.329
 }
-$grp Projectile : "{5971423B21CB6C16}Prefabs/Weapons/Ammo/BC_Ammo_Rocket_M590E1_Flechette_50_250.et" {
- {
-  coords 123.912 1 229.665
- }
- {
-  coords 123.996 1 229.665
- }
- {
-  coords 124.077 1 229.665
- }
- {
-  coords 124.15 1 229.665
- }
- {
-  coords 124.15 1 229.665
- }
+GameEntity : "{5B18E767115F3671}Prefabs/Characters/Uniforms/Jacket_M88_rolledup_vietnam.et" {
+ coords 129.104 1 252.046
 }
-SCR_ChimeraCharacter : "{5C73FF535BBD28A5}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_AT.et" {
- coords 123.138 1 226.304
+GameEntity : "{83E9A61C52A99AB4}Prefabs/Characters/Uniforms/Pants_M88_vietnam.et" {
+ coords 129.696 1 252.193
 }
-SCR_ChimeraCharacter : "{704DDE140D57A57A}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_PL.et" {
- coords 124.241 1 225.387
-}
-$grp SCR_ChimeraCharacter : "{7F3BCC8438C56F1F}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_AAT.et" {
- {
-  coords 125.517 1 228.877
- }
- {
-  coords 124.467 1 232.843
- }
-}
-SCR_ChimeraCharacter : "{890EE8B3D5835FD3}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_GL.et" {
- coords 123.355 1 224.173
-}
-GenericEntity : "{A6ACF0C81DCC2390}Prefabs/Weapons/Launchers/M67/BC_Launcher_M67.et" {
- coords 122.898 1 227.426
+GameEntity : "{C8BD892538B20D82}Prefabs/Characters/HeadGear/Hat_Boonie_US_01/Hat_Boonie_US_02_vietnam.et" {
+ coords 128.736 1 248.789
 }
 SCR_AIGroup : "{CD846FA46575E036}Prefabs/Groups/BLUFOR/Campaign/F_US_drg_ShowCase_Vietnam.et" {
  coords 115.648 1 209.404
  m_aUnitPrefabSlots {
   "{2C3E11CA45CC467B}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_Rifleman_V.et" "{318BD8D29F92DF2E}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_TL_V.et" "{E953678D10B094EA}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_SL.et" "{890EE8B3D5835FD3}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_GL.et" "{704DDE140D57A57A}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_PL.et" "{17D7AB7BAEE2D480}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_CL.et" "{5C73FF535BBD28A5}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_AT.et" "{7F3BCC8438C56F1F}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_AAT.et" "{D6CC48884C7B221A}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_MG.et" "{74FE14DCCAE467DD}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_MGAB.et" "{852AE111B73A8B86}Prefabs/Characters/Factions/BLUFOR/US_Army/Dev/Viet/drg_Character_US_MGA.et" "" "" "" "" ""
  }
-}
-SCR_ChimeraCharacter : "{D25BC9815A9F9E8D}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AT.et" {
- coords 121.32 1 228.059
 }
