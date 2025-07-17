@@ -402,31 +402,26 @@ $grp GenericEntity : "{8F17290FBF410605}Prefabs/Props/Military/AmmoBoxes/drg_Amm
     {
      coords 0.111 0.484 -0.08
      angleX -0.013
-     angleY 0
      angleZ -0.017
     }
     {
      coords 0.119 0.58 -0.085
      angleX -0.016
-     angleY 0
      angleZ -0.021
     }
     {
      coords 0.141 0.677 -0.101
      angleX -0.018
-     angleY 0
      angleZ -0.024
     }
     {
      coords 0.171 0.774 -0.123
      angleX -0.021
-     angleY 0
      angleZ -0.028
     }
     {
      coords 0.182 0.871 -0.131
      angleX -0.023
-     angleY 0
      angleZ -0.031
     }
    }
@@ -457,31 +452,26 @@ $grp GenericEntity : "{8F17290FBF410605}Prefabs/Props/Military/AmmoBoxes/drg_Amm
     {
      coords 0.111 0.484 -0.08
      angleX -0.013
-     angleY 0
      angleZ -0.017
     }
     {
      coords 0.119 0.58 -0.085
      angleX -0.016
-     angleY 0
      angleZ -0.021
     }
     {
      coords 0.141 0.677 -0.101
      angleX -0.018
-     angleY 0
      angleZ -0.024
     }
     {
      coords 0.171 0.774 -0.123
      angleX -0.021
-     angleY 0
      angleZ -0.028
     }
     {
      coords 0.182 0.871 -0.131
      angleX -0.023
-     angleY 0
      angleZ -0.031
     }
     {

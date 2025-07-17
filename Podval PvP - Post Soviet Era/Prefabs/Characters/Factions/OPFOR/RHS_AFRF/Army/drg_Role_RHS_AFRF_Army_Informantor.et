@@ -7,6 +7,12 @@ SCR_ChimeraCharacter : "{53A7932FD6BDDF63}Prefabs/Characters/Factions/OPFOR/RHS_
     Icon "{DCF0F63BF8F4B59B}UI/Icons/spotter.edds"
    }
   }
+  CharacterGrenadeSlotComponent "{520EA1D2F659CE6E}" {
+   WeaponTemplate ""
+  }
+  CharacterGrenadeSlotComponent "{5A6CDA0CCF43068E}" {
+   WeaponTemplate ""
+  }
   CharacterWeaponSlotComponent "{520EA1D2F659CFAB}" {
    WeaponTemplate ""
   }
