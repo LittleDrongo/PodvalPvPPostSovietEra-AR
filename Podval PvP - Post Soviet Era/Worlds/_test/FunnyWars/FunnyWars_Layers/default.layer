@@ -1,0 +1,173 @@
+SCR_DestructibleBuildingEntity : "{51F233A0BA73532A}Prefabs/Structures/Industrial/Houses/Office_E_01/Office_E_01.et" {
+ coords 4340.806 26.412 10238.367
+ angleY 81.553
+ scale 30
+ {
+  GenericEntity {
+   ID "56E4EDAF81F3384B"
+   coords 0 -0.011 0
+  }
+ }
+}
+SCR_DestructibleBuildingEntity : "{88044D117268E628}Prefabs/Structures/Military/Houses/Barracks_01/Barracks_01_military_yellow.et" {
+ coords 5051.758 10.881 8801.878
+ angleY -87.636
+ scale 30
+}
+SCR_DestructibleBuildingEntity : "{D645C54FF0E4D55E}Prefabs/Structures/Cultural/Churches/Church_01/Church_01_red.et" {
+ Flags 1027
+ coords 4774.501 30.833 11859.813
+ angleY 178.125
+ scale 30
+}
+$grp Tree : "{DA8942CAD83BA70C}Prefabs/Vegetation/Tree/t_betula_pendula/t_betula_pendula_3sw.et" {
+ {
+  Flags 3
+  coords 4842.39 25.759 10812.489
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4704.988 27.855 11136.54
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4388.597 32.872 11122.249
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4592.597 18.563 10728.952
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 5199.143 32.368 10980.158
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 5345.693 29.332 11507.791
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4905.39 49.963 9435.638
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 5415.598 26.346 9168.55
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4858.172 19.418 9868.239
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4792.742 19.996 10348.45
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4216.249 -0 9375.54
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4588.364 24.037 9551.687
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 3976.497 19.578 8912.995
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4389.484 39.058 8943.245
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4500.483 99.928 8265.329
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 3917.12 22.042 7833.684
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 4166.253 63.397 8142.783
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+ {
+  Flags 3
+  coords 3815.478 1.47 8303.54
+  angleX -3.006
+  angleY 85.971
+  angleZ 0.191
+  scale 30
+ }
+}
+SCR_DestructibleBuildingEntity : "{FC4BFDB06DC30F3F}Prefabs/Structures/Services/Hotels/MountainHotel_01/MountainHotel_01_red.et" {
+ coords 5523.543 61.197 10079.204
+ angleY 92.844
+ scale 30
+}
