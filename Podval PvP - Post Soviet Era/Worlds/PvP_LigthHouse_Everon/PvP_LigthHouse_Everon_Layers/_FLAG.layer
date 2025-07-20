@@ -12,6 +12,8 @@ GenericEntity : "{14B2D417839BF8A3}PrefabsEditable/Auto/Structures/Military/Flag
     }
    }
    m_sFactionKey "RHS_AFRF"
+   m_bUseAdvanceGameState 1
+   m_sUseNotification 1
   }
  }
  coords 11270.006 42.556 2743.543

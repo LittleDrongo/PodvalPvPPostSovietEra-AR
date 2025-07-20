@@ -2,6 +2,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
  {
   components {
    SCR_ZoneRestrictionAreaMeshComponent "{56D8A3C5A31496A1}" {
+    m_fHeight 2
     m_bFollowTerrain 1
    }
   }
@@ -14,6 +15,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
     ID "59D673B36B893D84"
     components {
      SCR_CustomAreaMeshComponent "{59D673B22B1EBC57}" {
+      m_fHeight 2
       m_bFollowTerrain 1
       m_fRadius 70
      }
@@ -24,6 +26,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
  {
   components {
    SCR_ZoneRestrictionAreaMeshComponent "{56D8A3C5A31496A1}" {
+    m_fHeight 2
     m_bFollowTerrain 1
    }
   }
@@ -36,6 +39,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
     ID "59D673B36B893D84"
     components {
      SCR_CustomAreaMeshComponent "{59D673B22B1EBC57}" {
+      m_fHeight 2
       m_bFollowTerrain 1
       m_fRadius 70
      }
@@ -46,6 +50,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
  {
   components {
    SCR_ZoneRestrictionAreaMeshComponent "{56D8A3C5A31496A1}" {
+    m_fHeight 2
     m_bFollowTerrain 1
    }
   }
@@ -58,6 +63,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
     ID "59D673B36B893D84"
     components {
      SCR_CustomAreaMeshComponent "{59D673B22B1EBC57}" {
+      m_fHeight 2
       m_bFollowTerrain 1
       m_fRadius 70
      }
@@ -68,6 +74,7 @@ $grp SCR_EditorRestrictionZoneEntity : "{EF72FA7CD87618D5}PrefabsEditable/Restri
  {
   components {
    SCR_ZoneRestrictionAreaMeshComponent "{56D8A3C5A31496A1}" {
+    m_fHeight 2
     m_bFollowTerrain 1
    }
   }

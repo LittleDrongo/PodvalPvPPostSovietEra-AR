@@ -2,7 +2,7 @@ $grp PolylineShapeEntity {
  {
   components {
    PS_PolyZone "{60D8FDC5692C09F4}" {
-    m_mPolygonTexture "{EFD007AC408C0533}UI/Textures/crossline_big.edds"
+    m_mPolygonTexture "{B072704FB1A499B7}UI/layouts/Textures/Grid6b.edds"
     m_cPolygonColor 0 0.067 0.25 1
     m_mPolygonTextureBorder ""
     m_cPolygonBorderColor 0 0.067 0.25 1
@@ -68,13 +68,13 @@ $grp PolylineShapeEntity {
     Position 2794.662 0 583.424
    }
    ShapePoint "{60D8FDC50A653C83}" {
-    Position 2590.145 0 -2347.511
+    Position 2738.575 0 -2626.97
    }
    ShapePoint "{60D8FDC5151B067F}" {
-    Position -9490.716 0 -2404.435
+    Position -9965.981 -0.087 -2646.385
    }
    ShapePoint "{60D8FDC5101F8654}" {
-    Position -9761.077 0 9727.394
+    Position -10023.251 10.148 10144.502
    }
    ShapePoint "{60D8FDC51D422792}" {
     Position -146.319 -396.474 10089.859
@@ -180,13 +180,13 @@ $grp PolylineShapeEntity {
     Position 2794.662 0 583.424
    }
    ShapePoint "{60D8FDC50A653C83}" {
-    Position 2590.145 0 -2347.511
+    Position 2738.333 0.001 -2627.206
    }
    ShapePoint "{60D8FDC5151B067F}" {
-    Position -9490.716 0 -2404.435
+    Position -9966.569 -0.184 -2645.678
    }
    ShapePoint "{60D8FDC5101F8654}" {
-    Position -9761.077 0 9727.394
+    Position -10025.748 10.434 10147.966
    }
    ShapePoint "{60D8FDC51D422792}" {
     Position -146.319 -396.474 10089.859
