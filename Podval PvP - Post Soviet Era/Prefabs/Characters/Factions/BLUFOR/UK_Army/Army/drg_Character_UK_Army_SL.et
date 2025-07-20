@@ -18,5 +18,14 @@ SCR_ChimeraCharacter : "{C660EA9094E2A3F4}Prefabs/Characters/Factions/BLUFOR/UK_
     Icon "{61B33057F7F0A4AE}UI/Icons/squad_leader.edds"
    }
   }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{6574E31835EFCC06}" {
+     PrefabsToSpawn {
+      "{97BE34E375896C8B}Prefabs/Items/Equipment/Radios/Radio_PRC349_SL.et"
+     }
+    }
+   }
+  }
  }
 }
