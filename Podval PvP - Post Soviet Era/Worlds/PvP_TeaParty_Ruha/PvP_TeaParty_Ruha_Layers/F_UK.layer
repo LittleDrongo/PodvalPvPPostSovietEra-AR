@@ -94,11 +94,6 @@ $grp SCR_AIGroup : "{0E84EF3D585F1560}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_Infa
   m_sCustomNameSet "#DRG_Sqd_AT"
  }
 }
-Vehicle M923A1_command1 : "{36BDCC88B17B3BFA}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command.et" {
- coords 6909.748 62.125 4915.204
- angleY -158.39
- m_sAttachmentGroupName "UK_0_0_0"
-}
 $grp Vehicle : "{81FDAD5EB644CC3D}Prefabs/Vehicles/Wheeled/M923A1/M923A1_transport_covered.et" {
  M923A1_transport_covered1 {
   coords 6913.683 62.143 4925.482
@@ -187,6 +182,11 @@ $grp SCR_AIGroup : "{88827B912FA33559}Prefabs/Groups/BLUFOR/UK/drg_Group_UK_SAS.
   }
   m_sCustomNameSet "#DRG-Sq-ReconSquad"
  }
+}
+Vehicle M923A1_command_UK2 : "{B9540BEB76268B95}Prefabs/Vehicles/Wheeled/M923A1/M923A1_command_UK.et" {
+ coords 6909.043 62.125 4914.415
+ angleY -159.217
+ m_sAttachmentGroupName "UK_0_0_0"
 }
 $grp GenericEntity : "{C1B83AC7D67F42C6}Prefabs/Props/Military/AmmoBoxes/drg_AmmoBox_Explosive_UK.et" {
  {

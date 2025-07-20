@@ -48,6 +48,31 @@ $grp Vehicle : "{7ACFD8FA081996F6}Prefabs/Vehicles/Wheeled/TIGR/PKP/GAZ_TIGR_v2_
   angleZ 0.237
   m_sAttachmentGroupName "RF_1_0_2"
  }
+ GAZ_TIGR_v2_PKM_1P3 {
+  coords 2661.083 10 3337.717
+  angleY 122.921
+  m_sAttachmentGroupName "RF_3_0_4"
+ }
+ GAZ_TIGR_v2_PKM_1P8 {
+  coords 2653.259 9.999 3342.783
+  angleY 122.921
+  m_sAttachmentGroupName "RF_3_0_3"
+ }
+ GAZ_TIGR_v2_PKM_1P9 {
+  coords 2644.578 10 3348.404
+  angleY 122.921
+  m_sAttachmentGroupName "RF_3_0_2"
+ }
+ GAZ_TIGR_v2_PKM_1P10 {
+  coords 2635.531 9.999 3354.262
+  angleY 122.921
+  m_sAttachmentGroupName "RF_3_0_1"
+ }
+ GAZ_TIGR_v2_PKM_1P11 {
+  coords 2626.55 9.999 3360.077
+  angleY 122.921
+  m_sAttachmentGroupName "RF_3_0_0"
+ }
 }
 $grp Vehicle : "{7BD282AF716ED639}Prefabs/Vehicles/Helicopters/Mi8MT/Mi8MT_armed.et" {
  Mi8MT_armed1 {
@@ -326,5 +351,27 @@ $grp SCR_AIGroup : "{8E561C342F17E360}Prefabs/Groups/OPFOR/DRG_Group_RHS_RF_MSV_
   m_bDeleteWhenEmpty 0
   m_bDeleteIfNoPlayer 0
   m_sCustomNameSet "#DRG-Sq-RifleSquad"
+ }
+ RF_3_0_4 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    DefaultFormation ""
+   }
+   PS_GroupCallsignAssigner "{62387672B7C7F14A}" {
+    m_iCompanyCallsign 3
+    m_iSquadCallsign 4
+   }
+  }
+  coords 2659.783 10 3331.316
+  angleX 0.476
+  angleY -147.897
+  angleZ -0.758
+  m_faction "RHS_AFRF"
+  m_aUnitPrefabSlots {
+   "{BC56CF0102B189DB}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_SL.et" "{C24587D5FF9E994E}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Rifleman.et" "{E02F7C3171C2735D}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Rifleman_2.et" "{DC0B403FC78242E2}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_GL.et" "{B8608D7D947C984A}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Debolition.et" "{7F6DBCE3E5DB83AA}Prefabs/Characters/Factions/OPFOR/RHS_AFRF/Sabotage/drg_Role_RHS_AFRF_Sabotage_Sniper.et"
+  }
+  m_bDeleteWhenEmpty 0
+  m_bDeleteIfNoPlayer 0
+  m_sCustomNameSet "#DRG-Sq-ReconSquad"
  }
 }

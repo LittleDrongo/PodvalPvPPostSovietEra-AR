@@ -7,7 +7,7 @@ GenericEntity : "{6A3CDCFB475BF1B2}Prefabs/System/DRG_CriticalLossPrefab.et" {
     LossLogic "{6532E5DED29C4A89}" {
      m_aLosses {
       FactionLoss "{6532E5DEDE2C5E01}" {
-       m_iCriticalLossCount 4
+       m_iCriticalLossCount 0
        m_sFactionKey "RHS_USAF"
       }
      }

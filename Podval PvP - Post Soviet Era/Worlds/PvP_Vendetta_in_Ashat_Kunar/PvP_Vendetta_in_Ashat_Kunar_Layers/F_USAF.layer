@@ -9,7 +9,7 @@ $grp SCR_AIGroup : "{12488ED8CAB8DCDC}Prefabs/Groups/BLUFOR/DRG_Group_RHS_USAF_S
   coords 1124.686 238.222 951.986
   angleY 119.007
   m_aUnitPrefabSlots {
-   "{EA76D6411B37A155}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Officer.et" "{893533817C25A8B0}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Medic.et"
+   "{EA76D6411B37A155}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Officer.et"
   }
   m_bDeleteWhenEmpty 0
   m_sCustomNameSet "#DRG-Sq-PlatoonHQ"
@@ -57,29 +57,33 @@ $grp SCR_AIGroup : "{12488ED8CAB8DCDC}Prefabs/Groups/BLUFOR/DRG_Group_RHS_USAF_S
   coords 1131.525 238.273 954.604
   angleY -63.178
  }
-}
-$grp SCR_AIGroup : "{D746D84A25FC281F}Prefabs/Groups/BLUFOR/drg_Group_USAF_MachineGunSquad.et" {
- USAF_3_0_0 {
+ USAF_VIP_0_0_1 {
   components {
    PS_GroupCallsignAssigner "{624D56B5FDC6118E}" {
-    m_iCompanyCallsign 3
-   }
-  }
-  coords 1116.708 237.426 927.255
-  angleY -63.491
- }
- USAF_3_0_1 {
-  components {
-   PS_GroupCallsignAssigner "{624D56B5FDC6118E}" {
-    m_iCompanyCallsign 3
+    m_iCompanyCallsign 0
     m_iSquadCallsign 1
    }
   }
-  coords 1121.096 237.426 936.052
-  angleY -63.491
+  coords 1128.191 238.049 949.393
+  angleY -65.076
   m_aUnitPrefabSlots {
-   "{D13AD1B898B26305}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Sniper_M107.et" "{6C9433CEFA84F73C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Spotter_M107.et" "{D82203FB9DC2F6C6}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_RTO.et"
+   "{CAEC71D22522F44A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Officer_VIP.et"
   }
-  m_sCustomNameSet "#DRG-Sq-SniperTeam"
+  m_bDeleteWhenEmpty 0
+  m_sCustomNameSet "Занять обязательно"
  }
+}
+SCR_AIGroup USAF_3_0_1 : "{D746D84A25FC281F}Prefabs/Groups/BLUFOR/drg_Group_USAF_MachineGunSquad.et" {
+ components {
+  PS_GroupCallsignAssigner "{624D56B5FDC6118E}" {
+   m_iCompanyCallsign 3
+   m_iSquadCallsign 1
+  }
+ }
+ coords 1121.096 237.426 936.052
+ angleY -63.491
+ m_aUnitPrefabSlots {
+  "{D13AD1B898B26305}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Sniper_M107.et" "{6C9433CEFA84F73C}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Spotter_M107.et" "{26AD8B80E8C02793}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_Marksman.et" "{D82203FB9DC2F6C6}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/USAF/drg_Role_RHS_USAF_RTO.et"
+ }
+ m_sCustomNameSet "#DRG-Sq-SniperTeam"
 }
