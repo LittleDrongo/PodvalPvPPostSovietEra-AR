@@ -1,0 +1,158 @@
+$grp StaticModelEntity : "{33AA798F78BD6191}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/drg_ReplayTower_TKR.et" {
+ REPLAY_TOWER_1 {
+  coords 4420.542 454.157 5031.434
+  {
+   GenericEntity {
+    ID "65EE6D15AB8813E5"
+    components {
+     BaseRadioComponent "{5184E88B11518473}" {
+      Transceivers {
+       BaseTransceiver "{5184E88B13E16492}" {
+        "Transmitting Range" 5000
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+ REPLAY_TOWER_2 {
+  coords 2270.877 557.135 8644.379
+ }
+ REPLAY_TOWER_3 {
+  coords 9924.815 531.729 7433.689
+ }
+ REPLAY_TOWER_4 {
+  coords 1043.709 572.271 4635.215
+ }
+ REPLAY_TOWER_5 {
+  coords 6503.933 345.941 8192.77
+ }
+ REPLAY_TOWER_6 {
+  coords 8097.817 640.129 6218.441
+ }
+ REPLAY_TOWER_7 {
+  coords 10717.09 826.709 4214.65
+ }
+ REPLAY_TOWER_8 {
+  coords 5418.492 375.792 6870.535
+ }
+ REPLAY_TOWER_9 {
+  coords 1734.724 541.362 6742.206
+ }
+ REPLAY_TOWER_10 {
+  coords 7871.814 540.422 5304.305
+ }
+}
+$grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
+ RELAY_MARKER_1 {
+  coords 4420.426 454.136 5031.325
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_2 {
+  coords 2270.761 557.114 8644.271
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_3 {
+  coords 9924.699 531.708 7433.58
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_4 {
+  coords 1043.592 572.25 4635.106
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_5 {
+  coords 6503.817 345.92 8192.66
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_6 {
+  coords 8097.701 640.108 6218.332
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_7 {
+  coords 10716.974 826.688 4214.541
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_8 {
+  coords 5418.375 375.771 6870.426
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_9 {
+  coords 1734.608 541.341 6742.097
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+ RELAY_MARKER_10 {
+  coords 7871.698 540.401 5304.196
+  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
+  m_sImageSetGlow ""
+  m_MarkerColor 0 0.475 0.119 1
+  m_sQuadName "Slot_Antenna"
+  m_fWorldSize 15
+  m_bUseWorldScale 0
+  m_bVisibleForEmptyFaction 1
+  m_bShowForAnyFaction 1
+ }
+}
