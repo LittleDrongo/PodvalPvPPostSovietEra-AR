@@ -253,6 +253,11 @@ Vehicle Ural4320_tanker_tan1 : "{CA8ADC0AF10CF541}Prefabs/Vehicles/Wheeled/Ural4
  angleY -40.285
 }
 SCR_AIGroup USSR_5_0_0 : "{EC67192DCB776591}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_DemolitionTeam.et" {
+ components {
+  PS_GroupCallsignAssigner "{645CD4E7EB3340D4}" {
+   m_iCompanyCallsign 5
+  }
+ }
  coords 6046.234 109.313 11759.332
  angleY -43.984
 }

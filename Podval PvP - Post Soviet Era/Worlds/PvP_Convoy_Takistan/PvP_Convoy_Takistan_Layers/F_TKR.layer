@@ -121,7 +121,7 @@ $grp SCR_AIGroup : "{FD47A0A8CE51D3BE}Prefabs/Groups/INDFOR/TGK/drg_TKR_RifleSqu
  TKR_4_0_2 {
   components {
    PS_GroupCallsignAssigner "{65154C1E6C2E8928}" {
-    m_iSquadCallsign 1
+    m_iSquadCallsign 2
    }
   }
   coords 2423.223 546.766 6626.516
