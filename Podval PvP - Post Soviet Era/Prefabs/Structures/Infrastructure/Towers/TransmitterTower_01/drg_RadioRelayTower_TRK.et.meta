@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{33AA798F78BD6191}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/drg_ReplayTower_TKR.et"
+ Name "{4D6EF868C5113C11}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/drg_RadioRelayTower_TRK.et"
  Configurations {
   EntityTemplateResourceClass PC {
   }

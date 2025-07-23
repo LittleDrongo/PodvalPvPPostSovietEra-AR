@@ -1,30 +1,30 @@
-$grp StaticModelEntity : "{33AA798F78BD6191}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/drg_ReplayTower_TKR.et" {
- REPLAY_TOWER_1 {
-  coords 4420.542 454.157 5031.434
+$grp StaticModelEntity : "{4D6EF868C5113C11}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/drg_RadioRelayTower_TRK.et" {
+ {
+  coords 4420.417 453.629 5030.89
  }
- REPLAY_TOWER_2 {
-  coords 2270.877 557.135 8644.379
+ {
+  coords 2269.985 556.356 8644.698
  }
- REPLAY_TOWER_3 {
-  coords 9924.815 531.729 7433.689
+ {
+  coords 9924.768 531.732 7433.555
  }
- REPLAY_TOWER_4 {
-  coords 1043.709 572.271 4635.215
+ {
+  coords 1044.051 572.293 4635.419
  }
- REPLAY_TOWER_5 {
-  coords 6503.933 345.941 8192.77
+ {
+  coords 6503.876 345.936 8192.61
  }
- REPLAY_TOWER_6 {
-  coords 8097.817 640.129 6218.441
+ {
+  coords 8102.092 640.054 6215.325
  }
- REPLAY_TOWER_7 {
-  coords 10717.09 826.709 4214.65
+ {
+  coords 10717.234 826.679 4214.052
  }
- REPLAY_TOWER_8 {
-  coords 5418.492 375.792 6870.535
+ {
+  coords 5418.389 375.801 6870.571
  }
- REPLAY_TOWER_9 {
-  coords 1734.724 541.362 6742.206
+ {
+  coords 1734.36 541.574 6740.752
  }
 }
 $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
