@@ -49,7 +49,7 @@ $grp SCR_AIGroup : "{2B2FE71BC66E6041}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_R
   coords 6091.336 109.32 11832.093
   angleY 135.579
   m_aUnitPrefabSlots {
-   "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et" "{B0E9B83A7D6563B4}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_HeliCrew.et"
+   "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et"
   }
  }
  USSR_4_0_1 {
@@ -62,7 +62,7 @@ $grp SCR_AIGroup : "{2B2FE71BC66E6041}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_R
   coords 6069.81 109.32 11810.938
   angleY 135.579
   m_aUnitPrefabSlots {
-   "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et" "{B0E9B83A7D6563B4}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_HeliCrew.et"
+   "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et"
   }
  }
  USSR_4_0_2 {
@@ -75,7 +75,7 @@ $grp SCR_AIGroup : "{2B2FE71BC66E6041}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_R
   coords 6048.786 109.32 11789.695
   angleY 135.579
   m_aUnitPrefabSlots {
-   "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et" "{B0E9B83A7D6563B4}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_HeliCrew.et"
+   "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et"
   }
  }
  USSR_4_0_3 {
@@ -88,7 +88,7 @@ $grp SCR_AIGroup : "{2B2FE71BC66E6041}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_R
   coords 6027.448 109.32 11768.522
   angleY 135.579
   m_aUnitPrefabSlots {
-   "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et" "{B0E9B83A7D6563B4}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_HeliCrew.et"
+   "{AE13A3EF3D1D4508}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot_Radio.et" "{8E1DE06D8C1B0EDC}Prefabs/Characters/Factions/OPFOR/USSR_Army/drg_Character_USSR_Pilot.et"
   }
  }
 }
@@ -218,7 +218,7 @@ $grp SCR_AIGroup : "{C1F556377EBDFCAF}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_R
   coords 6054.568 109.313 11771.52
   angleY -46.604
   m_aUnitPrefabSlots {
-   "{C6960782BEAA6B07}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SL.et" "{072F75BB5AA0200E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SeniorScout.et" "{B6FE3479F0ED092C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_RTO.et" "{82040C2F7734F9B3}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sapper.et" "{82040C2F7734F9B3}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sapper.et" "{EC89944E401BB659}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sniper.et"
+   "{C6960782BEAA6B07}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SL.et" "{072F75BB5AA0200E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SeniorScout.et" "{B6FE3479F0ED092C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_RTO.et" "{AB1EF69D8C2EC914}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_AR.et" "{ACD9575EDC2C034D}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Medic.et" "{EC89944E401BB659}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sniper.et"
   }
  }
  USSR_1_0_1 {
@@ -231,7 +231,7 @@ $grp SCR_AIGroup : "{C1F556377EBDFCAF}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_R
   coords 6063.046 109.313 11780.768
   angleY -46.645
   m_aUnitPrefabSlots {
-   "{C6960782BEAA6B07}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SL.et" "{072F75BB5AA0200E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SeniorScout.et" "{B6FE3479F0ED092C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_RTO.et" "{82040C2F7734F9B3}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sapper.et" "{82040C2F7734F9B3}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sapper.et" "{EC89944E401BB659}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sniper.et"
+   "{C6960782BEAA6B07}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SL.et" "{072F75BB5AA0200E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SeniorScout.et" "{B6FE3479F0ED092C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_RTO.et" "{AB1EF69D8C2EC914}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_AR.et" "{ACD9575EDC2C034D}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Medic.et" "{EC89944E401BB659}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sniper.et"
   }
  }
  USSR_1_0_2 {
@@ -244,54 +244,25 @@ $grp SCR_AIGroup : "{C1F556377EBDFCAF}Prefabs/Groups/OPFOR/Campaign/S_USSR_drg_R
   coords 6071.026 109.313 11789.009
   angleY -43.452
   m_aUnitPrefabSlots {
-   "{C6960782BEAA6B07}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SL.et" "{072F75BB5AA0200E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SeniorScout.et" "{B6FE3479F0ED092C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_RTO.et" "{82040C2F7734F9B3}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sapper.et" "{82040C2F7734F9B3}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sapper.et" "{EC89944E401BB659}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sniper.et"
+   "{C6960782BEAA6B07}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SL.et" "{072F75BB5AA0200E}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_SeniorScout.et" "{B6FE3479F0ED092C}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_RTO.et" "{AB1EF69D8C2EC914}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_AR.et" "{ACD9575EDC2C034D}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Medic.et" "{EC89944E401BB659}Prefabs/Characters/Factions/OPFOR/USSR_Army/Recon/drg_Character_USSR_Recon_Sniper.et"
   }
- }
-}
-$grp GenericEntity : "{C63BFEEA9DE1CF26}Prefabs/MP/Campaign/SupplyDepots/SupplyCache_S_FIA_05_Campaign.et" {
- {
-  coords 6181.047 109.312 11698.551
-  angleY 135.138
- }
- {
-  coords 6199.875 109.313 11716.984
-  angleY 135.138
- }
- {
-  coords 6207.789 109.313 11725.947
-  angleY 135.138
- }
- {
-  coords 6218.469 109.312 11736.422
-  angleY 135.138
- }
- {
-  coords 6226.796 109.313 11745.852
-  angleY 135.138
- }
- {
-  coords 6235.972 109.313 11755.042
-  angleY 135.138
- }
- {
-  coords 6245.417 109.312 11764.866
-  angleY 135.138
- }
- {
-  coords 6255.225 109.313 11775.325
-  angleY 135.138
- }
- {
-  coords 6264.689 109.312 11784.103
-  angleY 135.138
  }
 }
 Vehicle Ural4320_tanker_tan1 : "{CA8ADC0AF10CF541}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_tanker_tan.et" {
  coords 6098.712 109.313 11695.843
  angleY -40.285
 }
+SCR_AIGroup USSR_5_0_0 : "{EC67192DCB776591}Prefabs/Groups/OPFOR/Campaign/F_USSR_drg_DemolitionTeam.et" {
+ coords 6046.234 109.313 11759.332
+ angleY -43.984
+}
 Vehicle Ural4320_command_tan1 : "{F0383F4EEF087C59}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_command_tan.et" {
  coords 6265.245 109.313 11757.311
  angleY -132.492
  m_sAttachmentGroupName "USSR_0_0_0"
+}
+Vehicle Ural4320_engineer_mine1 : "{FB95FB39F0AE06E9}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_engineer_mine.et" {
+ coords 6047.93 109.313 11756.94
+ angleY 44.728
+ m_sAttachmentGroupName "USSR_5_0_0"
 }

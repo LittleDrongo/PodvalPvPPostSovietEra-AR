@@ -25,7 +25,10 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
   "— Ручная радиостанция одноканальная: 500 м."\
   "— Ручная радиостанция двуканальная: 1 500 м."\
   "— Носимая радиостанция (на спине): 5 000 м."\
-  "— Ретрансляторы и КШМ: 10 000 м."
+  "— Ретрансляторы и КШМ: 10 000 м."\
+  ""\
+  ""\
+  "."
   m_bEmptyFactionVisibility 1
   m_bShowForAnyFaction 1
   m_iOrder 1
