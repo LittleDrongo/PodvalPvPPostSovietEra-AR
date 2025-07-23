@@ -108,6 +108,9 @@ $grp SCR_AIGroup : "{FD47A0A8CE51D3BE}Prefabs/Groups/INDFOR/TGK/drg_TKR_RifleSqu
  TKR_4_0_0 {
   coords 4626.062 516.369 7336.201
   angleY 5.551
+  m_aUnitPrefabSlots {
+   "{60B44C26D40826FA}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_SL.et" "{09E76FAD9039185A}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_Rifleman_Rand.et" "{1D2190752262203D}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_RTO.et"
+  }
  }
  TKR_4_0_1 {
   components {
@@ -117,6 +120,9 @@ $grp SCR_AIGroup : "{FD47A0A8CE51D3BE}Prefabs/Groups/INDFOR/TGK/drg_TKR_RifleSqu
   }
   coords 9111.55 399.293 7861.9
   angleY 5.551
+  m_aUnitPrefabSlots {
+   "{60B44C26D40826FA}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_SL.et" "{09E76FAD9039185A}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_Rifleman_Rand.et" "{1D2190752262203D}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_RTO.et"
+  }
  }
  TKR_4_0_2 {
   components {
@@ -128,6 +134,9 @@ $grp SCR_AIGroup : "{FD47A0A8CE51D3BE}Prefabs/Groups/INDFOR/TGK/drg_TKR_RifleSqu
   angleX 8.189
   angleY 6.944
   angleZ 9.686
+  m_aUnitPrefabSlots {
+   "{60B44C26D40826FA}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_SL.et" "{09E76FAD9039185A}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_Rifleman_Rand.et" "{1D2190752262203D}Prefabs/Characters/Factions/INDFOR/TKR/drg_Character_Ses_TKR_RTO.et"
+  }
  }
  TKR_1_0_1 {
   components {
