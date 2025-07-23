@@ -17,7 +17,7 @@ StaticModelEntity : "{EBD993D9DBD367D0}Prefabs/Structures/Infrastructure/Towers/
     BaseRadioComponent "{5184E88B11518473}" {
      Transceivers {
       BaseTransceiver "{5184E88B13E16492}" {
-       "Transmitting Range" 8000
+       "Transmitting Range" 10000
       }
      }
     }

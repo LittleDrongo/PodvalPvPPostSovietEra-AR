@@ -1,20 +1,6 @@
 $grp StaticModelEntity : "{33AA798F78BD6191}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/drg_ReplayTower_TKR.et" {
  REPLAY_TOWER_1 {
   coords 4420.542 454.157 5031.434
-  {
-   GenericEntity {
-    ID "65EE6D15AB8813E5"
-    components {
-     BaseRadioComponent "{5184E88B11518473}" {
-      Transceivers {
-       BaseTransceiver "{5184E88B13E16492}" {
-        "Transmitting Range" 5000
-       }
-      }
-     }
-    }
-   }
-  }
  }
  REPLAY_TOWER_2 {
   coords 2270.877 557.135 8644.379
@@ -39,9 +25,6 @@ $grp StaticModelEntity : "{33AA798F78BD6191}Prefabs/Structures/Infrastructure/To
  }
  REPLAY_TOWER_9 {
   coords 1734.724 541.362 6742.206
- }
- REPLAY_TOWER_10 {
-  coords 7871.814 540.422 5304.305
  }
 }
 $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
@@ -135,17 +118,6 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
  }
  RELAY_MARKER_9 {
   coords 1734.608 541.341 6742.097
-  m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
-  m_sImageSetGlow ""
-  m_MarkerColor 0 0.475 0.119 1
-  m_sQuadName "Slot_Antenna"
-  m_fWorldSize 15
-  m_bUseWorldScale 0
-  m_bVisibleForEmptyFaction 1
-  m_bShowForAnyFaction 1
- }
- RELAY_MARKER_10 {
-  coords 7871.698 540.401 5304.196
   m_sImageSet "{F7E8D4834A3AFF2F}UI/Imagesets/Conflict/conflict-icons-bw.imageset"
   m_sImageSetGlow ""
   m_MarkerColor 0 0.475 0.119 1
