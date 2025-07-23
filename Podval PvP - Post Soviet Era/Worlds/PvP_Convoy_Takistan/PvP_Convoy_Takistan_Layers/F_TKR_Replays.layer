@@ -1,32 +1,3 @@
-$grp StaticModelEntity : "{4D6EF868C5113C11}Prefabs/Structures/Infrastructure/Towers/TransmitterTower_01/drg_RadioRelayTower_TRK.et" {
- {
-  coords 4420.417 453.629 5030.89
- }
- {
-  coords 2269.985 556.356 8644.698
- }
- {
-  coords 9924.768 531.732 7433.555
- }
- {
-  coords 1044.051 572.293 4635.419
- }
- {
-  coords 6503.876 345.936 8192.61
- }
- {
-  coords 8102.092 640.054 6215.325
- }
- {
-  coords 10717.234 826.679 4214.052
- }
- {
-  coords 5418.389 375.801 6870.571
- }
- {
-  coords 1734.36 541.574 6740.752
- }
-}
 $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker.et" {
  RELAY_MARKER_1 {
   coords 4420.426 454.136 5031.325
