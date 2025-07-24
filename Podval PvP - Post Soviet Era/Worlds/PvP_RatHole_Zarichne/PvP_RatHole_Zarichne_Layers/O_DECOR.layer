@@ -1,3 +1,37 @@
+GenericEntity {
+ components {
+  BaseSlotComponent "{61DAE7D95BEA59CC}" {
+   Enabled 0
+   AttachType EntitySlotInfo "{51126E65BF397116}" {
+    PivotID "Socket_BMP1_door"
+    Angles 0 175.5 0
+   }
+   EntityPrefab "{40EB9EC77389727C}Prefabs/Props/Wrecks/BMP1_door.et"
+  }
+  BaseSlotComponent "{61DAE7D95BEA59E8}" {
+   AttachType EntitySlotInfo "{51126E66FDA4BB72}" {
+    PivotID "Socket_BMP1_turret"
+   }
+   EntityPrefab "{284EEB32BE47DCB2}Prefabs/Props/Wrecks/BMP1_turret.et"
+   DisablePhysicsInteraction 0
+  }
+  MeshObject "{61DAE7D95BEA5970}" {
+   Object "{F0C50CEECEB16029}Assets/Props/Wrecks/BMP1/BMP1_wreck_hull.xob"
+   LODFactors {
+    1
+   }
+  }
+  RigidBody "{61DAE7D95BEA588A}" {
+   ModelGeometry 1
+   Static 1
+  }
+ }
+ Flags 1027
+ coords 2127.768 7.444 2300.923
+ angleX -1.776
+ angleY -25.344
+ angleZ -1.784
+}
 $grp GenericEntity : "{795552B887CD50E7}Prefabs/Props/Industrial/ConcretePanel_01_stack.et" {
  {
   coords 3340.219 22.531 2643.787
@@ -150,6 +184,50 @@ $grp GenericEntity : "{898B81D2B9E9B2DC}Prefabs/Compositions/Misc/FreeRoamBuildi
   angleY 92.128
   angleZ -1.043
  }
+ {
+  coords 3325.947 22.656 2616.824
+  angleY 1.825
+ }
+ {
+  coords 3328.288 22.656 2616.749
+  angleY 1.825
+ }
+ {
+  coords 3330.77 22.656 2607.132
+  angleY 1.825
+ }
+ {
+  coords 3328.208 22.656 2607.214
+  angleY 1.825
+ }
+ {
+  coords 3329.399 22.656 2628.607
+  angleY 1.825
+ }
+ {
+  coords 3329.4 22.656 2628.646
+  angleY 1.825
+ }
+ {
+  coords 3327.99 22.656 2625.167
+  angleY -92.207
+ }
+ {
+  coords 3336.985 23.745 2599.625
+  angleX 1.134
+  angleY 92.039
+  angleZ 2.464
+ }
+ {
+  coords 3334.059 23.791 2599.695
+  angleX -3.774
+  angleY 92.128
+  angleZ -1.043
+ }
+ {
+  coords 3338.106 22.656 2618.764
+  angleY 6.422
+ }
 }
 $grp GenericEntity : "{A0A4E4587FEABF83}Prefabs/Compositions/Misc/FreeRoamBuilding/BarbedTapeKnifeRest_S_US_01.et" {
  {
@@ -196,19 +274,26 @@ $grp GenericEntity : "{C1B7AB00FF7C1424}Prefabs/Props/Industrial/ConcretePanel_0
   coords 3340.334 25.283 2618.365
   angleY 1.206
  }
+ {
+  coords 3335.685 26.179 2602.924
+  angleX 0.345
+  angleY 1.209
+  angleZ 0.489
+ }
 }
 $grp GenericEntity : "{C7DA8607C3B3057E}Prefabs/Compositions/Misc/FreeRoamBuilding/SandbagWallBurlap_S_USSR_01.et" {
  {
-  coords 3329.296 22.718 2604.409
+  coords 3329.299 22.718 2604.251
   angleY 2.101
   scale 1.13
  }
  {
-  coords 3345.131 22.767 2614.532
-  angleY -87.15
+  coords 3345.14 22.806 2614.531
+  angleX -9.637
+  angleY -85.095
  }
  {
-  coords 3329.614 22.839 2642.859
+  coords 3329.614 22.839 2642.599
  }
  {
   coords 3324.296 22.97 2637.889
